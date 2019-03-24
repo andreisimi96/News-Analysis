@@ -1,0 +1,5 @@
+Administraţia Naţională de Meteorologie a emis luni dimineaţă avertizare nowcasting de tip cod galben de ceaţă pentru judeţul Arad.
+Valabil de la : 18-06-2018 ora 9:00 până la : 18-06-2018 ora 10:00
+Județul Arad: Arad, Vladimirescu, Vinga, Șagu, Fântânele, Livada, Felnac, Zădăreni, Frumușeni;
+Județul Timiş: Timișoara, Recaș, Buziaș, Deta, Ciacova, Giarmata, Ghiroda, Sânandrei, Orțișoara, Giroc, Moșnița Nouă, Jebel, Liebling, Racovița, Denta, Topolovățu Mare, Sacoșu Turcesc, Pișchia, Tormac, Șag, Dumbrăvița, Voiteg, Mașloc, Birda, Chevereșu Mare, Remetea Mare, Fibiș, Pădureni, Nițchidorf, Parța, Bucovăț, Bogda;
+Se vor semnala : ceață care determină scăderea vizibilității local sub 200 m și izolat sub 50 m.

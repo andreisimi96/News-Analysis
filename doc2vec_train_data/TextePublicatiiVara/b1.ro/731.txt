@@ -1,0 +1,6 @@
+Casa Naţională de Pensii Publice a lansat o aplicație care să ajute aflarea vârstei de pensionare la termen și anticipată.
+Aplicația prin care se poate afla anul și luna în care pot fi depuse cererea de pensionare, dar și la ce vârstă este posibilă pensionarea  anticipat poate fi accesată aici .
+Legislația pensiilor de stat din România stabilește existența a două categorii de pensii anticipate: pensia anticipată și pensia anticipată parțială.
+Pensia anticipată poate fi obținută, conform Legii pensiilor de stat, cu maximum cinci ani înaintea împlinirii vârstei standard de pensionare, însă numai dacă este realizat un stagiu de cotizare cu minimum opt ani mai mare decât stagiul complet de cotizare.
+În cazul pensiei anticipate parțiale, aceasta se poate obține tot cu maximum cinci ani înaintea împlinirii vârstei standard de pensionare, însă este necesară doar realizarea stagiului complet de cotizare
+Vârsta-standard de pensionare este de 65 de ani pentru bărbați și de 63 de ani pentru femei. Stagiul minim de cotizare (adică vechimea în muncă recunoscută legal) este de 15 ani, iar stagiul complet de cotizare este de 35 de ani, ambele indeferent de sex.

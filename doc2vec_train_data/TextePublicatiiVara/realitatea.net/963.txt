@@ -1,0 +1,35 @@
+2 ore 51 minute
+Administraţia Naţională de Meteorologie a emis, astăzi, atenţionări nowcasting cod galben de vreme rea, valabile pentru mai multe zone din ţară.
+Valabil de la : 05-06-2018 ora 15:50 până la : 05-06-2018 ora 17:00
+In zona : Județul Prahova: Filipeștii de Pădure, Ariceștii Rahtivani, Filipeștii de Târg, Florești, Măgureni, Poienarii Burchii, Șirna, Mănești, Cocorăștii Colț;
+Județul Dâmboviţa: I. L. Caragiale, Cornești, Răcari, Bucșani, Crevedia, Cojasca, Ciocănești, Tărtășești, Dărmănești, Finta, Conțești, Niculești, Brezoaele, Dobra, Vlădeni, Butimanu, Slobozia Moară, Cornățelu, Bilciurești;
+Se vor semnala : frecvente descărcări electrice, averse ce vor cumula local 20...25 l/mp, intensificări de scurtă durată ale vântului, grindină de dimensiuni mici
+Valabil de la : 05-06-2018 ora 15:35 până la : 05-06-2018 ora 16:30
+In zona : Județul Cluj: Poieni, Negreni, Măguri-Răcătău, Mărgău, Săcuieu, Ciucea, Beliș;
+Județul Cluj: zona de munte de peste cota 1800 m;
+Se vor semnala : frecvente descărcări electrice, averse ce vor cumula local 20...25 l/mp, intensificări de scurtă durată ale vântului, grindină de dimensiuni mici
+Valabil de la : 05-06-2018 ora 15:30 până la : 05-06-2018 ora 16:30
+In zona : Județul Vrancea: Focșani, Mărășești, Panciu, Odobești, Vidra, Păunești, Vânători, Țifești, Bolotești, Garoafa, Vizantea-Livezi, Jariștea, Movilița, Străoane, Milcovul, Răcoasa, Gologanu, Vârteșcoiu, Fitionești, Golești, Câmpineanca, Răstoaca, Slobozia Ciorăști, Broșteni;
+Județul Neamţ: zona de munte;
+Județul Neamţ: Roznov, Borlești, Săvinești, Zănești, Podoleni, Trifești, Girov, Români, Bârgăuani, Mărgineni, Secuieni, Costișa, Moldoveni, Dochia, Făurei, Ruginoasa;
+Se vor semnala : Frecvente descărcări electrice, averse ce vor atinge și depăși 25 l/mp, grindină de mici dimensiuni.
+Fenomene asociate : Intensificări de scurtă durată ale vântului
+Valabil de la : 05-06-2018 ora 15:30 până la : 05-06-2018 ora 16:30
+In zona : Județul Bihor: Ștei, Buntești, Pietroasa, Lunca, Drăgănești, Rieni, Vașcău, Câmpani, Cărpinet, Nucet, Tărcaia, Lazuri de Beiuș, Criștioru de Jos;
+Se vor semnala : frecvente descărcări electrice, averse de ploaie care vor cumula 20-25 l/mp
+Fenomene asociate : grindină de dimensiuni mici, intensificări de scurtă durată ale vântului
+Valabil de la : 05-06-2018 ora 15:30 până la : 05-06-2018 ora 17:00
+In zona : Județul Constanta: Medgidia, Cobadin, Cogealac, Mircea Vodă, Crucea, Peștera, Chirnogeni, Deleni, Adamclisi, Saligny, Pantelimon, Tortoman, Siliștea, Saraiu, Vulturu;
+Județul Constanta: zona de litoral;
+Județul Tulcea: Tulcea, Babadag, Sarichioi, Isaccea, Jurilovca, Baia, Niculițel, Topolog, Somova, Cerna, Valea Nucarilor, Frecăței, Murighiol, Mihail Kogălniceanu, Casimcea, Slava Cercheză, Nalbant, Mihai Bravu, Ceamurlia de Jos, Izvoarele, Stejaru, Nufăru, Ciucurova, Beștepe, Dorobanțu, Beidaud, Horia, Valea Teilor, Hamcearca, Maliuc, Ceatalchioi;
+Se vor semnala : - frecvente descărcări electrice, grindină de mici dimensiuni, intensificări de scurtă durată ale vântului ce pot lua aspect de vijelie, averse ce vor depăsi local 25- 30 l/mp.
+Valabil de la : 05-06-2018 ora 15:20 până la : 05-06-2018 ora 16:30
+In zona : Județul Argeş: Topoloveni, Bogați, Priboieni, Beleți-Negrești, Hârtiești, Dobrești, Boțești;
+Județul Dâmboviţa: Târgoviște, Dragomirești, Voinești, Tătărani, Ludești, Mănești, Ulmi, Cândești, Malu cu Flori;
+Se vor semnala : frecvente descărcări electrice, averse ce vor cumula local 20...25 l/mp, intensificări de scurtă durată ale vântului, grindină de dimensiuni mici
+Valabil de la : 05-06-2018 ora 14:30 până la : 05-06-2018 ora 17:00
+In zona : Județul Constanta: Medgidia, Cobadin, Cogealac, Mircea Vodă, Crucea, Peștera, Chirnogeni, Deleni, Adamclisi, Saligny, Pantelimon, Tortoman, Siliștea, Saraiu, Vulturu;
+Județul Constanta: zona de litoral;
+Județul Tulcea: Tulcea, Babadag, Sarichioi, Isaccea, Jurilovca, Baia, Niculițel, Topolog, Somova, Cerna, Valea Nucarilor, Frecăței, Murighiol, Mihail Kogălniceanu, Casimcea, Slava Cercheză, Nalbant, Mihai Bravu, Ceamurlia de Jos, Izvoarele, Stejaru, Nufăru, Ciucurova, Beștepe, Dorobanțu, Beidaud, Horia, Valea Teilor, Hamcearca, Maliuc, Ceatalchioi;
+Se vor semnala : - frecvente descărcări electrice, grindină de mici dimensiuni, intensificări de scurtă durată ale vântului ce pot lua aspect de vijelie, averse ce vor depăsi local 25- 30 l/mp.
+Citeşte totul despre: meteo

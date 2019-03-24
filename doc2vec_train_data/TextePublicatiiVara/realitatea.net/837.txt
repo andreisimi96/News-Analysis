@@ -1,0 +1,6 @@
+Microsoft Corp. a anunţat luni că va cumpăra site-ul dedicat dezvoltării de software-uri GitHub, într-o tranzacţie care s-ar ridica la 7,5 miliarde de dolari, afacerea urmând să fie încheiată la finalul anului calendaristic.
+Microsoft. GitHub furnizează instrumente de codificare pentru dezvoltatori şi se autointitulează drept cea mai mare companie de dezvoltare a software-urilor din lume, cu peste 28 de milioane de dezvoltatori care îi utilizează platforma.
+„Prin alianţa cu GitHub ne întărim angajamentul faţă de libertatea, deschiderea şi inovaţia dezvoltatorilor”, a declarat directorul executiv al Microsoft, Satya Nadella.
+După finalizarea tranzacţiei, Nat Friedman, în prezent corporate vice president, developer services la Microsoft, va prelua funcţia de şef executiv al companiei GitHub din San Francisco, iar actualul CEO al GitHub, Chris Wanstrath, va deveni tehnician pentru Microsoft, anunţă Reuters.
+Detaliile acordului şi impactul asupra comunităţii de programatori de pe GitHub nu au fost încă anunţate.
+GitHub este un serviciu de găzduire web pentru proiecte de dezvoltare a software-ului care utilizează sistemul de control al versiunilor Git. Platforma oferă planuri tarifare pentru depozite private şi conturi gratuite pentru proiecte open source. Site-ul a fost lansat în 2008 de către Tom Preston-Werner, Chris Wanstrath, şi PJ Hyett.

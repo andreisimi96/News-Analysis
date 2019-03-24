@@ -1,0 +1,9 @@
+Uber încearcă să obțină un brevet de invenție pentru un algoritm care folosește inteligența artificială și poate determina dacă pasagerul care efectuează o comandă este în stare de ebrietate. În plus, programul le va transmite șoferilor și cât de beat este viitorul pasager.
+Foto: Guliver/Getty Images
+Sistemul care are la baza inteligența artificială va putea spune cât de beat este un pasager din felul în care acesta ține telefonul. Va studia și prelucra date precum: din câte mișcări reușești să deschizi aplicația, în ce zonă atingi ecranul telefonului, cât de repede mergi sau cât timp îți ia să comanzi o cursă.
+Dacă sistemul detectează un comportament care nu este în limitele normalului respectivului user îl va avertiza pe șofer, care poate refuza cursa.
+Uber lucrează și la o modalitate prin care șoferii în stare de ebrietate să beneficieze de serviciile companiei, însă să fie preluați de șoferi care să aibă experiență cu pasageri beți.
+Noua versiune a aplicației va analiza și date precum ora sau locul de unde se face comanda, pentru a determina dacă în zonă sunt multe baruri și momentul nopții în care un pasager le-ar putea părăsi.
+Dacă algoritmul trage concluzia că utilizatorul este sub influența băuturilor alcoolice, aplicația se va schimba automat într-o versiune mai ușor de folosit. De asemenea, va putea schimba locul comenzii și destinația, cu unele apropiate, însă mai sigure.
+Experții trag și un semnal de alarmă. Șoferii rău intenționați ar putea să vâneze pasageri în stare de ebrietate, pentru a profita de ei. Sau ar putea să evite în totalitate astfel de pasageri.
+Nu este singurul brevet depus de Uber în ultima perioadă și nu este clar dacă deja compania  a început să lucreze la o astfel de aplicație, bazată pe inteligență artificială.

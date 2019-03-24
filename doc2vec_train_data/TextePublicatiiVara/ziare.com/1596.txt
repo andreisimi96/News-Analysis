@@ -1,0 +1,7 @@
+Vineri, 08 Iunie 2018, ora 09:01
+Postarile a 14 milioane de utilizatori Facebook au putut fi vazute de oricine, desi setarile de intimitate nu prevedeau vizibilitatea publica a acestora.
+Facebook a anuntat ca un bug a modificat setarile de intimitate ale postarilor a 14 milioane de utilizatori. Astfel, in loc sa fie vizibile doar prietenilor, postarile in cauza au putut fi vazute de toata lumea.
+Conform oficialilor companiei, au fost afectate postarile publicate in perioada 18 - 27 mai. In acest moment problema este rezolvata iar setarile de intimitate au revenit la normal.
+Utilizatorii afectati vor primi o notificare pe Facebook care ii va instiinta legat de aceasta problema si le va sugera sa-si revizuiasca setarile de intimitate ale postarilor din perioada in care acestea au fost alterate de bug.
+Bug-ul a afectat setarea implicita pe care Facebook o atribuie postarilor noi. In mod normal, fara interventia utilizatorului, postarile noi sunt setate de Facebook sa poata fi vazute doar de prieteni. Bug-ul a modificat setarea de la "Prieteni" la "Public".
+Problema survine pe fondul a numeroase controverse in care gigantul american a fost implicat in ultima vreme. Dupa scandalul Cambridge Analytica, cand au fost compromise datele a 87 de milioane de utilizatori, Facebook a fost recent acuzata ca a impartit informatiile pe care le are despre utilizatorii sai cu producatorii de smartphone-uri.

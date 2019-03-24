@@ -1,0 +1,6 @@
+Compania Facebook a anunţat, joi, că un virus informatic a făcut publice mesajele postate de 14 milioane de utilizatori.
+„Am reperat un virus informatic care sugerează automat să fie făcute publice postările unor persoane”, a declarat Erin Egan, responsabilă cu datele private la Facebook .
+Efectele virusului au fost resimţite între 18 şi 27 mai, însă Facebook a reuşit să-l întrerupă la 22 mai, dar a avut nevoie de cinci zile suplimentare pentru a reuşi ca toate postările să devină private, conform Digi24.
+"Am rezolvat această problemă şi am început de joi să avertizăm persoanele afectate şi să le cerem să-şi verifice toate mesajele pe care le-au postat în această perioadă”, a subliniat Egan.
+Toţi cei 14 milioane vor fi anunţati de către Facebook privind scurgerea de informaţii private printr-o notificare în care sunt rugaţi să se logheze la o altă pagină unde vor putea vedea postările afectate de acest virus.
+Aceast situaţie vine să aducă noi controverse asupra Facebook după ce compania a fost nevoită să recunoască furtul datelor persoanale a peste 87 de milioane de utilizatori de către compania Cambridge Analytica.

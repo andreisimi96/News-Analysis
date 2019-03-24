@@ -1,0 +1,6 @@
+_twitter_sess, auth_token, lang, twid, eu_cn, personalization_id, syndication_guest_id, tfw_exp
+Nu accept fişiere cookie de publicitate/marketing personalizate
+Aceste module cookie sunt folosite de noi și alte entităţi pentru a vă oferi publicitate relevantă intereselor dumneavoastră, atât în cadrul site-ului nostru, cât și în afara acestuia.
+Vizualizarea modulelor cookie de publicitate
+- Oferirea de publicitate în site adaptată concluziilor pe care le tragem despre tine în funcţie de istoricul navigării tale în site și, în unele cazuri, în funcţie de profilul pe care îl creăm despre tine. Facem acest lucru pentru a menţine site-ul profitabil, în așa fel încât să nu percepem o taxă de accesare a site-ului de la cei care îl vizitează. - Chiar dacă astfel de module cookie nu sunt utilizate, te rugăm să reţii că ţi se vor afişa reclame pe site-ul nostru, dar acestea nu vor fi adaptate intereselor tale. Aceste reclame pot să fie adaptate în funcţie de conţinutul paginii.
+Ascunderea modulelor cookie de publicitate

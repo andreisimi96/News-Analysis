@@ -1,0 +1,4 @@
+Compania Facebook şi-a exprimat regretul după ce setările de confidenţialitate a până la 14 milioane de utilizatori Facebook au fost modificate din cauza unei defecţiuni, astfel că postările unor utilizatori ai reţelei au devenit publice pentru câteva zile în cursul lunii mai.
+Defecţiunea a afectat setarea implicită pentru postări noi, modificând-o din privat în public, începând din data de 18 mai şi până pe 22 mai, când Facebook a rezolvat problema, relatează agenţia   Dpa.
+Erin Egan, directorul Facebook responsabil de gestionarea datelor private, a transmis joi că problema a fost rezolvată şi a rugat toţi utilizatorii să-şi revizuiască postările făcute în perioada   cât a durat repararea defecţiunii.
+"Recent am descoperit un bug care în mod automat sugera postarea publică atunci când oamenii îşi creau postările pe Facebook. (...) Am dori să ne cerem scuze pentru această greşeală", a   declarat Erin Egan.

@@ -1,0 +1,14 @@
+Site-ul Ministerului Educației este nefuncțional, duminică, cu trei săptămâni înainte de examenul de Bacalaureat. De asemenea, mesajul de avertisment afișat pe pagina edu.ro conține o greșeală gramaticală.
+Cine a accesat pagina edu.ro, duminică, a primit mesajul „Acest sit este în mentenanță”. În scurtul avertisment s-a strecurat și o greșeală gramaticală: în locului cuvântului „site” este folosit, în mod greșit „sit” (n.r. peisaj sau configurația unui loc ocupat de un oraș).
+Este posibil ca accesul pe pagina Ministerului Educației să fie suspendată din motive de securitate, după ce s-a descoperit că site-ul era utilizat pentru minarea de criptomonedă.
+Reprezentanţii Centrului Naţional de Răspundere la Incidente de Securitate Cibernetică (CERT-RO) au fost sesizaţi, în cursul zilei de ieri, cu privire la o problemă de securitatea apărută la site-ului edu.ro, care ar fi avut inserat în codul sursă un script de minare de criptomonedă.
+La scurt timp, reprezentanţii Ministerului Educației au cerut, în scris, suportul specialiștilor CERT-RO pentru remedierea cât mai urgentă și investigarea problemei de securitate.
+Imediat, o echipă de la CERT-RO, cu suportul Institutului de
+Hackeri ruşi au pătruns în reţele informatice ale Guvernului german şi au furat date
+Cercetare în Informatică, a reușit să obțină acces rapid la site.
+În urma investigației, specialiștii CERT-RO au identificat și eliminat acel script problemă, care era utilizat pentru minarea de criptomonedă (CoinHive).
+Site-ul edu.ro folosea o variantă neactualizată de Drupral (software CMS – content management system), o vulnerabilitate exploatata de atacatori. Astfel, la vizitarea site-ului, unui utilizator îi era folosit procesorul dispozitivului utilizat la capacitate maximă.
+Echipa CERT-RO a identificat și eliminat liniile de cod inserate abuziv și a propus o serie de măsuri de securitate pe care Ministerul Educației, ca administrator al site-ului, trebuie să le pună în aplicare.
+Totodată, recomandarea echipei CERT-RO a fost ca accesul la site din internet să fie suspendat până la implementarea măsurilor necesare securizării.
+Pașii necesari securizării sunt în concordanță cu alerta publicată de CERT-RO în luna ianuarie, „Minarea de criptomonedă”, fiind vorba despre o nouă metodă de monetizare a atacurilor asupra site-urilor și aplicațiilor web.
+Seymour Hersh, jurnalist castigator al premiului Pulitzer

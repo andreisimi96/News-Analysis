@@ -1,0 +1,14 @@
+Luni, 04 Iunie 2018, ora 11:42
+Indicele ROBOR la trei luni, in functie de care sunt calculate dobanzile la majoritatea creditelor in lei, a crescut la 2,85%, cel mai mare nivel din octombrie 2014, potrivit datelor publicate luni de Banca Nationala a Romaniei (BNR).
+ROBOR la trei luni este indicatorul principal in functie de care se calculeaza dobanzile variabile la creditele in lei.
+Joi, indicele a crescut la 2,83%.
+A atins astfel cel mai mare nivel din 14 octombrie 2014, cand a fost 2,89%.
+Indicele a crescut accelerat incepand din 13 aprilie, cand era 2,07%.
+Totodata, indicele ROBOR la sase luni a crescut luni la 2,96%, cel mai mare nivel din 3 octombrie 2014, cand a fost 2,98%.
+BNR a anuntat, in 7 mai, cresterea ratei dobanzii de politica monetara de la 2,25% la 2,50% pe an.
+Iata Cand se schimba ROBOR la banci si la ce sa te uiti ca sa nu te pacalesti cand iei un credit
+Ce este ROBOR-ul si cum se calculeaza
+Indicele se calculeaza zilnic de catre BNR si reprezinta media aritmetica a cotatiilor practicate de bancile din Romania. Cu alte cuvinte, ROBOR reprezinta dobanda medie cu care se imprumuta bancile intre ele, la diferite termene (1 zi, 3 luni, 6 luni, 12 luni).
+De interes este, in special, cel la 3 luni (ROBOR 3M) . Dobanzile variabile la creditele in lei se formeaza in mare parte luand in calcul acest indicator (ROBOR 3M), la care se adauga o marja fixa de 2 puncte procentuale la creditele luate prin programul Prima Casa, intre 2 si 5 puncte procentuale la unele credite ipotecare si intre 5% si 14% la cele de nevoi personale fara garantii.
+Marja fixa e stabilita de fiecare banca si ramane neschimbata pe toata perioada contractului de credit. Astfel, ROBOR este componenta care variaza. Deci daca acest indice creste, atunci creste si rata. Si invers.
+Chiar daca ROBOR se calculeaza in fiecare zi, bancile actualizeaza de obicei acest indice trimestrial. Astfel, la calcularea dobanzii se ia in considerare indicele de referinta ROBOR 3M in vigoare in ultima zi a trimestrului anterior.

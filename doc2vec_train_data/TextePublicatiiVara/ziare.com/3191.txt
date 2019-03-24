@@ -1,0 +1,9 @@
+de Anca Petrache
+Miercuri, 20 Iunie 2018, ora 16:31
+Desi la prima vedere o astfel de afirmatie, conform careia AI (inteligenta artificiala) stie cand vom muri, poate ingheta sangele in vene, in realitate multe vieti pot fi salvate tocmai datorita acestui lucru.
+Un studiu publicat recent in jurnalul Nature arata ca inteligenta artificiala, daca deja are date despre pacienti - sex, etnie, istoric medical - si deja deprinde un model de invatare, poate ajunge sa prezica, chiar cu foarte mare acuratete, ce se va intampla cu fiecare pacient.
+In experimentele deja facute in doua spitale din SUA s-a demonstrat ca niste algoritmi deja existenti pot prezice cat de mult va sta in spital un pacient, cand va fi externat, dar si daca va muri, arata Science Alert .
+Sigur, nimeni nu vrea sa moara, dar nu aceasta e ideea unor astfel de predictii. Odata ce AI face predictia, medicul stie care e adevarata urgenta.
+Spitalele pot gasi noi modalitati de a prioritiza pacientii, de a-si ajusta planul de tratament, de a interveni in cazul urgentelor medicale chiar inainte ca acestea sa se intample.
+Iar partea cea mai buna este ca predictiile AI se fac in timp record. Iar timpul inseamna, in acest caz, vieti salvate.
+Sigur, exista si o parte rea. Practic, toate datele medicale si nu numai ale unei mase imense de oameni se vor afla in mainile cuiva, posibil un numar mic de companii private, ceea ce, cu siguranta, nu va placea tuturor, pentru ca, vrand nevrand, se ajunge la monopol.

@@ -1,0 +1,11 @@
+Iată lista cu profesiile în care există cele mai multe aventuri amoroase:
+1. Domeniul financiar (bancheri, agenţi de asigurări, analişti)
+2. Aviaţie (piloţi, însoţitori de zbor)
+3. Asistenţă medicală (doctori, asistente)
+4. Afaceri (directori, manageri, secretare)
+5. Domeniul sportiv (atleţi, instructori, reprezentanţi)
+6. Artă (muzicieni, modele, actori, fotografi)
+7. Industria distracţiilor nocturne (Dj, dansatori, ospătari)
+8. Domeniul legislativ (avocaţi, secretare, procurori, judecători)
+9. Comunicare (jurnalişti, relaţii publice, comunicare)
+10. Alte sectoare.

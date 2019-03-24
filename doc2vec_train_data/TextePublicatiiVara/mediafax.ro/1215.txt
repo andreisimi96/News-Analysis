@@ -1,0 +1,27 @@
+Sunteţi utilizator Mac Os şi aveţi dificultăţi în găsirea unei platforme de tranzacţionare compatibile? Descoperiţi chiar acum cum puteţi tranzacţiona cu uşurinţă direct de pe dispozitivul Mac, fără să instalaţi vreun emulator!
+Ce platformă de tranzacţionare să aleg? Aceasta este o întrebare pe care orice trader şi-o pune, la un moment dat. Indiferent dacă sunteţi în căutarea unei platforme pentru începători, a   unei platforme de tranzacţionare pentru investitorii experimentaţi ori a unei platforme ECN, această întrebare rămâne la fel de legitimă. În plus, este foarte important şi sistemul de operare pe   care îl folosiţi. Dacă utilizatorii Windows găsesc cu mai multă uşurinţă platforme de tranzacţionare compatibile, lucrurile sunt ceva mai complicate pentru cei care folosesc MAC. În cadrul acestui   articol va fi analizată platforma MetaTrader Mac , ca opţiune pentru   traderii ce utilizează Mac OS.
+MetaTrader 4 - cea mai populară platformă de tranzacţionare
+MetaTrader 4, sau MT4, este platforma de tranzacţionare cea mai utilizată, în special pe piaţa forex. Lansată în anul 2005 de către MetaQuotes Software , aceasta s-a impus rapid ca cea mai bună platformă pentru tranzacţionarea Forex şi CFD.
+Atuurile MetaTrader 4
+MT4 este o platformă de tranzacţionare considerată ca fiind cel mai bun software de bursă. Părerile pe care traderii, atât cei începători cât şi cei experimentaţi, le au despre MetaTrader 4 sunt   unanime.
+Acest lucru se datorează în primul rând faptului că MT4 oferă tehnologiile cele mai avansate pentru tranzacţionare şi pentru efectuarea analizei tehnice, aceasta din urmă reprezentând unul dintre   punctele forte ale platformei MT4, care propune:
+● grafice interactive
+● 23 de obiecte de analiză
+● 30 de indicatori tehnici
+În plus, instrumentul Market integrat în această platformă propune mii de indicatori suplimentari pentru o analiză mult mai avansată.
+Totodată, dacă nu puteţi dedica foarte mult timp tranzacţionării, platforma MT4 vă propune tranzacţionarea prin copie sau tranzacţionarea algoritmică. Prima vă permite să copiaţi în mod automat   tranzacţiile altor traderi, în timp ce cea de-a doua vă permite să vă aplicaţi strategia de tranzacţionare automată cu ajutorul roboţilor, cunoscuţi şi sub numele de Expert Advisors.
+MetaTrader MAC - platforma de trading fiabilă pentru utilizatorii Mac OS
+Utilizatorii Mac OS au acum posibilitatea de a instala MetaTrader 4 Mac Os foarte simplu, fără vreun emulator sau sistem Windows.
+MetaTrader 4 Mac nu este diferită faţă de platforma MetaTrader 4 Windows, aceasta furnizând majoritatea funcţiilor disponibile pe MT4:
+● Cursul forex în timp real
+● Semnale de trading forex
+● Mai multe intervale de timp
+● Număr nelimitat de grafice
+● Indicatori personalizabili
+● Tranzacţionarea cu un singur click şi multe altele
+Trebuie însă să aveţi în vedere faptul că este foarte dificil ca roboţii de tranzacţionare să fie emulaţi pe Mac, motiv pentru care este preferabil să evitaţi utilizarea indicatorilor   personalizabili şi a roboţilor de tranzacţionare pe platforma MetaTrader Mac.
+Tranzacţionarea automată pe MT4 Mac
+Roboţii de tranzacţionare nu funcţionează întotdeauna în mod corespunzător pe Mac, motiv pentru care este recomandat să se verifice fiabilitatea fiecărui expert advisor.
+Admiral Markets pune la dispoziţia traderilor plugin-ul MetaTrader Ediţia Supremă. Aceasta a fost concepută pentru a ameliora experienţa de tranzacţionare cu ajutorul a numeroase funcţii   suplimentare. Din păcate, MetaTrader Ediţia Supremă nu este compatibilă cu platforma MetaTrader Mac, Admiral Markets fiind unul dintre puţini brokeri care o propun.
+Instalarea platformei MetaTrader pe Mac
+MetaTrader 4 este o platformă concepută pentru a fi instalată pe dispozitive ce funcţionează cu ajutorul sistemului de operare Windows. Pentru ca aceasta să poată fi utilizată pe un dispozitiv Mac,   este necesară instalarea unui emulator Windows, cum ar fi de exemplu Wine. Pentru a le asigura traderilor o experienţă de trading cât mai bună, Admiral Markets a făcut ca platforma MetaTrader 4 să   fie perfect compatibilă cu sistemul de operare Mac Os. Tot ceea ce investitorii trebuie să facă este să descarce această platformă şi să înceapă tranzacţionarea pe pieţele financiare.

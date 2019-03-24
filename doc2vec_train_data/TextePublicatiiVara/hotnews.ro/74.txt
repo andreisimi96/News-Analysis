@@ -1,0 +1,17 @@
+E mai ușor să blochezi accesul a 500 de milioane de utilizatori decât să respecți reguli GDPR: Cel puțin trei site-uri americane de știri au blocat accesul cititorilor europeni
+Vineri, 25 mai 2018, 16:11 Economie | IT
+Foto: Wikimedia Commons
+Pentru câteva dintre cele mai mari site-uri de știri din America este mai ușor să blocheze jumătate de miliard de oameni să le acceseze produsele decât să respecte noile reglementări privind protecția datelor private (General Data Protection Regulation, GDPR), relatează  Bloomberg . Los Angeles Times, Chicago Tribune, New York Daily News sunt doar câteva dintre site-urile de știri care le transmit cititorilor că, din păcate, platformele lor nu sunt disponibile în majoritatea țărilor europene.
+Este o interdicție dură a SUA, care are un pic peste 300 de milioane de oameni, pentru o populație de 500 de milioane de oameni din Uniunea Europeană.
+”Din păcate, site-ul nostru nu este disponibil în majoritatea țărilor europene”, arată mesajul Chicago Tribune și Los Angeles Times care transmi că sunt implicați în a căuta opțiuni și căuta și găsi soluții tehnice care să ofere tuturor cititorilor ”jurnalismul nostru premiat”.
+Captură  Chicago Tribune
+”Negarea serviciilor cetățenilor UE nu îi absolvă de responsabilități”, a spus Julian Saunder, seful executiv al Port, un start-up britanic care vinde software care îi ajută pe clienți să controleze cine are acces la date și creează piste de audit pentru a monitoriza datele private.
+Nu doar site-urile de știri au blocat accesul, ci și Instapaper, un serviciu care permite salvarea unui conținut publicat pe internet pentru a putea fi citit ulterior, deținută de compania americană Pinterest.
+Joi, compania a decis să deconecteze temporar toți clienții europeni. “Ne cerem scuze pentru orice neplăceri și intenționăm să restabilim accesul cât mai curând posibil”, a precizat compania.
+Noua reglementare europeană privind protecția datelor are efecte în întreaga lume, inclusiv în Statele Unite și în China, în condițiile în care orice companie care are de-a face cu datele personale ale europenilor este obligată să o aplice.
+Facebook, Twitter, AirBnb, marile platforme americane, au început să-și notifice utilizatorii europeni asupra condițiilor de utilizare, pentru a se conforma legislației europene.
+Toate aceste companii trebuie să se asigure că au obținut un consimțământ „liber”, „specific” și „lipsit de ambiguitate” al utilizatorilor pentru datele lor personale.
+Cu o zi înainte de intrarea în vigoare nu era clar care companii americane vor aplica GDPR pentru toți clienții lor și care doar pentru utilizatorii europeni.
+Sam Pfeifle, specialist american al asociației profesioniștilor în utilizarea datelor (IAPP), un anumit număr de companii americane nu vor avea altă alegere decât conformarea față de regulile europene pentru toți clienții. 
+"Pentru anumite companii, să fii capabil să discerni de unde sunt clienții și să faci o separare între date după origine este fără îndoială foarte complicat", explică el.
+Sondajele de afaceri arătau joi că între 60% și 85% dintre companiile SUA declară că nu se așteaptă să fie pe deplin conforme cu legea până vineri. În martie și aprilie, doar jumătate dintre companii au declarat că sunt chiar "în mare măsură conforme", potrivit unui sondaj efectuat pe un eșantion de 1.000 de firme, realizat de firma de consultanță Capgemini SE.

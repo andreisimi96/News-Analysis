@@ -1,0 +1,5 @@
+La conferința anuală a dezvoltatorilor, Apple a anunțat câteva măsuri gândite să limiteze la maximum cantitatea de date pe care Facebook , Google și alte platforme online le colectează despre utilizatori.
+Astfel, compania a anunțat că userii browser-ului Safari vor fi întrebați printr-un meniu pop-up dacă vor ca Facebook și alte platforme online să folosească cookie-uri și alte elemente de tracking în timp ce ei accesează acel site.
+Meniul va apărea pe paginile unde sunt inserate butoanele de Share și Like ale Facebook .
+”Am văzut cu toții aceste butoane de Like și Share. Ei bine, se pare că pot fi folosite pentru a înregistra toate acțiunile, fie că alegi să faci click pe ele, fie că nu faci. Acum punem punct acestui lucru”, a declarat vicepreședinte al Apple, Craig Federighi.
+Totodată, Apple a prezentat și un sistem care face mai dificilă colectarea de informații despre useri când aceștia vizitează diverse site-uri, fiindcă mai puține date despre ei vor ajunge la terțe părți.

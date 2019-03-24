@@ -1,0 +1,12 @@
+Preşedintele Klaus Iohannis a promulgat, joi, noua lege care reglementează organizarea şi funcţionarea Autorităţii Naţionale de Supraveghere a Prelucrării Datelor cu Caracter Personal ( ANSPDCP ), potrivit unui comunicat al Administraţiei Prezidenţiale.
+Prin noua reglementare, ANSPDCP va creşte personalul de control, care va putea amenda sau interzice, în anumite cazuri, prelucrarea de date cu caracter personal. 
+Modificările au fost aduse în contextul în la sfârșitul lunii mai a intrat în vigoare noul regulament privind protecţia datelor, GDPR , impus de Uniunea Europeană, notează hotnews.ro. Autoritatea de control va asigura aplicarea acestui regulament la noi în ţară, precum şi sancţionarea nerespectării lui.
+Noua lege de funcţionare a Autorităţii arată că: 
+- Investigaţia pe care o face Autoritatea (asupra organizaţiei care prelucrează date personale) nu poate începe înainte de ora 8.00 şi nu poate continua după ora 18.00 decât cu acordul scris al persoanelor la care se face investigaţia. Controlul trebuie să aibă loc în prezenţa personelor la care se face investigaţia;
+- În cazul prelucării de date care intră în competenţa de control a Autorităţii, cu excepţia celor transfrontaliere, constatarea şi sancţionarea faptelor se fac prin proces-verbal încheiat de personalul de control;
+- Dacă amenzile date de Autoritate depăşesc 300.000 de euro, aplicarea amenzii se face prin decizia preşedintelui Autorităţii;
+- Aplicarea măsurilor corective constau, după caz, în limitarea temporară sau definitivă, interdicţia asupra prelucrării, rectificarea sau ştergerea datelor cu caracter personal, restricţionarea prelucrării, notificarea acestor acţiuni destinatarilor cărora le-au fost divulgate datele cu caracter personal, retragerea unei certificări sau obligarea organismului de certificare să retragă sau să nu elibereze o certificare în cazul în care cerinţele certificare nu sunt sau nu mai sunt îndeplinite, suspendarea fluxurilor de date către un destinatar dintr-o ţară terţă sau către o organizaţie internaţională se dispune numai prin decizie a preşedintelui Autorităţii naţionale de supraveghere;
+- Orice persoană vizată, care consideră că prelucarearea datelor sale cu caracter personal încalcă prevederile legale are dreptul să depună plângere la ANSPDCP ;
+- Plangerile vor putea fi depuse şi online;
+- Constatarea faptelor şi a măsurilor coercitive se va face în conformitate cu GDPR , de la 25 mai;
+- Numărul posturilor din ANSPDCP va fi suplimentat (de la 50 – cât prevede actuala lege, la 85 – potrivit modificărilor).

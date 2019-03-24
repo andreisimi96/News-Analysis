@@ -1,0 +1,7 @@
+Specialiștii trag un puternic semnal de alarmă viitorilor pensionari, în condițiile în care banii vor fi  insuficienți dacă românii se bazează doar pe pensia publică (pilonul I de pensii) și pe pensia privată obligatorie (pilonul II de pensii). Prin urmare, se recomandă viitorilor pensionari să pună bani deoparte dacă nu au deja o schemă de pensii private.
+Pe site-ul Casei Naționale de Pensii Publice românii au posibilitatea de a putea calcula vârstă de pensionare .
+Vârstă standard de pensionare în Romania este de 65 de ani pentru bărbați și de 63 de ani pentru femei. Atingerea acestei vârste se realizează prin creșterea vârstelor de pensionare conform eșalonării prevăzute în anexă nr. 5.
+Stagiul minim de cotizare este de 15 ani, atât pentru femei, cât și pentru bărbați. Atingerea acestui stagiu se realizează prin creșterea stagiului minim de cotizare, conform eșalonării prevăzute în anexă nr. 5.
+Stagiul complet de cotizare este de 35 de ani, atât pentru femei, cât și pentru bărbați. Atingerea acestui stagiu se realizează prin creșterea stagiului complet de cotizare, conform eșalonării prevăzute în anexă nr. 5.
+Cuantumul PLV se determina prin înmulțirea punctajului mediu anual (Pma) realizat de asigurat în perioada de cotizare cu valoarea unui punct de pensie (Vpp).
+Formulă de calcul

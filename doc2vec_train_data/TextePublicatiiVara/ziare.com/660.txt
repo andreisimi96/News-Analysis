@@ -1,0 +1,13 @@
+de Irina Olteanu
+Joi, 31 Mai 2018, ora 11:30
+Indicele ROBOR la 3 luni, in functie de care sunt calculate dobanzile la multe dintre creditele in lei, a crescut iar.
+Dupa doua zile in care a stat la nivelul de 2,82%, indicele a ajuns joi la 2,83%, cel mai mare din acest an si, totodata, un nou record al ultimilor trei ani si sapte luni, arata datele publicate de Banca Nationala a Romaniei (BNR) .
+Nivelul atins azi este cel mai mare din 14 octombrie 2014, cand a fost 2,89%.
+ROBOR a inceput anul la nivelul de 2,05% si a scazut toata luna ianuarie. Ulterior, insa, a inceput sa creasca.
+In ceea ce priveste indicele ROBOR la 6 luni, in functie de care se calculeaza dobanzile la creditele ipotecare, acesta a atins joi nivelul de 2,94%.
+Iata Cand se schimba ROBOR la banci si la ce sa te uiti ca sa nu te pacalesti cand iei un credit
+Ce este ROBOR-ul si cum se calculeaza
+Indicele se calculeaza zilnic de catre BNR si reprezinta media aritmetica a cotatiilor practicate de bancile din Romania. Cu alte cuvinte, ROBOR reprezinta dobanda medie cu care se imprumuta bancile intre ele, la diferite termene (1 zi, 3 luni, 6 luni, 12 luni).
+De interes este, in special, cel la 3 luni (ROBOR 3M) . Dobanzile variabile la creditele in lei se formeaza in mare parte luand in calcul acest indicator (ROBOR 3M), la care se adauga o marja fixa de 2 puncte procentuale la creditele luate prin programul Prima Casa, intre 2 si 5 puncte procentuale la unele credite ipotecare si intre 5% si 14% la cele de nevoi personale fara garantii.
+Marja fixa e stabilita de fiecare banca si ramane neschimbata pe toata perioada contractului de credit. Astfel, ROBOR este componenta care variaza. Deci daca acest indice creste, atunci creste si rata. Si invers.
+Chiar daca ROBOR se calculeaza in fiecare zi, bancile actualizeaza de obicei acest indice trimestrial. Astfel, la calcularea dobanzii se ia in considerare indicele de referinta ROBOR 3M in vigoare in ultima zi a trimestrului anterior.

@@ -1,0 +1,4 @@
+Cu doar o săptămână înainte ca elevii de clasa a 8-a să susţină examenele din cadrul Evaluării Naţionale, site-ul edu.ro, al Ministerului Educaţiei, nu poate fi accesat. Acest lucru pentru că a fost băgat în mentenanţă după ce săptămâna trecută s-a descoperit că pe el se minează criptomonedă.
+Experții CERT-RO au confirmat că site-ul a fost compromis și au intervenit eliminând scriptul problemă, care folosea la capacitatea maximă procesoarele dispozitivelor utilizatorilor care accesau acest site.
+Acest site este extrem de important deoarece este interfața care trimite părinții, elevii și orice persoană interesată către paginile unde autoritatea publică în fiecare zi de examen subiectele pe care tinerii le-au avut de rezolvat, precum și baremele de corectare.
+De asemenea, aici sunt stocate regulile de examen (ele se află în metodologiile și ordinele publicate pe site), calendarul evaluărilor naționale, structura anului școlar, dar și modele de subiecte. 

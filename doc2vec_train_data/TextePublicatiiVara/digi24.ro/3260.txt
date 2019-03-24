@@ -1,0 +1,5 @@
+Microsoft caută se se ţină aproape de Amazon: lucrează la un sistem de monitorizare a cumpărăturilor care poate elimina rolul casierilor.
+Este un concept apropiat de cel implementat de compania lui Jeff Bezos în primul magazin fără angajaţi, denumit Amazon GO. Reuters scrie că, în mare, sistemul dezvoltat acum de Microsfot este asemănător: se combină mai mulţi factori precum camere video ataşate cărucioarelor în care se pun produsele, iar plata să se facă direct cu ajutorul telefoanelor mobile.
+Amazon are deja o serie de magazine experimentale care combină senzori, camere și inteligență artificială pentru a urmări ce pun clienții în cărucior.
+Însă Microsoft vrea să dezvolte o tehnologie care să fie utilizată la scară largă şi accesibilă din punct de vedere financiar cât mai multor comercianţi.
+Ideea celor de la Microsoft e încă un semn că industria de retail se îndreaptă către schimbări majore. Sigur, în primă fază vor fi afectate multe joburi din acest domeniu. Dar, odată ce întreg sistemul se digitalizează, vor fi create altele.

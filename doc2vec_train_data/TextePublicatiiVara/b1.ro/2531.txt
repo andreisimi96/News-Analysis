@@ -1,0 +1,6 @@
+Casa Naţională de Pensii are o aplicație care vă poate ajuta să aflați vârsta de pensionare la termen și anticipată. 
+Cei interesați pot afla anul și luna în care își pot depune cererea de pensionare, dar și la ce vârstă se pot pensiona anticipat. Aplicația poate fi accesată AICI .
+Pensia anticipată poate fi obținută cu maximum cinci ani înaintea împlinirii vârstei standard de pensionare, însă numai dacă este realizat un stagiu de cotizare cu minimum opt ani mai mare decât stagiul complet de cotizare.
+În cazul pensiei anticipate parțiale, aceasta se poate obține tot cu maximum cinci ani înaintea împlinirii vârstei standard de pensionare, însă este necesară doar realizarea stagiului complet de cotizare.
+Cuantumul pensiei anticipate parțiale este mai mic, pentru că se aplică anumite penalizări.
+Vârsta-standard de pensionare este de 65 de ani pentru bărbați și de 63 de ani pentru femei. Stagiul minim de cotizareeste de 15 ani, iar stagiul complet de cotizare este de 35 de ani, ambele indeferent de sex.

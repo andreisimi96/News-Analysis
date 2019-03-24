@@ -1,0 +1,14 @@
+EXTERNE astăzi, 16:34
+de: Alex Ciutacu
+Compania Dixons Carphone a recunoscut că a fost victima unui atac cibernetic ce a afectat 5,8 milioane de carduri şi datele personale a 1,2 milioane de persoane, potrivit BBC.
+Compania investighează atacul, care a început încă din luna iulie a anului trecut.
+Dixons Carphone anunţă că nu are până acum dovezi că oricare dintre carduri a fost utilizat în mod fraudulos în urma atacului cibernetic.
+A avut loc „o încercare de a compromite” 5,8 milioane de carduri de credit şi de debit, însă doar datele de pe 105.000 de carduri ce nu aveau protecţie specială, au fost afectate, transmite   compania.
+Hackerii au încercat să obţină acces la unul dintre sistemele de procesare ale magazinelor Currys PC World şi Dixons Travel.
+Un purtător de cuvânt al Centrului Naţional pentru Securitate Cibernetică a anunţat că „lucrează împreună cu Dixons Carphone şi alte agenţii pentru a înţelege cum a afectat acest atac oamenii din   Marea Britanie şi pentru a oferi consultanţă”.
+Dixons Carphone a fost victima unui alt atac cibernetic în 2015, în urma căruia a fost amendată de Comisia de Informaţii din Marea Britanie, cu 400.000 de lire sterline. Autoritatea va analiza şi   acest incident.
+Potrivit declaraţiilor companiei, cele 1,2 milioane de date personale accesate de hackeri erau informaţii non-financiare, precum nume, adrese şi adrese de e-mail.
+Alex Baldock, executivul Dixons Carphone, transmite că este „extrem de dezamăgit” de breşa de securitate şi că „îi pare rău pentru orice supărare provocată”.
+„Protejarea datelor noastre trebuie să fie în centrul businessului nostru, şi am dat greş aici (...) Am luat acţiuni pentru a opri orice acces neautorizat şi chiar dacă nu avem dovezi că s-a   produs o fraudă ca rezultat al a acestor incidente, luăm această situaţie drept extrem de importantă”, spune Baldock.
+Luna trecută, compania a anunţat că va avea o scădere semnificativă a profitului pe anul acesta şi că va închide 92 dintre cele peste 700 de magazine Carphone Warehouse.
+Acţiunile Dixons Carphone se tranzacţionau vineri la ora 14.00 la 2,62 dolari per acţiune pe Bursa din Londra, în scădere cu 2,2% de la începutul zilei.

@@ -1,0 +1,12 @@
+Marţi, 12 iunie 2018, 12:11 Actualitate | Esenţial
+Polițiștii avertizează asupra existenței unei campanii de tip ransomware prin care se încercă fraudarea victimelor, prin sisteme informatice, în numele Poliției Române, și cere eventualelor victime să nu plătească răscumpărarea.
+„Dacă primiți un astfel de mesaj, este important să știți că este o fraudă și să nu dați curs cererii! Sesizați poliția dacă aveți calculatorul criptat sau dacă ați plătit”, se arată într-un comunicat al Poliției Române.
+Ce recomandă Poliția în cazul unui atac de tip ransomware:
+nu plătiți suma cerută pentru decriptarea fișierelor, în cazul în care calculatorul este virusat, întrucât de cele mai multe ori nu veți recapătă fișierele.
+anunțați de îndată Poliția în cazul în care sunteți victime ale unor astfel de atacuri.
+faceți back-up-uri regulate ale datelor stocate pe sistemul informatic, mențineți sistemul updatat și instalați un program de tip antivirus.
+nu deschideți niciodată un atașament primit de la o persoană necunoscută sau un link neobișnuit primit pe rețelele de socializare.
+Proiectul No More Ransom a fost lansat în iulie 2016, de poliția națională olandeză și Europol, instituția de combatere a criminalității la nivelul Uniunii Europene, cu scopul de a crește nivelul de colaborare dintre sectoarele public și privat în lupta contra ransomware.
+Pe www.nomoreransom.org, utilizatorii pot afla informații suplimentare despre ransomware și modul în care se pot feri de această amenințare.
+Poliția reamintește că, în decembrie 2017, polițiștii DIICOT au efectuat 7 percheziții la persoane bănuite că ar fi infectat numeroase calculatoare cu programe malițioase și ar fi cerut recompense pentru decriptarea fișierelor afectate.
+Acțiunea s-a desfășurat în comun cu agenții internaționale precum Europol, FBI și National Crime Agency. Este primul caz din lume în care s-a reușit arestarea unor persoane bănuite de ransomware.

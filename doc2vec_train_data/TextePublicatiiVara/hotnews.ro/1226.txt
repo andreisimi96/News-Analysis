@@ -1,0 +1,8 @@
+Joi, 14 iunie 2018, 14:31 Economie | IT
+Compania rusă Kaspersky Lab a anunțat joi că ”este forțată să înghețe cooperarea” cu organizațiile europene, inclusiv Europol, după ce un raport al Parlamentului European a pus soluțiile companiei într-o lumină foarte proastă, scrie AFP. O moțiune votată miercuri în PE conține zeci de recomandări, una dintre ele fiind ca instituțiile UE să rupă legăturile cu Kaspersky Lab, compania bănuită că are legături apropiate cu Kremlinul.
+Evgheni Kaspersky spune că este constrâns să scoată organizația sa din colaborarea cu Europol, dar și din No More Ransom, o inițiativă gândită să lupte cu ransomware-ul.
+Raportul PE recomandă instituțiilor UE să rupă legăturile cu Kaspersky Lab, iar dacă acest lucru se întâmplă. compania va avea mari probleme, la doar o lună după anunțul legat de mutarea infrastructurilor de bază, din Rusia, în Elveția. Raportul a fost votat cu 476 voturi pentru și 141 împotrivă, existând și 36 de abțineri. Recomandarea nu are valoare legislativă.
+PE cere o analiză detaliată a echipamentelor software, IT și de comuncații folosite în institutții, pentru a exclude programele și terminalele periculoase, ”precum cele confirmate ca fiind malițioase, cum ar fi cele de la Kaspersky Lab”.
+Compania rusă spune că decizia este temporară, până când ”vom primi clarificări oficiale suplimentare din partea Parlamentului European”.
+Evgheni Kaspersky s-a arătat foarte dezamăgit de situație.
+”Am protejat Uniunea Europeană timp de 20 de ani lucrând cu forțele de ordine pentru a ajuta la arestarea a numeroși infractori cibernetici”, spune șeful companiei care consideră includerea Kaspersky Lab în raport ca fiind ”fără precedent” și cu riscul de a facilita cyber-criminalitatea în UE.

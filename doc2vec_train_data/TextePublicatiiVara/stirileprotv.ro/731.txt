@@ -1,0 +1,11 @@
+Deşi mai sunt doar trei săptămâni până la începerea examenelor de Bacalaureat, accesul la site-ul Ministerului Educaţiei ar putea fi suspendat din motive de securitate.
+Reprezentanţii Centrului Naţional de Răspundere la Incidente de Securitate Cibernetică (CERT-RO) au fost sesizaţi, în cursul zilei de ieri, cu privire la o problemă de securitatea apărută la site-ului edu.ro, care ar fi avut inserat în codul sursă un script de minare de criptomonedă.
+La scurt timp, reprezentanţii Ministerului Educației au cerut, în scris, suportul specialiștilor CERT-RO pentru remedierea cât mai urgentă și investigarea problemei de securitate.
+Imediat, o echipă de la CERT-RO, cu suportul Institutului de Cercetare în Informatică, a reușit să obțină acces rapid la site.
+Unul dintre cele mai populare site-uri pentru atacuri cibernetice, închis de poliţie
+În urma investigației, specialiștii CERT-RO au identificat și eliminat acel script problemă, care era utilizat pentru minarea de criptomonedă (CoinHive).
+Site-ul edu.ro folosea o variantă neactualizată de Drupral (software CMS – content management system), o vulnerabilitate exploatata de atacatori. Astfel, la vizitarea site-ului, unui utilizator îi era folosit procesorul dispozitivului utilizat la capacitate maximă.
+Echipa CERT-RO a identificat și eliminat liniile de cod inserate abuziv și a propus o serie de măsuri de securitate pe care Ministerul Educației, ca administrator al site-ului, trebuie să le pună în aplicare.
+Totodată, recomandarea echipei CERT-RO a fost ca accesul la site din internet să fie suspendat până la implementarea măsurilor necesare securizării.
+Pașii necesari securizării sunt în concordanță cu alerta publicată de CERT-RO în luna ianuarie, „Minarea de criptomonedă”, fiind vorba despre o nouă metodă de monetizare a atacurilor asupra site-urilor și aplicațiilor web.
+Seymour Hersh, jurnalist castigator al premiului Pulitzer

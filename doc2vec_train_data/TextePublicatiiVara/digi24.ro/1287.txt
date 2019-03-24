@@ -1,0 +1,44 @@
+ANM anunță vreme extremă cu grindină și descărcări electrice pentru București și alte 6 județe din țară. Fenomenele meteo extreme se vor manifesta până în jurul orei 18.00.
+Sursa : Administrația Națională de Meteorologie 
+COD : GALBEN
+Data emiterii : 05-06-2018 ora 16
+Nr. mesajului : 5
+Valabil de la : 05-06-2018 ora 16:25 până la : 05-06-2018 ora 17:30
+In zona : Mun. Bucureşti;
+Se vor semnala : grindină de dimensiuni mici, averse ce vor cumula 10..15 l/mp, intensificări de scurtă durată ale vântului
+Fenomene asociate : descărcări electrice
+Sursa : Administrația Națională de Meteorologie 
+COD : PORTOCALIU
+Data emiterii : 05-06-2018 ora 16
+Nr. mesajului : 4
+Valabil de la : 05-06-2018 ora 16:25 până la : 05-06-2018 ora 17:00
+In zona : Județul Constanta: Saraiu;
+Județul Tulcea: Baia, Topolog, Casimcea, Stejaru, Ciucurova, Dorobanțu, Beidaud;
+Se vor semnala : - frecvente descărcări electrice, grindină de medii dimensiuni, intensifcări ale vântului care trecător pot lua aspect de vijelie, averse ce vor depăși local 35 l/mp
+Observatii : din dare radar, izonă s-au acumulat peste 50 l/mp
+Sursa : Administrația Națională de Meteorologie 
+COD : GALBEN
+Data emiterii : 05-06-2018 ora 16
+Nr. mesajului : 1
+Valabil de la : 05-06-2018 ora 16:40 până la : 05-06-2018 ora 17:40
+In zona : Județul Bistriţa-Năsăud: : zona de munte de peste cota 1800 m;
+Județul Bistriţa-Năsăud: Năsăud, Sângeorz-Băi, Feldru, Maieru, Telciu, Prundu Bârgăului, Rodna, Tiha Bârgăului, Rebrișoara, Josenii Bârgăului, Bistrița Bârgăului, Târlișua, Zagra, Livezile, Ilva Mica, Lunca Ilvei, Șanț, Leșu, Salva, Rebra, Parva, Ilva Mare, Măgura Ilvei, Coșbuc, Romuli, Runcu Salvei, Poiana Ilvei;
+Se vor semnala : frecvente descărcări electrice, averse ce vor cumula local 20...25 l/mp, intensificări de scurtă durată ale vântului, grindină de dimensiuni mici
+IALOMIȚA ȘI CĂLĂRAȘI
+Sursa : Administrația Națională de Meteorologie 
+COD : GALBEN
+Data emiterii : 05-06-2018 ora 16
+Nr. mesajului : 2
+Valabil de la : 05-06-2018 ora 16:36 până la : 05-06-2018 ora 17:40
+In zona : Județul Ialomiţa: Fetești;
+Județul Călăraşi: Perișoru, Ștefan cel Mare;
+Se vor semnala : frecvente descărcări electrice, grindină de dimensiuni mici, averse ce vor cumula 20..25 l/mp, intensificări de scurtă durată ale vântului
+Fenomene asociate : descărcări electrice
+Sursa : Administrația Națională de Meteorologie 
+COD : GALBEN
+Data emiterii : 05-06-2018 ora 16
+Nr. mesajului : 3
+Valabil de la : 05-06-2018 ora 16:30 până la : 05-06-2018 ora 18:00
+In zona : Județul Harghita: Miercurea Ciuc, Gheorgheni, Bălan, Sândominic, Joseni, Suseni, Lunca de Jos, Ciumani, Ciucsângeorgiu, Frumoasa, Lăzarea, Lunca de Sus, Sânsimion, Plăieșii de Jos, Cârța, Siculeni, Mihăileni, Tomești, Ciceu, Sânmartin, Sâncrăieni, Dănești, Mădăraș, Tușnad, Sântimbru, Voșlăbeni, Cozmeni, Băile Tușnad, Leliceni, Păuleni-Ciuc, Racu;
+Se vor semnala : frecvente descărcări electrice, averse de ploaie care vor cumula 20-25 l/mp, grindină de dimensiuni mici
+Fenomene asociate : intensificări de scurtă durată ale vântului

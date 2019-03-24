@@ -1,0 +1,10 @@
+Centrul Naţional de Răspuns la Incidente de Securitate Cibernetică (CERT-RO) avertizează utilizatorii de internet să fie vigilenţi cu privire la e-mail-urile sau mesajele pe care le primesc în această perioadă, cu ocazia intrării în vigoare a noului Regulament european privind protecţia datelor (GDPR).
+Revoluţie în surdină! Cum trebuie să ne protejeze companiile datele pe...
+Potrivit CERT-RO, după intrarea în vigoare a  #GDPR , utilizatorii sunt inundaţi cu numeroase cereri de acceptare a noilor politici de confidenţialitate şi de obţinere a consimţământului cu privire la procesarea datelor. 
+Este deopotrivă o acţiune necesară, legată de interacţiunea viitoare cu aceste companii, dar şi o oportunitate pentru infractorii cibernetici, susţine Centrul. Aceştia pot copia identitatea vizuală şi pot transmite către dumneavoastră un mail de phishing care pare legitim, pentru a vă determina să le oferiţi date personale şi/sau bancare, mai arată CERT-RO. 
+Astfel de e-mail-uri de tip  #scam  sau  #phishing  au apărut deja la nivel european şi conţin adesea un text cu greşeli gramaticale şi un design de proastă calitate.
+Ce trebuie să faceţi
+CERT-RO listează şi o scurtă serie de sfaturi pentru a fi protejat de astfel de mesaje spam.
+Verificaţi mereu sursa mesajului primit! Dacă încă sunteţi nesigur cu privire la legitimitatea lui, puteţi contacta serviciul de relaţii cu clienţii a organizaţiei în cauză. 
+Dacă primiţi astfel de cereri suspecte, CERT-RO vă roagă să le transmiteţi un mesaj prin intermediul paginii de Facebook sau a celorlalte conturi social media. 
+Totodată, dacă aţi furnizat date bancare în astfel de campanii scam, realizând ulterior eroarea, este important să notificaţi imediat şi banca, pentru a vă proteja imediat contul!

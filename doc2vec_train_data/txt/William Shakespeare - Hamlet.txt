@@ -1,0 +1,10624 @@
+William Shakespeare
+
+
+
+
+
+Hamlet
+
+Prinţ al Danemarcei
+
+Tragedie
+
+
+
+Persoanele
+
+CLAUDIUS, rege al Danemarcei
+
+HAMLET, fiul fostului rege şi nepotul actualului rege
+
+HORAŢIO, prietenul lui Hamlet
+
+POLONIUS, şambelanul curţii
+
+LAERTES, fiul său
+
+GERTRUDA, regină a Danemarcei şi mama lui Hamlet
+
+OFELIA, fiica lui Polonius
+
+OLTIMAND
+
+CORNELIUS
+
+ROSENCRANTZ
+
+GUILDENSTERN
+
+OSRIC
+
+UN GENTILOM
+
+UN PREOT
+
+MARCELLUS
+
+BERNARDO
+
+FRANCISCO, un oştean
+
+REYNALDO, slujitorul lui Polonius
+
+UN CĂPITAN, Soli
+
+DUHUL TATĂLUI LUI HAMLET
+
+FORTINBRAS, prinţul Norvegiei
+
+DOI ŢĂRANI, gropari
+
+NOBILI, doamne, ofiţeri, oşteni, actori, marinari, soli şi suită.
+
+
+
+
+
+ACTUL I
+
+SCENA 1
+
+Elsenor. O terasă în faţa castelului. Francisco la postul său.
+
+Intră Bernardo.
+
+
+
+BERNARDO
+
+Cine-i acolo?
+
+FRANCISCO
+
+A, nu, răspunde-mi tu: stai şi te-arată.
+
+BERNARDO
+
+Trăiască regele!
+
+FRANCISCO
+
+Bernardo?
+
+BERNARDO
+
+El!
+
+FRANCISCO
+
+Vii chiar la timp.
+
+BERNARDO
+
+Bătut-a miezul nopţii,
+
+Mergi la culcare Francisc.
+
+FRANCISCO
+
+Mulţumesc
+
+Că vii să mă schimbi.
+
+Ce ger! Sunt sloi.
+
+BERNARDO
+
+Nimic deosebit
+
+În ceasul tau de strajă?
+
+FRANCISCO
+
+Nici un şoarec.
+
+BERNARDO
+
+Drum bun atunci
+
+Şi dacă-mi vezi tovarăşii de strajă,
+
+Marcellus şi Horaţio, zoreşte-i.
+
+FRANCISCO
+
+I-aud, îmi pare.
+
+Stai! Cine-i acolo?
+
+HORAŢIO
+
+Supuşii regelui!
+
+MARCELLUS
+
+Copiii ţării!
+
+FRANCISCO
+
+Cu bine dar!
+
+MARCELLUS
+
+Viteazule, cu bine!
+
+Au cin' ţi-e schimb?
+
+FRANCISCO
+
+Bernardo. Noapte bună.
+
+MARCELLUS
+
+Hei, tu Bernardo!
+
+BERNARDO
+
+Ce, e şi Horaţio?
+
+HORAŢIO
+
+O parte doar din el!
+
+BERNARDO
+
+Bine-aţi venit!
+
+MARCELLUS
+
+S-a mai ivit o dată lucru-acela?
+
+BERNARDO Eu n-am văzut nimic.
+
+MARCELLUS
+
+Horaţio zice că-i o nălucire
+
+A noastră şi nu vrea sa dea crezare
+
+Vedeniei de două ori zărită
+
+De noi — de aceea l-am rugat de veghe
+
+Să stea de-a lungu-acestei nopţi cu noi.
+
+Şi dacă iar stafia se arată
+
+Să creadă-n ce-am văzut şi să-i vorbească.
+
+HORAŢIO
+
+Poveşti! N-o să se arate!
+
+BERNARDO
+
+Şezi o clipă
+
+Şi lasă iar să-ţi ciocănim auzul,
+
+Ce s-a-ndărătnicit să nu ne creadă,
+
+Cu ce-am văzut în două nopţi.
+
+HORAŢIO
+
+Să stăm
+
+Şi s-auzim ce-are de spus Bernardo.
+
+BERNARDO
+
+Ieri noapte,
+
+Când steaua, care-i la apus, trecuse
+
+Să lumineze cerul chiar pe locul
+
+Pe care arde-acum, eu şi Marcellus,
+
+Când clopotul tocmai bătea de unu...
+
+(Intră Duhul.)
+
+MARCELLUS
+
+Tăcere. Lasă vorba. Iată-l iar!
+
+BERNARDO
+
+E chipul regelui cel răposat.
+
+MARCELLUS
+
+Eşti cărturar, Horaţio: vorbeşte-i!
+
+BERNARDO
+
+Nu seamănă cu regele? Priveşte-l.
+
+HORAŢIO
+
+Leit! Mă-ncearcă spaima şi uimirea.
+
+BERNARDO
+
+Vrei să-i vorbim?
+
+MARCELLUS
+
+Întreabă-l tu, Horaţio.
+
+HORAŢIO
+
+Tu cine eşti, ce foloseşti şi ceasul
+
+Acestei nopţi şi mândra-nfăţişare
+
+Războinică sub care răposatul
+
+Rege al nostru se ducea la luptă?
+
+Pe Dumnezeu, vorbeşte, te conjur.
+
+MARCELLUS
+
+Jignit e parcă!
+
+BERNARDO
+
+Şi se depărtează.
+
+HORAŢIO
+
+Stai, spune, spune, te conjur, vorbeşte!
+
+(Duhul iese.)
+
+BERNARDO
+
+Ce zici, Horaţio? Tremuri şi eşti palid:
+
+Aşa-i că-i vorba nu de-o nălucire,
+
+Ci de-altceva mai mult?
+
+HORAŢIO
+
+Pe Dumnezeu, n-aş fi putut-o crede,
+
+Dar n-ar fi via şi adevărata
+
+Mărturisire-a chiar ochilor mei.
+
+MARCELLUS
+
+Nu seamănă cu regele?
+
+HORAŢIO
+
+Ca tine cu tine însuţi.
+
+La fel a fost armura ce-o purta
+
+Când a răpus norvegul îngâmfat
+
+Şi-aidoma-ncruntat ca-n sfada-n care
+
+Din sanie-n zăpadă-a năpustit
+
+De regele polon. Ciudate lucruri.
+
+MARCELLUS
+
+De două ori l-aceeaşi moartă oră,
+
+Cu pas solemn pe lângă străji trecu.
+
+HORAŢIO
+
+La care-anume gând să mă opresc
+
+Nu ştiu, dar îndeobşte-astfel de semne
+
+Sunt rău prevestitoare pentru ţară.
+
+MARCELLUS
+
+Să stăm atunci şi cel ce ştie spună-mi
+
+De ce apasă noaptea pe supuşi
+
+O vajnică şi scrutătoare strajă,
+
+De ce atâtea tunuri de aramă
+
+Turnate zilnic, scule de război
+
+Aduse din afară, şi de ce
+
+Dulgheri de nave, mulţi şi strânşi cu sila,
+
+Sunt puşi chiar şi duminica la lucru?
+
+Ce rost să aibă asudata grabă!
+
+Ce-njugă-n trudă noaptea lângă zi?
+
+Au cine-mi poate da răspuns?
+
+HORAŢIO
+
+Pot eu.
+
+Se zice cum că răposatul rege,
+
+Al cărui chip de-abia ni s-a ivit,
+
+A fost, cum ştiţi, de Fortinbras norvegul
+
+Pe care-l îmboldea o rea trufie —
+
+Chemat la luptă dreaptă.
+
+Dar viteazul Hamlet, faimos în lume ca atare,
+
+Răpusu-l-a pe Fortinbras, şi-acesta,
+
+Prin legământ pecetluit şi scris
+
+Şi întărit prin lege şi prin crainici,
+
+Lăsă biruitorului la moarte
+
+Tărâmurile toate cucerite
+
+De-acesta, iar al nostru rege-n schimb
+
+Chezăşuia ţinuturi, deopotrivă
+
+Lui Fortinbras sortite-n moştenire,
+
+De biruia. Aşa cum prin acelaşi
+
+Hrisov şi legăminte-n el cuprinse
+
+Le-a-nstăpânit Hamlet. Dar Fortinbras
+
+Cel tânăr, ne-ncercat şi plin de clocot
+
+A strâns acum în marginea Norvegiei
+
+De peste tot, pe toţi vântură-lume,
+
+Ce pentru-o pâine-s gata la orice
+
+Isprăvi ce nu cer decât cutezanţă,
+
+Iar scopul lui, la noi mult prea ştiut,
+
+E să ne smulgă cu-armele în mână
+
+Şi silnice mijloace-acel ţinut
+
+Pierdut de tatăl său. Şi iată, cred,
+
+Obârşia acestor pregătiri
+
+Şi tâlcul străjii noastre şi pricina
+
+Înfriguratei grabe şi-a alarmei
+
+Din ţară...
+
+BERNARDO
+
+Cred c-aşa-i şi nu altfel.
+
+De-aceea deci prevestitorul chip
+
+Soseşte armat prin faţa străjii noastre
+
+Atât de-asemeni regelui ce-a fost
+
+Şi este cel care-a-nceput războiul.
+
+HORAŢIO
+
+E-un fir de praf ce-ţi tulbur' ochii minţii.
+
+Pe vremea slavei Romei şi în preajma
+
+Căderii prea puternicului Cezar,
+
+Ieşeau din groapă morţii-n giulgiul lor
+
+Cu ţipăt şi aiurare prin cetate.
+
+Prăpăd în soare, rouă-nsângerată
+
+Şi stele-n cer cu cozi de foc, şi astrul
+
+Cel umed ce domneşte peste ape
+
+S-a-ntunecat de moarte în eclipsă.
+
+Tot semne de-astea de-ntâmplări cumplite,
+
+Precuvântări dezastrelor ce vin,
+
+Pământul azi şi cerul le arată
+
+Cuprinsului şi oamenilor ţării.
+
+(Intră Duhul.)
+
+Tăcere! Iată-l! Colo-i, vine iar!
+
+Chiar de mă spulberă, l-întâmpin. Stai,
+
+Nălucă! De-ai vreun glas şi poţi grăi
+
+Vorbeşte-mi!
+
+Vreo faptă bună dacă pot să fac
+
+Să-ţi fie de ajutor, să-mi fac pomană,
+
+Vorbeşte-mi!
+
+De ştii vreun rău de soarta ţării tale,
+
+Ce poate fi pre'ntâmpinat, vestindu-l,
+
+O, vorbeşte!
+
+De-ai îngropat în viaţă vreo comoară
+
+Furată, în pântecul pământului,
+
+Că, zice-se, de-aceea-adeseori
+
+Voi duhurile pribegiţi...
+
+(Cântă cocoşul.)
+
+Stai, spune-mi... Opreşte-l tu, Marcellus!
+
+MARCELLUS
+
+Să-l străpung
+
+Cu lancea?
+
+HORAŢIO
+
+Da, de nu se-opreşte.
+
+BERNARDO
+
+Iată-l!
+
+HORAŢIO
+
+Aici!
+
+(iese Duhul.)
+
+S-a dus
+
+Nedrepţi suntem cu el, măreţ cum este,
+
+Cu silnicie să-i aţinem calea.
+
+Şi-i de nevătămat cum e văzduhul,
+
+Şi-s glume ale noastre lovituri.
+
+BERNARDO
+
+Ar fi vorbit, de nu cânta cocoşul.
+
+HORAŢIO
+
+Şi-a tresărit precum un vinovat
+
+Chemat de-un glas cumplit.
+
+Că, pasămite,
+
+Cocoşul, care-i goarna dimineţii,
+
+Cu viersul lui semeţ şi ascuţit
+
+Pe zeul zilei-l scoală. Şi semnalu-i,
+
+Oriunde-n mare, foc, pământ, sau aer,
+
+Vreun duh smintit ar fi rătăcitor,
+
+L-întoarce-n locul cuvenit. Dovadă
+
+Stau cele chiar acum aci-ntâmplate.
+
+MARCELLUS
+
+La cântecul cocoşului s-a stins.
+
+Că-n preajma sărbătorilor, se zice,
+
+Când naşterea lui Crist o prăznuim,
+
+Cocoşii, păsările dimineţii,
+
+Întreaga noapte cântă, şi atunci
+
+Nu-i duh, să se încumete pe-afară,
+
+Blajină-i noaptea, zodiile-s blânde,
+
+Nici iele nu pândesc, nici vrăjitoare;
+
+Atât de plin de har şi sfânt e ceasul.
+
+HORAŢIO
+
+Am auzit şi eu şi cred în parte.
+
+Dar iată, dimineaţa-nveşmântată
+
+În mantă roşiatică, prin rouă,
+
+La răsărit, pe dealul nalt se-arată.
+
+Să mergem. Şi să-mpărtăşim, mi-e sfatul,
+
+Tot ce-am văzut azi-noapte lui Hamlet
+
+Cel tânăr. Duhul ăsta, eu vă jur,
+
+E mut cu noi, dar lui îi va vorbi.
+
+Cu voia voastră, să-l înştiinţăm
+
+De toate-acestea-aşa cum datoria
+
+Şi dragostea ce i-o purtăm ne-o cere.
+
+MARCELLUS
+
+Să mergem deci. Ştiu unde să-l găsim
+
+Fără de greş, în dimineaţa asta.
+
+(Ies.)
+
+
+
+SCENA 2
+
+Sala tronului în castel.
+
+Intră regina, Hamlet; Polonius, Laertes,
+
+Voltimand, Cornelius, gentilomi şi suită.
+
+
+
+REGELE
+
+Deşi ni-i vie-n amintire moartea
+
+Iubitului Hamlet, al nostru frate,
+
+Şi-ar fi mai potrivit să ne-nchinăm
+
+Tristeţii sufletul, şi-n ţara-ntreagă
+
+Să fie numai jale şi mâhnire,
+
+În cuget totuşi ne-am luptat cu firea
+
+Atât de mult, că azi cu o cuminte
+
+Durere-l pomenim şi totdeodată
+
+Putem a ne-ngriji şi de-ale noastre.
+
+Cu o cernită bucurie deci,
+
+C-un ochi râzând, cu celălalt în lacrimi,
+
+Voioşi în jale, prohodind la nuntă
+
+Şi cumpănind răsfăţul cu mâhnirea,
+
+Pe-a noastră, soră ieri, regină astăzi,
+
+Părtaşă-augustă-ntru ocârmuirea
+
+Războinicului nostru stat, cu noi
+
+Am luat-o de soţie ţinând seama
+
+De sfatul ce ne-aţi dat cu-acest prilej
+
+De bună voie. Şi vă mulţumim.
+
+Aflaţi acum ca Fortinbras cel tânăr —
+
+Punând nu mare preţ pe vlaga noastră;
+
+Sau socotind că statul nostru-i gata
+
+Prin moartea fratelui Hamlet scump nouă,
+
+Să se dărâme, dezbinat; sau poate
+
+Întemeiat pe visu-i de putere —
+
+Ne-a tot trimis solii peste solii
+
+Să-i dăm'napoi acele ţări pierdute
+
+Pe drept, de-al său părinte, în folosul
+
+Viteazului meu frate. Asta-i totul.
+
+Cât despre noi şi rostu-acestui sfat,
+
+Aflaţi-l: scris-am regelui norveg
+
+Ce tânărului Fortinbras i-e unchi,
+
+Dar slăbănog pe patu-i de zăcere
+
+Abia de-o fi ştiut din auzite
+
+De scopul urmărit de-al său nepot —
+
+Să curme toate-aceste pregătiri,
+
+Cu-atât mai mult când chiar supuşii săi
+
+Sunt cei înscrişi şi strânşi la oaste.
+
+Deci vă trimit pe voi cu-acest răvaş,
+
+Tu, Voltimand şi bunule Cornelius,
+
+La regele bătrân, dar fără altă
+
+Îndrituire în solia voastră
+
+Decât este cuprins şi-amănunţit
+
+Aci-n acest tratat. Drum bun. Iar zelul
+
+Să vă-ndrumeze-n datoria voastră.
+
+CORNELIUS şi VOLTIMAND
+
+În tot şi-n toate slugi prea credincioase.
+
+REGELE
+
+Nu mă-ndoiesc. Din inimă, drum bun.
+
+(Voltimand şi Cornelius ies.)
+
+Şi-acum, Laertes, spune-mi, ce-i cu tine?
+
+Vorbeai de-o rugăminte. Spune-mi, care?
+
+Că nu poţi regelui să-i ceri ceva
+
+Pe drept, şi glasul în deşert să-ţi fie.
+
+Ce poţi să-mi ceri şi eu să nu pre'ntâmpin
+
+Cu darul meu? Căci nu-i mai credincioasă,
+
+Laertes, mintea inimii, nici mâna
+
+Mai slujitoare gurii nu-i, decât
+
+Mi-e tronul de legat de tatăl tău,
+
+Laertes, spune-mi!
+
+LAERTES
+
+Doamne prea temut:
+
+Bunăvoinţa şi-nvoirea ta
+
+Să plec în Franţa iar, cu toate că
+
+De bună voie m-am întors în ţară,
+
+La-ncoronare vrând să fiu de faţă.
+
+Dar azi, când datoria mi-e-mplinită,
+
+Mărturisesc ca gândul meu şi dorul
+
+Se-ndreaptă iar spre Franţa şi mă rog
+
+Măriei tale să-ncuviinţezi.
+
+REGELE
+
+Ce spune tatăl tău? Ce spui, Polonius?
+
+POLONIUS
+
+Mi-a smuls cu greu îngăduinţa, sire,
+
+Prin rugăminţi prea mult stăruitoare,
+
+Dar, în sfârşit, pe-a lui dorinţă pus-am
+
+Cu greu pecetea învoirii mele.
+
+Îngăduie-i, te rog în genunchi, să plece.
+
+REGELE
+
+Alege-ţi ceasul potrivit, Laertes,
+
+A ta e vremea, harul şi răsfăţul.
+
+Şi-acum, Hamlet, nepotul meu şi fiu-mi...
+
+HAMLET
+
+Mai mult de-un neam,
+
+Dar mai puţin de-un soi...
+
+REGELE
+
+De ce atârnă încă norii-asupră-ţi?
+
+HAMLET
+
+Prea stau lângă soare.
+
+Părere, sire.
+
+REGINA
+
+Dezbară-te de portul tău cernit,
+
+Hamlet, iubite, şi prieteneşte
+
+Te uită l-al tău rege. Nu căta
+
+Cu genele necontenit plecate
+
+Pe nobilul tău tată în ţărână.
+
+Aşa e dat. Tot ce trăieşte moare,
+
+Tu ştii, trecând prin viaţă-n veşnicie.
+
+HAMLET
+
+Da, doamnă, aşa e dat.
+
+REGINA
+
+Şi dacă-i astfel,
+
+De ce îţi pare atât de nefiresc?
+
+HAMLET
+
+Să mi se pară, doamnă? Nicidecum.
+
+Nu mi se pare: este. Bună mamă,
+
+Nici mantia-mi întunecată, nici
+
+Veşmântu-ndătinat, de mare doliu,
+
+Nici furtunosul răsuflării hohot
+
+Nestăpânit, şi nici izvorul plin
+
+Al lacrimilor, nici mâhnirea feţei
+
+Cu fel şi chip de semne-ale durerii
+
+Nu-s în măsură să m-arate lumii
+
+Aşa cum sunt. Acestea pot să pară
+
+Făţărnicii ce sunt la îndemâna
+
+Oricărui om. Dar ce e-n minte-ntrece
+
+Tot ce se vede. Celelalte-s doar
+
+Găteli ale durerii şi-amăgiri.
+
+REGELE
+
+Spre laudă şi cinste firii tale
+
+E acest prinos de lacrimi, închinat
+
+Părintelui tău. Dar tu ştii, Hamlet,
+
+Că tatăl tău şi-a fost pierdut un tată,
+
+Tatăl acesta mort pierdu pe-al său,
+
+Şi urmaşul e ţinut de datoria-i
+
+De fiu, pe-un timp, la jale-adâncă. Dar
+
+Să stărui într-un doliu îndărătnic
+
+Semn este de orbire nepioasă,
+
+De chin neînţelept; el mai arată
+
+Un cuget răzvrătit faţă de cer,
+
+O minte simplă şi neînvăţată,
+
+Că noi, ceea ce ştim că-i scris şi-obştesc,
+
+Întocmai celui mai de rând din lucruri,
+
+De ce s-o pui la inimă-n această
+
+Ursuză-mpotrivire? E un păcat
+
+În faţa cerului şi-n faţa morţii,
+
+În faţa firii, şi un gând smintit
+
+În faţa judecăţii omeneşti,
+
+Al cărei înţeles obştesc e moartea
+
+Părinţilor şi care de la mortul
+
+Cel mai dintâi şi până la cel care
+
+Muri chiar azi, necontenit ne strigă:
+
+„Aşa e dat să fie!" Te dezbără,
+
+Rugămu-te, de-un doliu de prisos
+
+Şi ne priveşte ca pe un părinte,
+
+Să afle lumea toată că tu eşti
+
+De tronu-mi cel mai apropiat supus,
+
+Iar eu cu o dragoste nu mai prejos
+
+Decât o poartă-un tată mult duios
+
+Odraslei sale, voi veni spre tine.
+
+Cât despre gândul tău de-a te întoarce
+
+La şcoală-n Wittemberg e mult potrivnic
+
+Dorinţei mele. Şi stăruitor
+
+Te rog, înclină-te; rămâi aci,
+
+Răsfăţ şi-alean ochilor mei şi cel mai
+
+Dintâi printre curteni, nepot şi fiu.
+
+REGINA
+
+O, nu lăsa, Hamlet, pe mama ta
+
+Să-şi irosească rugile-n zadar;
+
+Rămâi cu noi aci, şi nu pleca
+
+La Wittemberg: aceasta-i rugămintea-mi.
+
+HAMLET
+
+În tot şi-n toate celea, doamna mea,
+
+Sili-mă-voi să-ţi fiu cât mai supus.
+
+REGELE
+
+O, iată un răspuns frumos şi blând.
+
+Ca mine însumi fii în Danemarca.
+
+Să mergem, doamnă. Această-nduplecare
+
+Nesilnică şi blândă a lui Hamlet
+
+E un zâmbet sufletului meu. Şi-n cinstea-i
+
+Nu va-nchina o cupă regele
+
+Pe care tunul să n-o dea de ştire
+
+Şi norilor. Iar vorbele regeşti
+
+De ceruri fie iarăşi îngânate,
+
+Răsunet tunetului pământesc.
+
+Să mergem.
+
+(Regele, regina şi curtenii ies.)
+
+HAMLET
+
+O, carnea aceasta mult prea închegată
+
+De s-ar topi şi s-ar preface-n rouă,
+
+Sau dacă Cel-de-sus n-ar sta-mpotrivă.
+
+Cu legea lui, uciderii de sine!
+
+O, Doamne, cât de obosit şi searbăd,
+
+Şi de prisos, şi muced mi se pare
+
+Tot rostu-acestei lumi. E o grădină
+
+Ce creşte neplivită. Ierburi rele
+
+În voie-o cotropesc. Unde-am ajuns!
+
+Doar două luni de când muri... nici două;
+
+Un rege atât de bun! Ca un luceafăr
+
+Pe lângă un satir, faţă de acesta,
+
+Şi-atâta de duios cu mama mea,
+
+Că n-ar fi îngăduit să se atingă
+
+Nici vântului ceresc mai cu asprime
+
+De chipul ei. O, ceruri şi pământ!
+
+Să mai mi-aduc aminte? Cât de strâns
+
+De el se alipea, de parcă doru-i
+
+Creştea din chiar îndestularea sa...
+
+Şi-apoi, după o lună... De-aş putea
+
+Să nu mă mai gândesc! O, slăbiciune,
+
+Ţi-e numele femeie! Doar o lună,
+
+Când nici încălţămintea-i nu s-a rupt
+
+Cu care a dus pe tatăl meu la groapă
+
+În lacrimi toată-ntocmai ca Niobe —
+
+Cum, însăşi ea, chiar mama mea, o, Doamne—,
+
+Când şi o fiară fără judecată
+
+Ar fi jelit mai mult — s-a măritat
+
+Cu unchiul meu, al tatălui meu frate,
+
+Dar semănând cu tata nu mai mult
+
+Decât cu Hercul eu! O lună-abia,
+
+Când sarea mincinoaselor ei lacrimi
+
+Din ochii ei roşiţi nici nu s-a şters,
+
+S-a luat cu el! O, desfrânată grabă
+
+Ce-atâta de dibaci a repezit-o-n
+
+Culcuşul patimei nelegiuite!
+
+Nu-i bine aşa, şi nici poate fi.
+
+Dar frânge-te, o, inimă. Că trebuie
+
+De-acum încolo lacăt să-mi pun gurii.
+
+(Intră Horaţio, Marcellus şi Bernardo.)
+
+HORAŢIO
+
+Mă-nchin măriei tale.
+
+HAMLET
+
+Bucuros
+
+Că eşti aci şi teafăr. Nu mă-nşel,
+
+Eşti chiar Horaţio.
+
+HORAŢIO
+
+Însuşi el, stăpâne,
+
+Şi slujitor smerit întotdeauna.
+
+HAMLET
+
+Prieten, domnul meu, aşa să-mi zici.
+
+Din Wittemberg ce te-a adus, Horaţio? Marcellus?
+
+MARCELLUS
+
+Da, stăpâne.
+
+HAMLET
+
+Mă bucur că te văd.
+
+(Către Bernardo). Bine-ai venit.
+
+Dar zău, ce vânt din Wittemberg te-aduce?
+
+HORAŢIO
+
+Un dor hoinar, prea bunul meu stăpân.
+
+HAMLET
+
+N-aş vrea s-aud nici chiar pe-al tău duşman
+
+Rostind cuvântul ăsta împotrivă-ţi
+
+Şi n-ai putea urechea mea s-o-ndupleci
+
+Să creadă-n ce chiar tu mi-ai spus, Horaţio:
+
+Te ştiu prea bine: nu eşti un hoinar.
+
+Ce treburi te-au adus la Elsenor?
+
+Te învăţăm să bei vârtos aicea.
+
+HORAŢIO
+
+Stăpâne, am venit la-ngropăciune.
+
+HAMLET
+
+O, laolalt-am fost prin şcoli; nu-ţi râde
+
+De mine, rogu-te. Că mai degrabă
+
+Socot că vii la nunta mamei mele.
+
+HORAŢIO
+
+Au fost, ce-i drept, cam una după alta.
+
+HAMLET
+
+Economii, Horaţio, economii!
+
+Fripturile rămase de la praznic
+
+Au fost aduse reci la masa nunţii.
+
+Decât să văd această zi, Horaţio,
+
+Era mai bine să mă fi-ntâlnit
+
+În cer cu cel mai crunt duşman al meu.
+
+O, tatăl meu! Parcă-l zăresc pe tata.
+
+HORAŢIO
+
+Stăpâne, unde?
+
+HAMLET
+
+În ochii minţii mele.
+
+HORAŢIO
+
+Eu l-am văzut o dată. Mândru rege!
+
+HAMLET
+
+Dar mai presus de toate-a fost un om
+
+Cum nu mi-e dat să văd ca el un altul.
+
+HORAŢIO
+
+Stăpâne, cred că l-am văzut ieri noapte.
+
+HAMLET
+
+Văzut? Pe cine?
+
+HORAŢIO
+
+Pe regescu-ţi tată.
+
+HAMLET
+
+Pe rege, chiar pe tatăl meu?
+
+HORAŢIO
+
+Stăpâne,
+
+Uimirea ta ţi-o stăpâneşte-o clipă
+
+Şi fii cu luare-aminte, să-ţi vorbesc
+
+De faţă cu-aceşti domni ce-mi stau ca martori,
+
+De-acea minune...
+
+HAMLET
+
+Te conjur, vorbeşte!
+
+HORAŢIO
+
+De două nopţi de-a rândul — aceşti prieteni,
+
+Marcellus şi Bernardo, stând de strajă-n
+
+Deşertul mort al miezului de noapte,
+
+Au fost întâmpinaţi astfel: un chip
+
+Asemeni tatălui măriei tale
+
+Şi-mplătoşat la fel, din tălpi în creştet,
+
+Ieşi-naintea lor cu pas solemn,
+
+Măreţ şi-ncet trecând pe lângă ei.
+
+De trei ori, el s-a perindat în şir
+
+Sub ochii lor uimiţi şi plini de groază,
+
+Şi-atât de-aproape că-i putea atinge
+
+Cu sceptrul. Dar ei, muţi şi îngheţaţi
+
+De frică, n-au vorbit nimic cu el.
+
+În mare tain-apoi mi-au spus acestea.
+
+A treia noapte-am stat cu ei de strajă.
+
+Şi-acolo-ntocmai cum mi-au povestit
+
+De ceas şi loc şi de regescul chip
+
+S-a adeverit în faptă şi-n cuvânt.
+
+Stafia s-a ivit. Recunoscut-am
+
+Pe tatăl tău. O mână cu cealaltă
+
+Nu seamănă mai mult.
+
+HAMLET
+
+Dar unde asta?
+
+HORAŢIO
+
+Stăpâne-acolo unde stăm de strajă.
+
+HAMLET
+
+Vorbitu-i-aţi?
+
+HORAŢIO
+
+Stăpâne, i-am vorbit,
+
+Dar n-a răspuns. O dată-mi pare, totuşi,
+
+Că fruntea şi-a-nălţat într-o mişcare
+
+De parcă ar fi vrut să ne vorbească,
+
+Dar chiar atunci cocoşul a cântat
+
+Şi cântul lui, zoritu-l-a deodată
+
+Şi ne-a pierit din ochi.
+
+HAMLET
+
+Ciudat e foarte!
+
+HORAŢIO
+
+E-adevărat, stăpâne, tot atât
+
+Cum este că trăiesc, şi ne-am gândit
+
+Că-i scris adânc în datoria noastră
+
+Să-ţi spunem tot.
+
+HAMLET
+
+Aşa-i, aşa-i, prieteni,
+
+Într-adevăr, mă tulbură ce-mi spuneţi.
+
+La noapte sunteţi iar de strajă?
+
+MARCELLUS şi BERNARDO
+
+Da!
+
+HAMLET
+
+În zale, ziceţi?
+
+MARCELLUS şi BERNARDO
+
+Da, stăpâne-n zale.
+
+HAMLET
+
+Din coif în tălpi?
+
+MARCELLUS şi BERNARDO
+
+Din creştet în călcâie.
+
+HAMLET
+
+Deci chipul nu i l-aţi văzut?
+
+HORAŢIO
+
+O, da,
+
+Stăpâne, avea viziera ridicată.
+
+HAMLET
+
+Era-ncruntat?
+
+HORAŢIO
+
+Părea mai mult mâhnit,
+
+Decât în prada unei mari mânii.
+
+HAMLET
+
+Şi pal sau rumen?
+
+HORAŢIO
+
+Palid, foarte palid.
+
+HAMLET
+
+Iar ochii lui stăteau ţintiţi asupră-ţi?
+
+HORAŢIO
+
+Stăruitor.
+
+HAMLET
+
+O, de-aş fi fost de faţă!
+
+HORAŢIO
+
+Ai fi rămas uimit din cale-afară.
+
+HAMLET
+
+Nu-ncape îndoială. Şi-a stat mult?
+
+HORAŢIO
+
+Cât numeri pân' Ia sută fără grabă.
+
+MARCELLUS şi BERNARDO
+
+Mai mult, mai mult.
+
+HORAŢIO
+
+Nu când am fost şi eu.
+
+HAMLET
+
+Şi barba lui era căruntă oare?
+
+HORAŢIO
+
+Cum ai văzut-o-n viaţa lui, de-un negru
+
+Cu fire de argint.
+
+HAMLET
+
+La noapte fi-voi
+
+Cu voi de strajă, poate vine iar.
+
+HORAŢIO
+
+Mă ţin chezaş că se arată iar.
+
+HAMLET
+
+De-ntr-adevăr stafia mi se-arată
+
+Sub chipul nobilului meu părinte,
+
+Am să-i vorbesc, chiar de se cască iadul!
+
+Silindu-mă să tac. Şi-acum, vă rog,
+
+De vreme ce-aţi ascuns cele văzute,
+
+Păstraţi-le-n tăcerea voastră încă,
+
+Şi orişice s-ar mai ivi la noapte
+
+Să ţineţi doar în cuget, nu pe buze.
+
+Drum bun. Voi răsplăti credinţa voastră..
+
+La noapte, deci, pe locul cel de strajă,
+
+Voi fi cu voi.
+
+HORAŢIO, BERNARDO şi MARCELLUS
+
+Supuşi măriei tale.
+
+HAMLET
+
+Din inimă, prieteni, bun rămas.
+
+(Ies toţi, afară de Hamlet.)
+
+Al tatălui meu duh, în za.
+
+Nu-i bine! Presimt o mârşăvie.
+
+Vino, noapte!
+
+Iar până-atunci, fii suflete pe pace,
+
+Că făr'delegea iese la iveală
+
+Chiar dacă-ntreg pământul se prăvale
+
+Ca s-o ascundă de-ochii omeneşti.
+
+(Iese.)
+
+
+
+SCENA 3
+
+O cameră în casa lui Polonius. Intră Laertes şi Ofelia.
+
+
+
+LAERTES
+
+Rămâi cu bine, soră. Totu-i gata.
+
+Iar dacă vânt prielnic se iveşte
+
+Şi pleacă vreo corabie, nu dormi,
+
+Dă-mi veşti de-acasă.
+
+OFELIA
+
+Oare te-ndoieşti?
+
+LAERTES
+
+Cât despre gingăşiile cu care
+
+Hamlet azi te răsfaţă, ia-le doar
+
+Ca pe o toană — un joc al sângelui,
+
+O floare-a tinereţii-n primăvară,
+
+Zorită dar nu veşnică, duioasă
+
+Dar trecătoare, o mireasmă numai
+
+Şi-avântul unei clipe. Doar atât.
+
+OFELIA
+
+Atâta numai?
+
+LAERTES
+
+Nu-i da preţ mai mare.
+
+Că firea-n creştere nu se-mplineşte
+
+Doar în puteri şi-n stat, dar când lăcaşul
+
+Cel sfânt sporeşte, atunci şi slujba minţii
+
+Şi-a sufletului creşte. Se prea poate
+
+Să te iubească azi cu o iubire
+
+Curată şi neprihănită. Dar
+
+Tu trebuie să te temi de-a lui mărire;
+
+El însuşi nu-i stăpân pe voia lui,
+
+Că e supusul obârşiei sale
+
+Şi nu e slobod să-şi croiască soarta
+
+Ca orice om de rând; şi ştii prea bine
+
+De cununia lui că-i strâns legată
+
+Statornicia-ntregii noastre ţări,
+
+Şi-alegerea-i e-anume mărginită
+
+De glasul şi-nvoirea-acelui trup
+
+Al cărui cap e el. Şi dacă-ţi spune
+
+Că dragă-i eşti, tu fii cuminte totuşi
+
+Şi crede-l numai în măsura-n care
+
+Din naltul loc şi din a sa pornire
+
+Îi poate fi îngăduit să-şi schimbe
+
+Cuvântu-n faptă. Dar nu mai departe
+
+Decât dă voie glasul Danemarcei.
+
+Măsoară deci cât poate cinstea ta
+
+Şi inima să piardă şi comoara
+
+Făpturii tale, dacă s-ar supune
+
+Nestăpânitei sale stăruinţi.
+
+Deci teme-te de el, o dulce soră
+
+Ofelia, şi dorul tău ascunde-l
+
+Departe de primejdia ispitei.
+
+Şi cea mai îndărătnică fecioară
+
+Prea darnică-i cu frumuseţea ei
+
+Dezvăluind-o chiar şi-n faţa lunii.
+
+Virtutea însăşi pradă-i defăimării,
+
+Lăstarul primăverii-e ros de viermi
+
+Când muguru-i nici n-a prins încă viaţă
+
+Şi-n rouă şi în zorii tinereţii
+
+Ades se-abate-un vânt înveninat.
+
+Ia seama deci; scăparea e-n veghere;
+
+Duşmanul tinereţii e-n ea însăşi.
+
+Chiar şi când nimeni nu o ameninţă.
+
+OFELIA
+
+Povaţa ta-nţeleaptă-o voi păstra
+
+Ca strajă inimii. Dar, bune frate,
+
+Nu-mi arăta doar asprul drum spre ceruri
+
+Asemeni preoţilor fără har
+
+Pe când tu însuţi ca un desfrânat
+
+Sătul şi fără grijă iei poteca
+
+De flori împodobită-a desfătării,
+
+Uitând de-nvăţătura ta.
+
+LAERTES
+
+N-ai teamă! Am zăbovit. Dar iată, vine tata.
+
+(Intră Polonius.)
+
+Prilejul îmi surâde la plecare
+
+Şi-o îndoită binecuvântare
+
+Pogoară-asupră-mi har de două ori.
+
+POLONIUS
+
+Laert, ruşine! Tot aici? La navă!
+
+Prielnic vânt se umflă-n pânza ei.
+
+Eşti aşteptat. Te binecuvântez,
+
+Şi să-ţi întipăreşti aceste sfaturi
+
+În mintea ta: să nu dai grai gândirii
+
+Nici împliniri smintitelor dorinţi.
+
+Nu fi trufaş, dar nici nu te-njosi.
+
+Prieteni încercaţi, de ţi-ai ales,
+
+De suflet, prinde-i cu verigi de-oţel,
+
+Dar palma să nu-ţi toci în cârdăşie
+
+Cu-orice fârtat golaş de-abia ouat.
+
+Fereşte-te de vrajbă, dar o dată
+
+Intrat în ea, te poartă-n aşa chip
+
+Încât duşmanului să-i pară rău.
+
+Urechea ta ţi-o pleacă orişicui,
+
+Dar să-ţi audă glasul doar aleşii.
+
+Pe fiecare află-l ce gândeşte,
+
+Dar nu-i destăinui ce cugeţi tu.
+
+Te-mbracă-n scump veşmânt dacă-ţi dă mâna,
+
+Nu însă fistichiu: bogat, dar nu prea,
+
+C-adesea judeci omul după port.
+
+În Franţa cei mai mari în rang şi-avere
+
+Se-arată-n asta iscusiţi şi darnici.
+
+Nu da şi nu lua bani cu împrumut,
+
+Că pierzi şi banii şi prietenia,
+
+Căci împrumutul seacă buna stare.
+
+Iar mai presus de-orice: nu te minţi
+
+Pe tine însuţi. Şi de-aci urmează,
+
+Ca noaptea după.zi, că nimănui
+
+Nu vei putea să-i fii de rea-credinţă.
+
+Drum bun. Şi binecuvântarea mea
+
+Rodească-n tine sfaturile-acestea.
+
+LAERTES
+
+Smerit îmi iau, stăpâne, bun rămas.
+
+POLONIUS
+
+Eşti aşteptat. Te du. E tocmai vremea.
+
+LAERTES
+
+Rămâi cu bine, soră. Ţine minte
+
+Povaţa mea.
+
+OFELIA
+
+Mi-e-n cuget zăvorâtă,
+
+Iar cheia ei o vei păstra chiar tu.
+
+LAERTES
+
+Adio.
+
+(Iese.)
+
+POLONIUS
+
+Ce ţi-a spus Laert, Ofelia?
+
+OFELIA
+
+Cu voia ta, ceva despre Hamlet.
+
+POLONIUS
+
+E bine, zău, că mi-ai adus aminte.
+
+Am prins de veste că de la o vreme
+
+Domnia-sa ţi-nchină-ntreg răgazu-i,
+
+Iar tu te-arăţi faţă de el cu mult
+
+Prea darnică şi primitoare. Dacă-i
+
+Aşa, şi-i chiar ce mi s-a spus, mă simt
+
+Dator să-ţi spun că nu-ţi dai bine seama
+
+De ceea ce se cade şi ce nu
+
+Fiicei mele şi onoarei sale
+
+Să nu-mi ascunzi nimic: ce e-ntre voi?
+
+OFELIA
+
+Mi-a dat, stăpâne, nu demult, dovezi
+
+De dragostea ce-mi poartă.
+
+POLONIUS
+
+De dragoste? Vorbeşti ca o fetiţă
+
+Ce n-a trecut prin sitele primejdiei.
+
+Te-ncrezi în ceea ce numeşti dovezi?
+
+OFELIA
+
+Nici eu, stăpâne, nu ştiu ce să cred.
+
+POLONIUS
+
+Te-nvăţ eu, zău! eşti chiar ca un copil!
+
+Dovezile-astea tu le iei drept bune
+
+Şi-s numai fleacuri. Ţine-te mai mândră,
+
+Altminteri, ca să nu-mi pierd şirul vorbei —
+
+C-am luat-o razna — o să-mi pari o proastă.
+
+OFELIA
+
+Zoritu-m-a cu dragostea-ntr-un fel,
+
+Stăpâne, plin de cuviinţă.
+
+POLONIUS
+
+Un fel sau altul, lasă, zi-i nainte!
+
+OFELIA
+
+Şi spusele-i şi le-a-ntărit, stăpâne,
+
+Jurându-se pe toate cele sfinte.
+
+POLONIUS
+
+Hei, laţuri de prins prepeliţe. Ştiu,
+
+Când sângele e-n clocot, cât de darnic
+
+E sufletul cu gura-n jurăminte.
+
+Vâpăile acestea, fata mea
+
+Ce strălucesc şi nu prea dau căldură,
+
+Stingându-se când crezi că-s mai în toi,
+
+Tu nu le lua drept foc. Fii mai zgârcită
+
+Cu feciorelnica-ţi prezenţă; pune
+
+Mai mult preţ pe tovărăşia ta,
+
+Încât să nu i-o dărui la poruncă.
+
+Cât despre prinţul Hamlet, să nu uiţi
+
+Că tânăr e şi-i este-ngăduit
+
+Să joace-n ham mai slobod decât tine.
+
+Pe scurt, Ofelia, nu te-ncrede-n el;
+
+Căci jurămintele-i nu sunt misiţii
+
+Vopselii ce pe straie li se vede,
+
+Ci soli ai unui gând nelegiuit
+
+Şoptind ca un codoş mironosit
+
+Să poată păcăli mai bine. Atât.
+
+De-acum încolo nu mai vreau s-aud
+
+Că-ţi înjoseşti până-ntr-atât răgazul
+
+La vorbă şi la glumă cu Hamlet.
+
+Ia seama,-ţi poruncesc. Te du cu bine...
+
+OFELIA
+
+Stăpâne, am să te ascult.
+
+(Ies.)
+
+
+
+SCENA 4
+
+Terasa, Intră Hamlet, Horaţio şi Marcellus.
+
+
+
+HAMLET
+
+E-un frig cumplit şi aeru-i tăios.
+
+HORAŢIO
+
+E-un aer aprig şi pătrunzător.
+
+HAMLET
+
+O fi târziu?
+
+HORAŢIO
+
+E-aproape miezul nopţii.
+
+MARCELLUS
+
+A şi bătut.
+
+HORAŢIO
+
+Adevărat? N-am auzit. E vremea
+
+Când duhu-obişnuieşte-a rătăci.
+
+(Fanfare. Salve de artilerie.)
+
+HORAŢIO
+
+Măria ta, ce-nseamnă asta?
+
+HAMLET
+
+În noaptea asta regele veghează.
+
+Fălosul face chef, se-mpleticeşte,
+
+Şi când mai dă pe gât un vin de Rin,
+
+Chimvalul şi trompeta rag în cinstea
+
+Măreţei lui isprăvi.
+
+HORAŢIO
+
+E-o datină?
+
+HAMLET
+
+O, doamne, da!
+
+Dar eu socot, deşi sunt băştinaş,
+
+Cu datina crescut, c-ar fi mai bine
+
+S-o rupi cu ea, decât s-o ţii. Aceste
+
+Chiolhanuri ne-au făcut de râs şi-ocară
+
+La răsărit şi-apus, la alte neamuri.
+
+Ne zic beţivi şi câte alte vorbe
+
+Porceşti, spre-a ne mânji, şi asta scade
+
+Din meritu-ne-oricât de mare-ar fi,
+
+Şi măduva şi miezul vredniciei.
+
+Aşa se-ntâmplă-ades cu unii oameni
+
+Năpăstuiţi de fire, din născare
+
+Cu vreun cusur — de care nu-s de vină,
+
+Căci nimeni nu-şi alege obârşia —
+
+Prin chiar prisosul vr'unei însuşiri
+
+Ce rupe stăvilarul cumpătării,
+
+Sau prin câte-un nărav dospit în ei
+
+Rupând tiparul celor cuvenite —
+
+Făpturile-astea, zic, purtând pecetea
+
+Metehnei lor, din soartă sau din fire,
+
+Virtutea lor, de-ar fi ea preacurată
+
+Ca sfântul har, şi-ar fi nemărginită
+
+Cât poate firea omului s-o-ncapă,
+
+Şi lumea tot o va huli, că dramul
+
+De rău, îi strică-ntregul, vrednic miez.
+
+(Intră Duhul.)
+
+HORAŢIO
+
+Măria ta, priveşte!
+
+HAMLET
+
+Îngeri şi soli cereşti, păziţi-ne!
+
+De eşti duh sfânt sau blestemat strigoi,
+
+De-aduci duhori din iad sau o mireasmă
+
+Din cer, de vii cu gând milos sau vitreg —
+
+Te-arăţi c-un chip atât de îmbietor,
+
+Încât îţi voi vorbi. Îţi spun Hamlet,
+
+Părinte, rege-al ţării. O, răspunde-mi!
+
+Să nu mă laşi să ard în neştiinţă;
+
+De ce, sfinţite, ale tale oase,
+
+Culcate-n raclă, giulgiul şi l-au rupt;
+
+De ce mormântu-n care te ştiam
+
+Dormind în tihnă-ntocmai ca-ntr-o urnă,
+
+Îşi cască fălcile de marmură
+
+Zvârlindu-te afară? Ce să-nsemne
+
+Că tu, leş mort, împlătoşat cutreieri
+
+Sub raza blândă-a lunii, bântui noaptea,
+
+Pe când pe noi, paiante ale firii,
+
+Ne scuturi groaznic mintea cu gândiri
+
+Ce trec hotarul sufletelor noastre?
+
+De ce acestea? Spune-mi, ce să fac?
+
+(Duhul îi face semn lui Hamlet.)
+
+HORAŢIO
+
+Îţi face semn să-l însoţeşti, de parcă
+
+Doreşte să-ţi vorbească numai ţie.
+
+MARCELLUS
+
+Priveşte cu ce-ndemn curtenitor
+
+Te-mbie spre un loc mai singuratic.
+
+Dar nu te duce!
+
+HORAŢIO
+
+Nu, cu nici un chip!
+
+HAMLET
+
+Nu va vorbi; deci trebui' să-l urmez.
+
+HORAŢIO
+
+Stăpâne, nu-l urma!
+
+HAMLET
+
+De ce m-aş teme?
+
+Nu dau pe viaţa-mi preţul unui ac,
+
+Iar sufletului meu ce-i poate face
+
+Când e nemuritor cum e şi el?
+
+Mă-ndeamnă iar. Am să-l urmez.
+
+HORAŢIO
+
+Dar dacă
+
+Te-atrage, o stăpâne, spre talazuri,
+
+Sau către-ngrozitorul stâncii pisc
+
+Ce-atârnă aplecat deasupra mării
+
+Şi-acolo, luând vr'un alt chip, mai de spaima.
+
+Ce te-ar putea lipsi de-al minţii reazim,
+
+Te va târî apoi în nebunie?
+
+Gândeşte: locul, numai, şi-i destul
+
+Să işte jocurile deznădejdii
+
+În orice cuget, dacă stă acolo
+
+La înălţime de atâţia stânjeni
+
+Să vadă marea şi să o audă
+
+Cum urlă dedesubt.
+
+HAMLET
+
+Mă cheamă iar. Porneşte! Te urmez!
+
+MARCELLUS
+
+Stăpâne, nu te duce!
+
+HAMLET
+
+Mâna jos!
+
+HORAŢIO
+
+Fii tare! Nu te du!
+
+HAMLET
+
+Mă strigă soarta,
+
+În orice fir plăpând al cestui trup
+
+Turnând puteri ca-n leul din Nemeea.
+
+Mă cheamă iar. Jos mâna, domnii mei!
+
+Fac un strigoi din cel ce-mi ţine calea,
+
+V-o jur. În lături! Te urmez! Porneşte!
+
+HORAŢIO
+
+Închipuirea-l face-a-şi pierde mintea.
+
+MARCELLUS
+
+Hai după el. Să nu-l fi ascultat!
+
+HORAŢIO
+
+Hai, luaţi-i urma. Unde-or duce-acestea?
+
+MARCELLUS
+
+Ceva în ţara Danemarcii-i putred.
+
+HORAŢIO
+
+Păzească-l cerul!
+
+HAMLET
+
+Nu! Hai să-l urmărim.
+
+(Ies.)
+
+
+
+SCENA 5
+
+Altă parte a terasei.
+
+
+
+HAMLET
+
+Unde mă duci? Vorbeşte!
+
+Mai departe
+
+Nu merg!
+
+DUHUL
+
+Ascultă-mă.
+
+HAMLET
+
+Te-ascult.
+
+DUHUL
+
+Curând
+
+Îmi bate ceasu-ntoarcerii
+
+La chinuri în flăcări şi pucioasă.
+
+HAMLET
+
+Duh sărman!
+
+DUHUL
+
+Să nu mă plângi. Dar fii cu luare-aminte
+
+La tot ce-ţi voi destăinui.
+
+HAMLET
+
+Vorbeşte! Mi-e dat să te ascult...
+
+DUHUL
+
+Şi-ţi va fi dat
+
+Apoi să mă răzbuni.
+
+HAMLET
+
+Ce vrei să spui?
+
+DUHUL
+
+Sunt duhul tatălui tău
+
+Şi-s osândit să rătăcesc prin noapte
+
+O vreme, ziua să postesc în flăcări,
+
+Păcatul vieţii-n foc să-mi curăţesc.
+
+De mi-ar fi-ngăduit să cuvântez,
+
+De taina temniţii mele ţi-aş spune
+
+Ceva din care-o vorbă-ar fi destul
+
+Să-ţi răscolească sufletul, să-ngheţe
+
+În tine tânărul tău sânge. Ochii
+
+Ca două stele ţi-ar ţâşni din cap,
+
+Zulufii-ţi cârlionţaţi s-ar dezbina
+
+Şi fir de fir a sta zbârliţi apoi
+
+Ca ţepii-unui arici înspăimântat.
+
+Vecia însă nu-i pentru urechi
+
+De carne şi de sânge. O, ascultă,
+
+Pe tatăl tău de l-ai iubit cândva...
+
+HAMLET
+
+O, Doamne!
+
+DUHUL
+
+Răzbună-i mârşava ucidere.
+
+HAMLET
+
+Ucidere?
+
+DUHUL
+
+O mârşavă ucidere, ca toate —
+
+Aceasta însă mai presus de-oricare,
+
+Ciudată, mârşavă-mpotriva firii.
+
+HAMLET
+
+Grăbeşte-te şi spune-mi.
+
+Să-mi iau zborul.
+
+Cu aripi iuţi ca dorul şi ca gândul
+
+Să mă răzbun.
+
+DUHUL
+
+Eşti vrednic, văd. Şi-ai fi
+
+Mai lânced decât buruiana grasă
+
+Ce creşte-n ţărmul apelor uitării.
+
+De nu te-ai îngrozi. Acum ascultă, Hamlet.
+
+S-a spus că adormit fiind
+
+Odată, în livadă, m-a muşcat
+
+Un şarpe. Danemarca-ntreagă a fost
+
+Prin ticluita veste-a morţii mele
+
+Minţită grosolan. Dar afl-acum,
+
+Nobile tânăr, şarpele acela
+
+Ce tatălui tău viaţa i-a răpus-o
+
+Îi poartă azi coroana.
+
+HAMLET
+
+Unchiul meu! O, sufletu-mi profetic!
+
+DUHUL
+
+El, scârnava şi desfrânata fiară
+
+Cu duh de vrăjitor, viclene daruri —
+
+O, josnic duh şi daruri ce-au putinţa
+
+De a momi astfel — a-nduplecat
+
+La pofta-i ruşinoasă pe regina-mi
+
+Ce după chip părea virtutea însăşi!
+
+Ce prăbuşire, o, Hamlet! s-ajungă
+
+De la iubirea mea care-i păstrase
+
+Sfinţenia jurată la altar,
+
+De gâtul unui ticălos, ce-n daruri
+
+Fireşti e-un nevoiaş pe lângă mine.
+
+Dar după cum virtutea nu se lasă
+
+De viciu ispitită, chiar când pare
+
+Ca un luceafăr — patima, în schimb,
+
+De-ar fi c-un înger luminos unită,
+
+Se satură de-un pat ceresc; o cheamă
+
+Gunoiul. Dar tăcere. Parcă simt
+
+Mireasma dimineţii. Să fiu scurt.
+
+Dormeam ca de-obicei după-amiaza
+
+Într-o grădină, când, în tihna mea,
+
+Cu zeamă blestemată de cucută
+
+Într-o sticluţă, unchiul tău veni
+
+Şi-n porţile urechii-mi deşertă
+
+Acel venin, de lepră dătător,
+
+Şi-atât de duşman sângelui de om,
+
+Că iute ca argintul viu pătrunde
+
+Prin ale trupului poteci şi stavili
+
+Şi cu năprasnică putere-ncheagă,
+
+Precum oţelul picurat în lapte,
+
+Un sânge limpede şi sănătos.
+
+Aşa şi eu. Am fost, numaidecât,
+
+Acoperit, asemenea lui Lazăr,
+
+De o pecingine cu hâde coji,
+
+Pe trupu-mi neted.
+
+Astfel, în somn, un frate mi-a furat
+
+Cu mâna lui regina, tronul, viaţa,
+
+Şi m-a trimis neuns, nespovedit,
+
+Nepregătit, la marea judecată,
+
+Tăiat când înflorea pacatu-n mine,
+
+Cu nedesăvârşirea-mi toată-asupră-mi.
+
+O, groaznic, groaznic, groaznic, mult prea groaznic!
+
+De-ai inimă în tine, nu răbda!
+
+Nu-ngădui regescul pat al ţării
+
+Desfrâu s-adăpostească şi incest.
+
+Da-n orice chip ai urmări păcatul
+
+Nu-ţi pângări nici sufletul, nici gândul,
+
+Cercând ceva-mpotriva mamei tale.
+
+Mai bine las-o Domnului şi-acelui
+
+Spin care-n sân o-nghimpă şi o-njunghie.
+
+Rămâi cu bine-acum, că licuriciul
+
+Vesteşte-apropierea dimineţii
+
+Şi-şi stinge-ncet zadarnica văpaie.
+
+Să nu mă uiţi. Adio, o adio.
+
+(Iese.)
+
+HAMLET
+
+O, voi oştiri cereşti! Pământ! Ce încă?
+
+S-adaug iadul? Inimă, fii tare!
+
+Iar voi, puteri, nu-mbătrâniţi deodată,
+
+Mă ţineţi drept! Să nu te uit? Pe tine!
+
+Cât timp în globu-acesta rătăcit
+
+Va dăinui aducerea aminte,
+
+Sărmane duh, n-am să te uit! Voi şterge
+
+Din amintire orice dor mărunt,
+
+Tot ce-am aflat din cărţi, învăţături
+
+Şi chipuri, cercetate-n tinereţe,
+
+Şi fără-amestec cu-alte griji de rând
+
+Trăi-va singură porunca ta
+
+În cartea şi-n cuprinsul minţii mele.
+
+Femeie, mult primejdioasă! O,
+
+Mişel, o zâmbitor şi blestemat
+
+Mişel! Tabletele! Să-nsemn că poţi
+
+Zâmbi şi iar zâmbi şi fi mişel!
+
+Aşa e, cel puţin, în Danemarca,
+
+Sunt sigur. Unchiule, eşti al meu! Şi-acum
+
+Lozinca mea-i: „Să nu mă uiţi! Adio,
+
+Adio". Am jurat.
+
+HORAŢIO şi MARCELLUS
+
+Stăpâne Hamlet!
+
+MARCELLUS
+
+Hamlet!
+
+HORAŢIO
+
+Doamne-ajută-l!
+
+HAMLET
+
+Aşa să fie!
+
+MARCELLUS
+
+Hehehei! Lord Hamlet!
+
+HAMLET
+
+Hehehehei, băieţi! Hai, puişori!
+
+(Intră Marcellus şi Horaţio.)
+
+MARCELLUS
+
+Mărite prinţ, ce e?
+
+HORAŢIO
+
+Ce-i nou, stăpâne?
+
+HAMLET
+
+O, minunat!
+
+HORAŢIO
+
+Ne spui, stăpâne?
+
+HAMLET
+
+Nu! Veţi da-n vileag.
+
+HORAŢIO
+
+Eu nu, stăpâne, jur!
+
+MARCELLUS
+
+Nici eu, stăpâne!
+
+HAMLET
+
+O, cine şi-ar fi-nchipuit?
+
+Ce ziceţi? Dar veţi tăcea?
+
+HORAŢIO şi MARCELLUS
+
+Pe cer, stăpâne, da!
+
+HAMLET
+
+În toată Danemarca nu-i mişel
+
+Ce ticălos de frunte să nu fie.
+
+HORAŢIO
+
+Nu trebuia să vie-un mort din groapă
+
+Ca s-aflam asta!
+
+HAMLET
+
+Sigur, ai dreptate
+
+Şi fără multă vorbă, deci, mai bine-i
+
+Să ne dăm mâna, să ne despărţim
+
+Care-ncotro-l duc trebile şi dorul,
+
+Că toţi avem dorinţe şi nevoi
+
+De-un fel sau alt. Iar eu, vedeţi voi, eu
+
+Mă duc, şi-am să mă rog.
+
+HORAŢIO
+
+Stăpâne, astea-s vorbe-n vânt şi goale...
+
+HAMLET
+
+Că te-au jignit, îmi pare rau din suflet,
+
+Dar crede-mă...
+
+HORATIO
+
+Nici o jignire, prinţe!
+
+HAMLET
+
+Ba da, pe sfântul Patrick, este una,
+
+Horaţio, o jignire grea. Cât despre
+
+Vedenie, îngăduie-mi să-ţi spun,
+
+E-un duh cinstit. Iar nerăbdarea voastră
+
+S-aflaţi ce-a fost între noi doi, frânaţi-o
+
+Cum ştiţi. Şi-acum, prieteni dragi de-mi sunteţi,
+
+Ca fraţi de arme şi de-nvăţătură,
+
+Îndepliniţi-mi o umilă rugă.
+
+HORAŢIO
+
+Tot ce doreşti, stăpâne, spune!
+
+HAMLET
+
+Nici un cuvânt de cele ce-aţi văzut!
+
+HORAŢIO şi MARCELLUS
+
+Stăpâne, nu, nu vom vorbi!
+
+HAMLET
+
+Juraţi-mi!
+
+HORAŢIO
+
+Pe legea mea că nu!
+
+MARCELLUS
+
+Nici eu, vă jur!
+
+HAMLET
+
+Pe spada mea!
+
+MARCELLUS
+
+Dar am jurat, stăpâne!
+
+HAMLET
+
+Pe spadă totuşi, rogu-vă, pe spadă!
+
+DUHUL
+
+Juraţi!
+
+HAMLET
+
+Aha, băiete! spui şi tu la fel?
+
+Aci mi-erai comoara mea?
+
+Ei, haideţi,
+
+— Îl auziţi pe-acel fârtat din beciuri —
+
+Vă rog, juraţi!
+
+HORAŢIO
+
+Cum sună jurământul?
+
+HAMLET
+
+A nu vorbi nicicând de ce-aţi văzut,
+
+Juraţi pe spada mea!
+
+DUHUL (Dedesubt.)
+
+Juraţi!
+
+HAMLET
+
+Hic et ubique? Să schimbăm deci locul;
+
+Veniţi pe lângă mine, domnii mei,
+
+Şi puneţi mâna iar pe spada mea.
+
+DUHUL
+
+Juraţi.
+
+HAMLET
+
+Că bine zici, sobol bătrân. Poţi oare
+
+Să scormoni sub pământ atât de grabnic?
+
+Ce vrednic săpător! încă o dată
+
+Din loc să ne mişcăm, prieteni buni!
+
+HORATIO
+
+O, zi, o, noapte! Cât de stranii lucruri!
+
+HAMLET
+
+Întâmpină-le deci ca un străin,
+
+Căci se petrec în cer şi pe pământ
+
+Mai multe lucruri de câte-a visat
+
+Horaţio, filozofia ta.
+
+Veniţi dar, şi-mi juraţi aci din nou,
+
+Pe Dumnezeu, că niciodat', oricât
+
+Vi s-ar părea de ne'nţeles, ciudată,
+
+Purtarea mea — căci s-ar putea-ntâmpla
+
+Să mă arăt, cândva, cam năzdrăvan —
+
+Văzându-mă atunci, voi, niciodată,
+
+Prin braţe-ncrucişate-aşa pe piept
+
+Sau clătinări din cap, sau alte vorbe
+
+De îndoială: „Da, se poate", sau:
+
+"Sunt şi-unii ce-nţeleg", sau orice alte
+
+Cuvinte în doi peri, să n-arătaţi
+
+Că ştiţi ceva anume despre mine.
+
+Aşa să vă ajute sfântul har.
+
+DUHUL
+
+Juraţi!
+
+HAMLET
+
+O, pace ţie, suflet chinuit!
+
+Şi-acum, din toată inima, cu voi sunt,
+
+Şi tot ce poate face, domnii mei,
+
+Un om sărman ca mine, să v-arate
+
+Iubirea lui, va face-o cu-nvoirea
+
+Lui Dumnezeu. Să mergem împreună.
+
+Şi ţineţi degetul, vă rog, pe buze,
+
+Că vremile ieşitu-şi-au din matcă —
+
+O, soartă blestemată, nenoroc
+
+Să fiu născut ca să le-adun la loc.
+
+Veniţi, să mergem împreună.
+
+(Ies.)
+
+
+
+
+
+ACTUL II
+
+
+
+SCENA 1
+
+O încăpere în casa lui Polonius. Intră Polonius şi Reynaldo.
+
+
+
+POLONIUS
+
+Dă-i banii şi scrisorile acestea, Reynaldo.
+
+REYNALDO
+
+Da, stăpâne.
+
+POLONIUS
+
+Ar fi cuminte, dragul meu Reynaldo,
+
+Înainte de a-l vedea, să cercetezi,
+
+Cam cum se poartă.
+
+REYNALDO
+
+Chiar aveam de gând.
+
+POLONIUS
+
+Nu, zău, că bine zici. Cată, Reynaldo,
+
+De află ce danezi sunt la Paris,
+
+Ce viaţă duc, ce cheltuială fac
+
+Din ce mijloace şi cu cin' se-adună,
+
+Şi-aflând prin întrebări meşteşugite
+
+Că îl cunosc pe fiul meu, te-apropie
+
+Mai mult decât dacă-i întrebi de-a dreptul.
+
+Prefă-te că-l cunoşti din auzite,
+
+De pildă: „Mda,-l cunosc pe tatăl lui,
+
+Şi neamurile, poate şi pe el"...
+
+Reynaldo, înţelesu-m-ai tu bine?
+
+REYNALDO
+
+Stăpâne, de minune.
+
+POLONIUS
+
+„...Şi poate şi pe el"... şi poţi s-adaugi:
+
+„Dar nu prea bine; şi, de nu mă-nşel,
+
+E cam nestăpânit, cam zvăpăiat".
+
+Şi dă-i nainte-aşa cu născociri,
+
+Dar cu măsură, nu-l făcea de-ocară,
+
+Să bagi de seama bine la aceasta,
+
+Poţi, domnul meu, vorbi despre crailâcuri,
+
+Greşeli şi pozne bine cunoscute
+
+Ca fiind tovarăşele tinereţii
+
+Lăsată-n voia ei.
+
+REYNALDO
+
+Stăpâne...
+
+POLONIUS
+
+Jocul de cărţi.
+
+Cheful, sfada sau duelul,
+
+Muierile, fireşte, dar atât!
+
+REYNALDO
+
+Stăpâne, dar înseamn-a-l necinsti.
+
+POLONIUS
+
+Zău nu, de te pricepi a cumpăni
+
+Să nu-l împovărezi cu alt cusur
+
+Decât, de pildă, al nestăpânirii.
+
+Nu asta-aveam de gând, dar adu vorba
+
+Atât de gingaş de-ale lui năravuri,
+
+Încât să pară-un rod al libertăţii,
+
+Scânteia şi zbucnirea minţii-n flăcări,
+
+Dezlănţuirea sângelui în clocot
+
+Ce iureş dă.
+
+REYNALDO
+
+Dar, scumpul meu stăpân...
+
+POLONIUS
+
+De ce anume-aşa?
+
+Aş vrea să ştiu.
+
+REYNALDO
+
+O, da, stăpâne.
+
+POLONIUS
+
+E chiar ce urmăresc
+
+Şi cred că planul meu e fără greş;
+
+Că ponegrind niţel pe fiul meu
+
+Şi-mpovărându-l cu uşoare-abateri,
+
+Ia bine seama,
+
+Acel pe care-l iscodeşti cu vorba
+
+De l-a văzut cândva păcătuind
+
+Pe tânărul pe care l-ai bârfit,
+
+În strună-ţi va cânta în felul ăsta:
+
+„Prietene", sau: „domnul meu", „seniore"
+
+Precum o cere buna-cuviinţă,
+
+Sau graiul ţării, sau al celui om.
+
+REYNALDO
+
+Stăpâne, bine.
+
+POLONIUS
+
+Şi, pe urmă, domnul meu,
+
+El o să te... el o să...
+
+Pe sfânta liturghie, tocmai
+
+Voiam să spun ceva. Unde rămăsesem?
+
+REYNALDO
+
+La: „O să-ţi cânte-n strună",
+
+La: „Domnul meu, prietene"...
+
+Sau aşa ceva.
+
+POLONIUS
+
+Da, tocmai. „Cunosc pe domnu-acesta
+
+— o să-ţi spună
+
+Şi l-am văzut chiar ieri-alaltăieri,
+
+Sau altă dată cu vreun ins sau altul,
+
+Şi-aşa cum spui, juca la cărţi sau bea
+
+Din cale-afară", sau: „La joc cu mingea
+
+Se-ncăiera cu toţi", sau: „L-am văzut
+
+Intrând în câte-o casă deocheată",
+
+Adică la bordel, şi multe de-astea.
+
+Ia seama, deci!
+
+Momeala vicleşugurilor tale
+
+Agaţă capul adevărului,
+
+Iar noi, cei cu pătrundere şi minte,
+
+Prin sforării şi prin piezişe căi
+
+Ajungem cu ocoluri drept la ţintă.
+
+La fel şi tu, prin sfatul meu şi prin
+
+Învăţătura dată, ai să te-apropii
+
+De fiul meu. M-ai înţeles, aşa-i?
+
+REYNALDO
+
+Stăpâne-am înţeles.
+
+POLONIUS
+
+Drum bun, Reynaldo,
+
+Şi mergi cu Dumnezeu.
+
+REYNALDO
+
+Stăpâne scump!
+
+POLONIUS
+
+Ia seama la năravu-i, pe tăcute.
+
+REYNALDO
+
+Stăpâne, da.
+
+POLONIUS
+
+Şi-l laşi să tot vorbească.
+
+REYNALDO
+
+Stapâne-aşa voi face.
+
+POLONIUS
+
+Cale bună!
+
+(Intră Ofelia.)
+
+Ofelia, ce-i? Ţi s-a-ntâmplat ceva?
+
+OFELIA
+
+Stăpâne, m-am speriat atât de rău.
+
+POLONIUS
+
+În numele lui Dumnezeu, de ce?
+
+OFELIA
+
+Pe când coseam, stăpâne, în iatac,
+
+Hamlet intră, cu capul gol, cu haina
+
+În neorânduială, cu ciorapii
+
+Desprinşi, căzuţi pe glezne, răsuciţi,
+
+Şi alb la faţă cum îi e cămaşa;
+
+Genunchii-i se ciocneau unul de altul
+
+Şi-atât de jalnic la înfăţişare,
+
+Că parc-atunci ar fi scăpat din iad
+
+Să spună lumii groaza de acolo,
+
+Încet venit-a până-n faţa mea.
+
+POLONIUS
+
+Nebun din dragoste?
+
+OFELIA
+
+Stăpâne, nu ştiu,
+
+Dar, zău, mă tem că da.
+
+POLONIUS
+
+Şi ce ţi-a spus?
+
+OFELIA
+
+M-a prins şi strâns de-ncheietura mâinii
+
+Şi dând 'napoi lungime ca de-un braţ,
+
+Cu palma pusă streaşină la frunte
+
+Cu-atâta luare-aminte s-a uitat
+
+La chipu-mi, parcă îmi făcea portretul;
+
+A stat aşa-ndelung şi-ntr-un sfârşit,
+
+Uşor de tot m-a scuturat de mână,
+
+A dat din cap, la rând, de vreo trei ori,
+
+Şi-atât de-adânc a suspinat şi jalnic
+
+De parcă-ntregu-i trup se zguduia
+
+Să-şi dea sfârşitul. M-a lăsat, şi-apoi
+
+Cu capu-ntors spre mine, peste umăr,
+
+Părea că fără ochi îşi află calea,
+
+Căci fără de-ajutorul lor ieşi
+
+Pe uşă-afară, iar lumina lor
+
+Asupră-mi şi-a ţintit-o pân' la urmă.
+
+POLONIUS
+
+Mă duc la rege. Vino, hai cu mine.
+
+E nebunia dragostei, fireşte,
+
+A cărei însuşire-i să se piardă
+
+Pe sine însăşi în mânia ei,
+
+Mânând pe calea deznădejdii vrerea
+
+Mai mult ca orice patima sub cer
+
+Din cele ce ne bântuie pe noi.
+
+Îmi pare rău. Vorbitu-i-ai prea aspru?
+
+OFELIA
+
+Stăpâne-o, nu! dar cum mi-ai poruncit,
+
+Întorsu-i-am scrisorile, oprindu-l
+
+De-a mai veni.
+
+POLONIUS
+
+Dintr-asta-a-nnebunit!
+
+Îmi pare rău că nu l-am cântărit
+
+Mai cu măsură şi cu judecată.
+
+Temutu-m-am c-a vrut doar să se joace
+
+Şi să se ducă astfel la pierzare.
+
+O, blestemată fie-mi bănuiala!
+
+Mă jur că e cusurul vârstei noastre
+
+Să judecăm prea aspru ce vedem,
+
+Aşa cum tinereţea se pripeşte
+
+Ades şi ea. Să ne grăbim la rege,
+
+El trebuie să afle de-acest lucru
+
+Ce-i mult mai primejdios ţinut în taină
+
+Decât dacă-l voi da-n vileag. Să mergem.
+
+(Ies.)
+
+
+
+SCENA 2
+
+O sală în castel. Fanfară. Intră regele,
+
+regina, Rosencrantz şi Guildenstern.
+
+Curteni.
+
+
+
+REGELE
+
+Dragi Rosencrantz şi Guildenstern, salut.
+
+Pe lângă dorul de-a vă revedea
+
+Nevoia mea de ajutorul vostru
+
+Mă-ndeamnă să vă chem în mare grabă.
+
+Aţi auzit ceva despre Hamlet
+
+Şi de schimbarea-i? O numesc aşa,
+
+Fiindcă nici lăuntric nici la faţă
+
+El nu mai seamănă cu sine însuşi.
+
+Ce altă pricină l-a scos din fire,
+
+Afară de-a părintelui său moarte,
+
+Nu-mi pot închipui. Vă rog din suflet
+
+Pe amândoi, voi ce-aţi crescut cu el
+
+Din fragedă copilărie şi
+
+Vă potriviţi la vârstă şi la fire,
+
+Binevoiţi a sta un timp la curte.
+
+Căci poate prin tovărăşia voastră
+
+Să-l ispitiţi către petreceri iarăşi
+
+Şi c-un prilej sau altul să culegeţi
+
+Din spicuiri, ca să puteţi afla
+
+Ce rău ascuns anume-l copleşeşte,
+
+Ca dezvelindu-l, să-i găsim un leac.
+
+REGINA
+
+Aflaţi, o domnii mei, că mi-a vorbit
+
+Aşa de mult de voi, că nu-s pe lume
+
+Alţi doi ce pot să-i fie-atât de dragi.
+
+De vreţi a fi atât de buni cu noi,
+
+Jertfindu-vă răgazu-aci-n folosul
+
+Şi-ndeplinire-a ceea ce dorim,
+
+Şederea voastră va fi răsplătită
+
+Cu mulţumiri ce-s vrednice de-un rege.
+
+ROSENCRANTZ
+
+Putere-au ale voastre maiestăţi
+
+Prin dreptul suveran asupra noastră
+
+De-a-şi împlini temutele dorinţi,
+
+Dar nu prin rugăminţi, ci prin poruncă.
+
+GUILDENSTERN
+
+De bună voie însă, amândoi,
+
+Măriei-voastre punem la picioare
+
+Supunerea deplină şi-aşteptăm
+
+Poruncile.
+
+REGELE
+
+Prea scumpe Guildenstern
+
+Şi Rosencrantz, vă mulţumim.
+
+REGINA
+
+Da, vouă,
+
+Prea scumpe Rosencrantz şi Guildenstern,
+
+Vă mulţumim şi vă rugăm din suflet
+
+În chiar această clipă să-l vedeţi
+
+Pe mult schimbatu-mi fiu. Iar dintre voi
+
+Să-i ducă unul pe aceşti domni la prinţ.
+
+GUILDENSTERN
+
+Şi facă cerul ca şederea noastră
+
+Şi felul cum ne vom purta cu el
+
+Să-i placă şi să-i folosească.
+
+REGINA
+
+Amin!
+
+(Ies Rosencrantz, Guildenstern şi câţiva curteni. Intră Polonius.)
+
+POLONIUS
+
+Solia din Norvegia, stăpâne
+
+S-a-ntors cu voie bună.
+
+REGELE
+
+Ai fost mereu un tată de veşti bune.
+
+POLONIUS
+
+Stăpâne-aşa-i? Măria ta să ştie
+
+Că sufletul şi datoria mea
+
+Le-nchin pe amindoua deopotrivă
+
+Lui Dumnezeu şi bunului meu rege.
+
+Şi cred, sau mintea-mi nu mai este-n stare
+
+S-adulmece o urmă ca pe vremuri,
+
+C-am desluşit pricina-adevărată
+
+A nebuniei prinţului Hamlet.
+
+REGELE
+
+Te rog, vorbeşte-mi. Ard de nerăbdare.
+
+POLONIUS
+
+Întâi solia, sire. Ştirea mea
+
+Va fi desert ospăţului acesta.
+
+REGELE
+
+Întâmpină-i şi adu-mi-i aci.
+
+(Iese Polonius. Către regină.)
+
+Îmi spune c-a găsit, regină scumpă,
+
+Izvorul şi pricina tulburării
+
+Care-a cuprins pe fiul tău Hamlet.
+
+REGINA
+
+Socot că alta nici nu poate fi
+
+Afară de a tatălui său moarte
+
+Şi de zorită noastră cununie.
+
+REGELE
+
+Tot ce se poate. Îl voi cerceta.
+
+(Reintră Polonius cu Voltimand şi Cornelius.)
+
+Prietenii mei buni, bine-aţi venit!
+
+Ce veşti de la-al meu frate din Norvegia
+
+Mi-aduci tu, Voltimand?
+
+VOLTIMAND
+
+Cu bucurie
+
+Salutul şi urarea ţi le-ntoarce.
+
+A luat măsuri din chiar întâia zi
+
+S-oprească ridicările de oşti
+
+Făcute de nepotul său, de care
+
+Credea că-i ameninţă pe poloni.
+
+Dar mai de-aproape cercetând află
+
+Că-s împotriva înălţimii tale.
+
+Mâhnit că vârsta, boala şi sleirea-i
+
+Au fost neomenos batjocorite,
+
+A dat poruncă să-l întemniţeze
+
+Pe Fortinbras. Pe scurt, el se supuse,
+
+Primi dojana regelui, şi-n urmă
+
+Făgădui, jurând unchiului său
+
+Că niciodată n-are să pornească
+
+Război potrivnic înălţimii tale.
+
+Atunci moşneagu-n culmea bucuriei
+
+I-a dat în dar, venit, trei mii de galbeni
+
+Şi-i porunci să-şi folosească-ostaşii
+
+Din vreme strânşi, Poloniei împotrivă,
+
+Cu ruga-nscrisă-aci, să-ngăduiţi
+
+Cu ţelu-acesta, trecerea prin ţară,
+
+Chezăşuind de linişte şi pace,
+
+Precum arată-aci.
+
+REGELE
+
+Solia-mi place.
+
+La cel dintâi răgaz o voi citi
+
+Şi chibzuind asupra-acestei trebi
+
+Voi da răspunsul. În acelaşi timp
+
+Vă mulţumesc pentru strădania voastră.
+
+Duceţi-vă acum de v-odihniţi
+
+Deseară ne vom ospăta-mpreună.
+
+Cu bine.
+
+(Ies Voltimand şi Cornelius.)
+
+POLONIUS
+
+Iată o ispravă bună.
+
+Stăpâne-ocrotitor şi doamna mea,
+
+De-ar fi să tălmăcesc ce-i maiestatea
+
+Şi ce e datoria şi apoi
+
+De ce e ziua zi, şi noaptea noapte,
+
+Şi timpul timp — atunci ar însemna
+
+Să pierd aşa şi timp şi zi şi noapte.
+
+Fiind scurtimea sufletul gândirii,
+
+Iar vorba lungă trupul şi podoaba-i,
+
+Voi fi deci scurt. Prea nobilul tău fiu
+
+E chiar nebun şi spun că e nebun
+
+Căci nebunia ce poate să fie,
+
+La drept vorbind, decât a fi nebun?
+
+Să trecem mai departe.
+
+REGINA
+
+Miez mai mult
+
+Te rog şi mai puţin-oratorie.
+
+POLONIUS
+
+Jur, doamnă, că nu fac oratorie.
+
+Că e nebun, e drept. Că-i drept, păcat e,
+
+Păcat că-i drept. Prostească vorbărie —
+
+Adio ei: am să vorbesc deschis.
+
+Nebun, să-i zicem. Şi ne mai rămâne
+
+S-aflăm de unde vine-acest efect,
+
+Sau mai degrabă de-unde-acest defect,
+
+Efect-defect, ce-i vine de-undeva.
+
+Rămâne asta şi o rămăşiţă.
+
+Gândiţi-vă:
+
+O fată am — o am cât timp e-a mea —
+
+Şi care-ascultătoare şi supusă
+
+Mi-a dat, vedeţi? aceasta
+
+Culegeţi deci şi trageţi încheieri.
+
+(Citeşte.)
+
+„Cereştei făpturi şi-al sufletului meu idol, mult prea frumoasei Ofelia".
+
+E o vorbire schimonosită. E o vorbire urâtă. „Mult prea frumoasă", e o vorbire vulgară, dar ascultaţi ce vine. Iată:
+
+(Citeşte.)
+
+„La sânul tău cel dalb şi fără seamăn, această..." etc. etc.
+
+REGINA
+
+I-a scris Hamlet aceasta ei?
+
+POLONIUS
+
+O clipă, doamnă, n-am s-ascund nimic.
+
+(Citeşte.)
+
+„Tu poţi să te-ndoieşti de soare,
+
+De focul ce scânteie-n stea,
+
+De legile nemuritoare,
+
+Dar nu şi de iubirea mea.
+
+O, scumpă Ofelia, nu mă pricep la versuri, nu cunosc meşteşugul de-a-mi potrivi suspinele, dar crede-mă că te iubesc cu o dragoste adevărată. Adio. Al tău pe veci, doamna mea mult iubită, câtă vreme lutul ăsta mai este încă al meu. H."
+
+Deci iată ce anume fata mea
+
+Mi-a-ncredinţat, supusă şi cuminte
+
+Şi încă şi mai mult, destăinuindu-mi
+
+În ce fel, cum şi unde-a urmărit-o.
+
+REGELE
+
+Dar ea, Ofelia, i-a primit iubirea?
+
+POLONIUS
+
+Stăpâne, oare ce crezi despre mine?
+
+REGELE
+
+Eşti om cinstit şi de credinţă-n toate.
+
+POLONIUS
+
+Aş fi prea bucuros s-o dovedesc.
+
+Ce-ai fi crezut de mine, însă, dacă
+
+În faţa-acestei dragoste-nfocate
+
+Şi-n plin avânt — că vă mărturisesc
+
+C-am prins de ea de veste chiar nainte
+
+Ca fata mea să-mi fi vorbit de el —
+
+Ce-ai fi crezut măria-ta de mine,
+
+Şi scumpa-ne regină-aci de faţă,
+
+De-aş fi făcut pe surdul şi pe mutul,
+
+Ca un pupitru sau un catastif,
+
+Făcându-mi inimii un semn cu ochiul
+
+Şi-aş fi privit cu nepăsare totul?
+
+Ce-ai fi crezut? Dar nu, m-am pus pe lucru,
+
+Vorbit-am astfel, domnişoarei mele:
+
+„Hamlet e prinţ, nu eşti de seama lui.
+
+Ce-ar vrea el, nu se poate!"
+
+Poruncit-am
+
+Să-şi pună lacăt inimii şi uşii,
+
+Să nu primească daruri, nici solii.
+
+Curând culese-al sfatului meu rod.
+
+Hamlet respins — să nu lungesc povestea
+
+— Căzu-n tristeţe-adâncă, flămânzi,
+
+De-aci-n nesomn, apoi în vlăguire,
+
+De-aici în aiureală, lunecând
+
+În nebunia în care-acum se zbate
+
+Şi care ne-a-ntristat pe toţi.
+
+REGELE
+
+Crezi asta?
+
+REGINA
+
+Pare foarte cu putinţă.
+
+POLONIUS
+
+Aş vrea să ştiu de s-a-ntâmplat vreodată
+
+Să spun eu cu tărie: este-aşa
+
+Şi-altfel să fie?
+
+REGELE
+
+Nu, precât ştiu eu.
+
+POLONIUS
+
+(arătând spre capul şi umerii săi)
+
+Desparte ce-i aici de ce-i aici,
+
+Dac-o fi altfel. Şi dacă m-ajută
+
+Împrejurările, aflu adevărul
+
+De-o fi ascuns şi-n iad.
+
+REGELE
+
+Atunci, cum facem?
+
+POLONIUS
+
+Hamlet, cum ştiţi, se plimbă uneori
+
+Pe-aci, prin galerie, ore-ntregi.
+
+REGELE
+
+Într-adevăr, aşa e.
+
+POLONIUS
+
+Chiar atunci,
+
+Pe fata mea o fac să-i iasă-n cale
+
+Iar noi pândim de după o perdea
+
+Tot ce se-ntâmplă. Dacă n-o iubeşte,
+
+Şi dacă nici nu şi-a ieşit din minţi,
+
+Mă las de sfetnicie şi mă fac
+
+Plugar şi căruţaş.
+
+REGELE
+
+Să încercăm.
+
+REGINA
+
+Dar cât de trist, citind, vine sărmanul!
+
+POLONIUS
+
+În lături, rogu-vă pe amândoi.
+
+L-întâmpin eu. O, daţi-mi voie.
+
+(Ies regele, regina şi curtenii. Intră Hamlet, citind.)
+
+POLONIUS
+
+Cum îi mai merge bunului meu stăpân Hamlet?
+
+HAMLET
+
+Slavă Domnului, bine.
+
+POLONIUS
+
+Mă mai cunoşti, măria ta?
+
+HAMLET
+
+Cum să nu! Eşti un negustor de peşte.
+
+POLONIUS
+
+Eu nu, stăpâne.
+
+HAMLET
+
+Măcar de-ai fi atât de cinstit.
+
+POLONIUS
+
+Cinstit, stăpâne?
+
+HAMLET
+
+Ei, domnul meu, în lumea noastră a fi cinstit înseamnă a fi unul dintr-o mie.
+
+POLONIUS
+
+Adevărat, stăpâne.
+
+HAMLET
+
+Căci dacă soarele dă naştere la viermi într-un câine mort, dar'mite când e vorba de un hoit bun de sărutat. Ai vreo fată?
+
+POLONIUS
+
+Am, măria ta.
+
+HAMLET
+
+Nu lăsa s-o bată soarele. A zămisli e un har al cerului, dar nu în felul în care ar putea zămisli fata domniei-tale. Ia seama, prietene!
+
+POLONIUS
+
+Ce vrei să spui, măria-ta? (Aparte.) Merge cu gândul la fata mea. Totuşi la început nu m-a recunoscut. Mă lua drept un negustor de peşte. A luat-o razna de tot. La drept vorbind, am îndurat şi eu în tinereţe multe necazuri din dragoste. Aproape tot ca şi el. Să-i mai spun ceva. (Tare.) Ce citeşti măria-ta?
+
+HAMLET
+
+Vorbe, vorbe, vorbe.
+
+POLONIUS
+
+Şi despre ce e vorba, stăpâne?
+
+HAMLET
+
+Între cine şi cine?
+
+POLONIUS
+
+Adică despre ce e vorba în cartea pe care o citeşti, măria-ta.
+
+HAMLET
+
+Vorbe de clacă, domnul meu. Pamfletarul ăsta nemernic susţine că bătrânii au bărbi cărunte, obrazuri zbârcite, că din ochi le curge un clei vâscos ca răşina prunului, că sunt cu totul slabi la minte şi totodată au şi încheieturile slăbite. Toate acestea, domnul meu — deşi sunt pe deplin încredinţat că aşa şi este — nu se cuvine totuşi să fie aşternute pe hârtie, fiindcă şi domnia-ta, domnul meu, ai putea fi de vârsta mea, dacă ai da înapoi ca racul.
+
+POLONIUS
+
+(aparte) Oricât ar părea că e nebunie ceea ce spune, e totuşi o nebunie bine chibzuită. (Tare.) Măria-ta, nu ai vrea să pleci din aerul ăsta?
+
+HAMLET
+
+Unde? În mormânt?
+
+POLONIUS
+
+Da, în adevăr, înseamnă a pleca din aer. (Aparte.) Ce răspunsuri pline de înţeles are uneori. E un noroc de care mai adesea are parte nebunia decât un cuget sănătos şi chibzuit, care nu le nimereşte aşa de uşor. Să-l las singur. O să pun la cale îndată un prilej de întâlnire cu fata mea. (Tare.) Mărite stăpâne, îmi iau cu plecăciune bun rămas.
+
+HAMLET
+
+Nici nu poţi, domnul meu, să-mi iei ceva de care să mă despart mai bucuros, în afară de viaţa mea, de viaţa mea, de viaţa mea.
+
+POLONIUS
+
+Rămâi cu bine, măria-ta.
+
+HAMLET
+
+Plicticoşi mai sunt nebunii ăştia batrâni!
+
+(Intră Rosencrantz şi Guildenstern.)
+
+POLONIUS
+
+Îl căutaţi pe prinţul Hamlet? Iată-l aci.
+
+ROSENCRANTZ
+
+(către Polonius) Domnul să te aibă în pază!
+
+(Iese Polonius.)
+
+GUILDENSTERN
+
+Mărite stăpâne!
+
+ROSENCRANTZ
+
+Prea iubitul meu stăpân!
+
+HAMLET
+
+Bunii mei prieteni! Cum îţi mai merge, Guildenstern? Şi Rosencrantz! Ce mai faceţi, dragii mei?
+
+ROSENCRANTZ
+
+Ce face orice copil al pământului.
+
+GUILDENSTERN
+
+Ferice de noi că nu suntem prea fericiţi.
+
+ROSENCRANTZ
+
+Nu suntem chiar mărgăritarul de pe tichia Norocului.
+
+HAMLET
+
+Dar nici sub talpa încălţărilor lui.
+
+ROSENCRANTZ
+
+Nici acolo, măria-ta.
+
+HAMLET
+
+Atunci vă aflaţi cam pe la brâu, în mijlocul plăcerilor.
+
+GUILDENSTERN
+
+Fireşte. Suntem aleşii soartei.
+
+HAMLET
+
+În locurile ei cele mai tăinuite. Într-adevăr, soarta e o curtezană. Ce veşti îmi aduceţi?
+
+ROSENCRANTZ
+
+Nici una, stăpâne. Doar atât că lumea s-a făcut cinstită.
+
+HAMLET
+
+Atunci se apropie sfârşitul lumii. Dar vestea voastră nu e adevărată. Lăsaţi-mă să vă întreb ceva ce vă priveşte îndeosebi: cu ce-aţi greşit, prieteni, soartei voastre, de v-a trimis în această temniţă?
+
+GUILDENSTERN
+
+Ce temniţă, măria-ta?
+
+HAMLET
+
+Danemarca e o temniţă.
+
+ROSENCRANTZ
+
+Atunci şi lumea întreagă e tot o temniţă.
+
+HAMLET
+
+Şi încă una straşnică, plină de cotloane, hrube şi carcere. Danemarca e una dintre cele mai rele.
+
+ROSENCRANTZ
+
+Nouă nu ni se pare aşa, stăpâne.
+
+HAMLET
+
+Atunci, pentru voi nici nu e temniţă; fiindcă orice lucru e bun sau rău, numai după cum îl face închipuirea noastră. Pentru mine e o temniţă.
+
+ROSENCRANTZ
+
+Doar ambiţia te face s-o vezi aşa. Danemarca e prea neîncăpătoare pentru mintea măriei tale.
+
+HAMLET
+
+O, Doamne! Aş putea fi închis într-o coajă de nucă şi să mă socotesc un rege al văzduhului nemărginit, numai de n-aş avea visuri rele.
+
+GUILDENSTERN
+
+Visurile acestea nu sunt, fireşte, decât ambiţie. Fiindcă cel ambiţios se hrăneşte doar cu umbra unui vis.
+
+HAMLET
+
+Visul însuşi nu e decât o umbră.
+
+ROSENCRANTZ
+
+Adevărat; şi socotesc ambiţia un lucru atât de uşor şi de străveziu încât nu e decât umbra unei umbre.
+
+HAMLET
+
+Dacă e aşa, cerşetorii sunt trupuri, iar domnii şi vitejii cei vestiţi sunt doar umbra cerşetorilor. Mergem la curte? Pe legea mea, nu mai sunt în stare să judec.
+
+GUILDENSTERN şi ROSENCRANTZ
+
+Stăm la porunca măriei tale.
+
+HAMLET
+
+Nicidecum. Nu vreau să vă număr printre ceilalţi slujitori ai mei. Cinstit vă spun că sunt cumplit de prost slujit. Dar, în numele vechii noastre prietenii, ce căutaţi la Elsinor?
+
+ROSENCRANTZ
+
+Am venit să te vedem, stăpâne, nimic mai mult.
+
+HAMLET
+
+Un cerşetor ca mine e sărac până şi în mulţumiri. Vă mulţumesc, totuşi; de bună seamă, însă, mulţumirile mele nu fac nici două parale. Nu v-a chemat nimeni? Aţi venit din chiar îndemnul vostru? De bună voie? Hai! spuneţi drept. Haide, haide, vorbiţi o dată.
+
+GUILDENSTERN Ce-am putea spune, măria-ta?
+
+HAMLET
+
+Orice, numai să-mi răspundă la întrebare. Aţi fost chemaţi. E în ochii voştri ca o mărturisire pe care sfiala nu e în stare s-o ascundă. Ştiu că bunul nostru rege şi regina au trimis după voi.
+
+ROSENCRANTZ
+
+În ce scop, măria-ta?
+
+HAMLET
+
+Voi să mi-l spuneţi. Dar, vă rog din suflet, cu dreptul pe care mi-l dă prietenia noastră şi în numele înţelegerii depline din tinereţe, al făgăduinţelor de nestrămutată dragoste şi al tuturor nestematelor ce altul mai meşter la vorbă ca mine vi le-ar mai putea înşira, vorbiţi deschis, fără înconjur: fost-aţi chemaţi, sau nu?
+
+ROSENCRANTZ
+
+(către Guildenstern) Tu ce zici?
+
+HAMLET
+
+(aparte) Dacă e aşa, n-am să vă slăbesc din ochi. (Tare.) Dacă mă iubiţi, nu-mi ascundeţi nimic.
+
+GUILDENSTERN
+
+Stăpâne, am fost chemaţi.
+
+HAMLET
+
+Să vă spun de ce. Astfel, cele ghicite de mine o să preântâmpine mărturisirile voastre, iar taina voastră cu regele şi regina nu va fi jumulită de penele ei. De la o vreme — nu ştiu nici eu din ce pricină — mi-a pierit toată veselia şi m-am lăsat de toate deprinderile şi îndeletnicirile mele, şi mă simt atât de copleşit de această toană rea, încât şi minunata alcătuire care e pământul îmi pare doar o stâncă stearpă. Vedeţi voi, acel prea frumos baldachin, văzduhul, mândra boltă ce atârnă asupră-ne, ca un acoperământ falnic, bătut în scântei de aur, nu e pentru mine altceva decât un vălmăşag de miasme spurcate şi rău mirositoare. Ce lucru desăvârşit e omul! Ce aleasă îi e cugetarea! Şi cât de nemăsurate însuşirile! Ce falnic şi minunat în portul şi mişcările sale! Întocmai ca un înger în fapte şi ca un zeu în năzuinţele lui. Podoaba luminii! Pildă a vietăţilor! Şi totuşi ce e pentru mine această mână de lut? Bărbatul nu mă încântă, nici măcar femeia, deşi zâmbetul domniei tale ar vrea să spună că da.
+
+ROSENCRANTZ
+
+Stăpâne, nu mi-a trecut prin gând o astfel de nerozie.
+
+HAMLET
+
+Atunci de ce ai râs când am spus că bărbatul nu mă încântă?
+
+ROSENCRANTZ
+
+Mă gândeam, stăpâne, ce primire de post îi aşteaptă pe actori din partea măriei tale, dacă spui că omul nu te încântă. I-am lăsat în urmă; vin încoace să se pună în slujba măriei tale.
+
+HAMLET
+
+Cel ce joacă pe regele va fi bine primit. Am să-i plătesc tributul meu măriei sale. Cavalerul rătăcitor o să-şi poată folosi spada şi scutul, îndrăgostitul n-are să suspine de pomană, comicul o să-şi sfârşească tirada lui nestingherit, măscăriciul o să stârnească hohotele celor al căror râs porneşte ca din praştie. Iar domniţa îşi va spune fără teamă gândul întreg, ca să nu şchiopăteze versul. Dar despre ce actori e vorba?
+
+ROSENCRANTZ
+
+Sunt chiar cei care te făceau să petreci odinioară. Actorii de tragedie ai oraşului.
+
+HAMLET
+
+Prin ce întâmplare sunt pe drumuri? Nu le pria mai bine să stea locului, atât pentru renumele lor, cât şi pentru câştig?
+
+ROSENCRANTZ
+
+Cred că piedica le vine de la o schimbare ivită în teatru de câtăva vreme.
+
+HAMLET
+
+Faima le e aceeaşi ca atunci când eram eu în oraş? Tot mai au căutare?
+
+ROSENCRANTZ
+
+La drept vorbind, nu prea.
+
+HAMLET
+
+Cum se face? Au prins rugină?
+
+ROSENCRANTZ
+
+Ba de loc. Ei îşi dau toată silinţa. Dar s-au ivit, stăpâne o droaie de copilandri care ţipă cât îi ţin gura în toiul jocului şi sunt aplaudaţi nebuneşte tocmai din pricina asta. Ei sunt acum la modă. Şi teatrele de rând — cum le spun ei — sunt atât de defăimate, încât mulţi din cei ce poartă sabie, speriaţi de cei cu pene de gâscă, de-abia mai îndrăznesc să se arate pe-acolo.
+
+HAMLET
+
+Cum? Sunt doar nişte copilandri? Dar cine-i sprijină? Cu cine se însoţesc? N-au să se ţină de meseria asta decât atâta vreme cât pot cânta? N-au să spună mai târziu, ajungând şi ei actori de rând — cum o să li se întâmple dacă n-au alte mijloace — că le-au făcut mai mult decât bine scriitorii aceia care îi pun să ponegrească propria lor moştenire?
+
+ROSENCRANTZ
+
+Într-adevăr cele două tabere au avut de furcă împreună. Şi mulţimea socotea că nu-i un păcat să-i întărâte în cearta lor. Şi într-o vreme nu era rost de nici un câştig de pe urma piesei până ce poetul şi actorii nu-şi cărau câţiva pumni.
+
+HAMLET
+
+Cum e cu putinţă?
+
+ROSENCRANTZ
+
+Au fost multe capete sparte.
+
+HAMLET
+
+Şi au învins băieţandrii ăştia?
+
+ROSENCRANTZ
+
+Mai întrebi, stăpâne? Chiar şi pe Hercule cu globul său.
+
+HAMLET
+
+Nu e de mirare. Unchiul meu e regele Danemarcei; iar cei ce şi-ar fi bătut joc de el câtă vreme trăia tatăl meu, dau astăzi douăzeci, patruzeci, cincizeci, o sută de ducaţi ca să-i aibă chipul zugrăvit. Pe legea mea, e ceva nefiresc într-asta, măcar de s-ar încumeta filozofia să-l dezlege.
+
+(Sunete de trâmbiţe înăuntru.)
+
+GUILDENSTERN
+
+Au sosit actorii.
+
+HAMLET
+
+Domnii mei, bine-aţi venit la Elsinor! Hai, daţi-mi mâna. Anumite forme şi ceremonii sunt nelipsite la o primire buna; daţi-mi voie să mă supun acestui obicei în ce vă priveşte; ca nu cumva bunăvoinţa mea faţă de actori, care vă spun dinainte că trebuie să se vădească tuturor, să vă pară mai mare decât faţă de voi. Fiţi bineveniţi! Însă unchiul care mi-e tată şi mama care mi-e mătuşă se înşală.
+
+GUILDENSTERN
+
+Cum asta, scumpul meu stăpân?
+
+HAMLET
+
+Nu sunt nebun decât dinspre nord-nord-vest: când adie vântul de la miazăzi, pot să deosebesc un şoim de un cocostârc.
+
+(Intră Polonius.)
+
+POLONIUS
+
+Bine v-am găsit, domnii mei.
+
+HAMLET
+
+Ascultă, Guildenstern, şi tu de asemenea; la fiecare ureche un ascultător: pruncul ăsta bătrân pe care îl vedeţi încă nu a ieşit din scutecele cu care a fost înfăşat.
+
+ROSBNCRANTZ
+
+Pesemne că s-a întors din nou în ele: se spune doar că orice bătrân e copil a doua oară.
+
+HAMLET
+
+Vă fac o prorocire: vine să-mi spună despre actori. Băgaţi de seamă. Bine zici, domnul meu; luni de dimineaţă, aşa e, fără-ndoială.
+
+POLONIUS
+
+Stăpâne, ţi-aduc veşti.
+
+HAMLET
+
+Stăpâne... ţi-aduc veşti. Pe când Roscius era actor la Roma...
+
+POLONIUS
+
+Au sosit actorii, stăpâne.
+
+HAMLET
+
+Bâz... bâz...
+
+POLONIUS
+
+Pe cinstea mea!
+
+HAMLET
+
+Fiece actor pe un măgăruş călare...
+
+POLONIUS
+
+Cei mai buni actori din lume, fie în tragedie, în comedie, piese istorice, pastorale, pastorale comice, pastorale istorice, tragico-istorice, pastorale tragi-comico-istorice, piese ce respectă regulile, şi poeme libere. Seneca nu poate fi prea greoi pentru ei, nici Plaut prea uşor. Sunt neîntrecuţi, atât în ce priveşte respectul celor scrise cât şi în uşurinţa exprimării.
+
+HAMLET
+
+„O, Iefta, judecător al Israelului" — ce comoară ai avut!
+
+POLONIUS
+
+Ce comoară a avut, măria-ta?
+
+HAMLET
+
+„O fată încântătoare şi alta nimic, la care ţinea ca la ochii din cap".
+
+POLONIUS
+
+(aparte) Iar fata mea!
+
+HAMLET
+
+N-am dreptate, bătrâne Iefta?
+
+POLONIUS
+
+Dacă mie-mi zici Iefta, măria-ta, apoi am o fată la care ţin ca la ochii din cap.
+
+HAMLET
+
+Nu e asta urmarea.
+
+POLONIUS
+
+Dar care-i urmarea?
+
+HAMLET
+
+„Şi soarta a făcut
+
+Şi Dumnezeu a ştiut,
+
+Şi mai departe,
+
+A fost să fie, aşa precum se ştie".
+
+Primul stih al acestui cântec bisericesc are să te lămurească mai bine. Fiindcă, iată, sunt silit să mă întrerup.
+
+(Intră patru sau cinci actori.)
+
+Meşterilor, bine-aţi venit! Bine-aţi venit cu toţii! Mă bucur că vă văd sănătoşi. Bun venit dragii mei! Oho! Vechiul meu prieten! De când nu ne-am văzut, ţi-ai pus o perdeluţa la bărbie. Oare vii în Danemarca să-mi pui şi mie o barbă? Ce văd? Tânăra doamnă şi stăpână! Sfântă Născătoare! Înălţimea voastră e mai aproape de cer decât ultima oară când ne-am văzut: a crescut cu un toc de pantof. Deie Domnul ca glasul tău, ca un galben tocit, să nu-şi fi schimbat sunetul. Meşterilor, fiţi bineveniţi cu toţii! Să mergem drept la ţintă, întocmai ca şoimarii din Franţa, care se reped la tot ce le iese în cale. Să ascultăm pe loc o tiradă. Hai arătaţi-ne ce sunteţi în stare. Haide, o tiradă plină de patimă.
+
+ÎNTIUL ACTOR
+
+Ce fel de tiradă, măria-ta?
+
+HAMLET
+
+Te-am auzit spunând de mult o tiradă, dar n-a fost jucată niciodată, sau să fi fost cel mult o dată, fiindcă, după câte îmi amintesc, piesa nu plăcuse mulţimii. Era ca icrele negre pentru norodul de rând. Dar după preţuirea mea şi-a altora mai vrednici ca mine să-şi spună răspicat părerea în astfel de pricini, era o piesă minunată, bine înjghebată, alcătuită cu măsură şi iscusinţă. Se spunea — mi-aduc aminte — că nu are destulă sare printre rânduri, ca să dea gust lucrării, dar nici fraze greoaie care să-l facă vinovat pe autor de pedanterie. Socotea că felul lui de a scrie e cinstit, puternic şi duios totodată, însă mai curând măreţ decât meşteşugit. Îmi plăcea mai cu seamă o parte: povestirea lui Eneas către Didona şi îndeosebi acolo unde pomeneşte de uciderea lui Priam. Dacă-ţi mai aduci aminte, începe cu stihul ăsta... Ia să văd... stai...
+
+„Cumplitul Pirus, unei fiare-asemeni..."
+
+Nu, nu-i aşa: se-ncepe chiar cu Pirus:
+
+„Cumplitul Pirus cu-arme-ntunecate,
+
+Ca gândul lui de negre şi ca noaptea,
+
+Pândind pitit în blestematul cal,
+
+Mânjitu-şi-a fioroasa-nfăţişare
+
+Din cap în tălpi cu şi mai crunte steme.
+
+Văpsit îngrozitor cu-atâta sânge
+
+De mume, taţi, de fii şi fiice,
+
+Cojit şi ars de-al străzilor pârjol
+
+Ce-ntinde-o crâncenă de iad lumină
+
+Pe cei ce şi-au măcelărit stăpânii,
+
+De foc şi de mânie mistuit
+
+Şi năclăit de sângele-nchegat,
+
+Cu ochii lui de jar, drăcescul Pirus
+
+Îl căuta pe Priam cel bătrân."
+
+Acum, vi-e rândul.
+
+POLONIUS
+
+Pe legea mea, stăpâne, bine recitat! Cu însufleţire şi cu pătrundere.
+
+ÎNTIUL ACTOR
+
+„Îl găseşte-ndată,
+
+Izbind în greci nespornic. Vechea-i spadă,
+
+Prea grea puterii lui, stă-nfiptă-n loc
+
+Şi nu-l ascultă. O, nedreaptă luptă!
+
+Dă iureş Pirus în bătrânul Priam,
+
+Iar în turbarea lui, loveşte-n gol.
+
+Dar vântul cruntei săbii, şuierând,
+
+Trânti pe-acest moşneag fără de vlagă.
+
+Atunci ne'nsufleţitul Priam, parcă
+
+Simţind lovirea, se surpă deodată
+
+Cu creştetul în flăcări la pământ,
+
+Şi vuietul năprasnic prinse-auzul
+
+Lui Pirus. Sabia lui ce s-abătea
+
+Pe capul dalb al regelui, păru
+
+Oprită în văzduh, şi astfel Pirus
+
+Stătu ca un tiran scris în icoană
+
+Şi cumpănit de faptă şi voinţă
+
+Rămase-ncremenit.
+
+Dar acum, ades, nainte de furtună
+
+Vedem în cer tăcere, pace-n neguri
+
+Şi vântul aprig astfel, fără glas,
+
+Pământul mut de-o linişte de moarte,
+
+Apoi un trăsnet despicând văzduhul,
+
+La fel şi Pirus, după scurtu-i preget,
+
+Răzbunător s-a pus pe lucru iar:
+
+Şi niciodată n-a căzut ciocanul
+
+Ciclopilor pe zalele lui Marte
+
+Ce pentru veşnicie-s făurite
+
+Mai fără de cruţare decât spada
+
+Cea crâncenă-a lui Pirus se-abătu
+
+Pe creştetul lui Priam.
+
+În lături, Soartă fără de ruşine,
+
+Voi zei în plin zbor, să-i luaţi puterea,
+
+Sfărmaţi-i spiţele şi-obada roţii,
+
+Şi-i prăvăliţi de sus din cer butucul
+
+otund în fundul iadului."
+
+POLONIUS
+
+Prea lung!
+
+HAMLET
+
+Am s-o trimit la bărbier cu barba domniei tale. Te rog, continuă! Nu-i plac decât măscările, cântecele de ruşine şi istorioarele piperate — altfel adoarme. Zi-i mai departe. Treci la Hecuba.
+
+ÎNTIUL ACTOR
+
+„Dar cine, o, cine a văzut regina îmbrobodită..."
+
+HAMLET
+
+Regina-mbrobodită?
+
+POLONIUS
+
+Bun! Regina-mbrobodită e foarte bine.
+
+ÎNTIUL ACTOR
+
+„Fugea desculţă-ameninţând pârjolul
+
+Cu-al lacrimilor orbitor şuvoi,
+
+Cu o basma pe capu-ncoronat
+
+Odinioară, şi purtând drept straie
+
+Pe trunchiu-i supt de-a fi rodit atât,
+
+O scoarţă smulsă-n grabă spaimei ei —
+
+Acela care-ar fi văzut-o astfel,
+
+Ar fi rostit cu glas 'necat de ură
+
+Că soarta-i vinovată de trădare:
+
+Dar dacă înşişi zeii-ar fi văzut-o,
+
+Privind cum Pirus în fiorosu-i joc
+
+Pe soţul ei îl ciopârţea cu sabia,
+
+O, urletul ce i-a scăpat atunci —
+
+Afară doar de nu-l înduioşează
+
+Nimic din ce se-ntâmplă pe pământ —
+
+Ar fi făcut şi stelele să plângă
+
+Şi zeii să se-ndure."
+
+POLONIUS
+
+Uite cum s-a îngălbenit la faţă şi are ochii plini de lacrimi. Rogu-te, e deajuns.
+
+HAMLET
+
+Bun! ai să-mi reciţi în curând şi ce urmează! Scumpul meu domn, ia seama să fie bine îngrijiţi actorii. M-ai auzit? Vezi să fie cinstiţi cum se cuvine; doar ei sunt cronica vie şi prescurtată a vremurilor. Mai bine să ai parte de un epitaf prost după moarte decât de bârfeala lor cât eşti în viaţă.
+
+POLONIUS
+
+Stăpâne, am să-i cinstesc aşa cum merită.
+
+HAMLET
+
+La naiba, omule: cu mult mai bine. Dac-ai cinsti pe fiecare după merit, cine ar mai scăpa de bici? Poartă-te cu ei după cinstea şi nobleţea domniei tale. Cu cât merită mai puţin, cu atât mai vrednică de laudă ţi-e dărnicia. Arata-le calea.
+
+POLONIUS
+
+Poftiţi, domnii mei.
+
+HAMLET
+
+Urmaţi-l, prieteni. Mâine o să ne jucaţi o piesă.
+
+(Ies Polonius şi toţi actorii, afară de primul.)
+
+Ascultă, dragă prietene, ai putea juca Omorul lui Gonzago?
+
+ÎNTIUL ACTOR
+
+Da, stăpâne.
+
+HAMLET
+
+Să ni-l joci mâine seară. La nevoie, ai putea învăţa o tiradă de vreo douăsprezece până la şaisprezece rânduri, pe care aş scri-o eu şi pe care am adăuga-o la piesă? Ce crezi?
+
+ÎNTIUL ACTOR
+
+Cum nu, stăpâne.
+
+HAMLET
+
+Foarte bine. Du-te cu gentilomul acela. Dar vezi să nu-ţi baţi joc de el.
+
+(Iese primul actor.)
+
+Dragii mei (către Rosencrantz şi Guildenstern) vă las până deseară. Şi bun venit la Elsinor.
+
+ROSENCRANTZ
+
+Scumpul meu stăpân!
+
+(Ies Rosencrantz şi Guildenstern.)
+
+HAMLET
+
+Domnul să vă aibă în pază.
+
+Aşa, acum sunt singur.
+
+Ce ticălos, ce sclav becisnic sunt!
+
+Să nu te-nfiori când vezi un comediant
+
+Doar într-un vis de chin, o-nchipuire,
+
+Că-şi poate sufletul supune minţii
+
+Atât de mult, că prin silinţa-i, chipul
+
+De-a binelea-i păleşte, ochii-i plâng
+
+Şi pare rătăcită-nfăţişarea-i,
+
+Şi glasu-i frânt e, şi cu-ntregu-i zbucium
+
+El cugetului potriveşte chipuri,
+
+Şi toate-acestea sunt pentru nimic!
+
+Pentru Hecuba!
+
+Ce-i lui Hecuba şi ce-i el Hecubei,
+
+De-o poate plânge-aşa? Ce-ar face el
+
+C-un gând ş-o pricină de suferinţă
+
+C-a mea? Ar potopi cu lacrimi scena
+
+Şi l-ar înnebuni pe ucigaş,
+
+Cel fără vină s-ar îngălbeni,
+
+Pe cel neştiutor l-ar îngrozi
+
+Şi-ar tulbura vederile şi-auzul
+
+Oricui. Iar eu,
+
+Un aiurit ş-un josnic ins, tânjesc,
+
+Lunatic şi nevrednic de-al meu ţel,
+
+Ne-nstare de-un cuvânt nici pentr-un rege
+
+Al cărui tron şi viaţă-au fost răpite
+
+Prin mârşave mijloace.
+
+Nu cumva
+
+Sunt un mişel?
+
+Şi cine oare-mi spune
+
+Că-s doar un ticălos şi-mi sparge ţeasta
+
+Şi-mi smulge barba şi mi-o zvârle-n faţă,
+
+Îmi dă un bobârnac şi-mi bagă-n gât
+
+Minciuna până-n piept, o, cine oare? Ha!
+
+Aşa mi-ar trebui, pe legea mea,
+
+Căci nu-s decât un pui nesimţitor
+
+De-amarul unei asupriri, fiindc-altminteri
+
+Aş fi-ngrăşat ereţii-acestui cer
+
+Cu măruntaiele tâlharului
+
+Mişel, destrăbălat şi sângeros,
+
+Pizmaş şi trădător şi crud tâlhar,
+
+O, răzbunare!
+
+Asin ce sunt! O, ce mai vitejie:
+
+Eu fiul unui drag părinte-ucis,
+
+Împins de cer în iad la răzbunarea-mi,
+
+Să-mi vărs în vorbe focul, ca o târfă,
+
+Să-njur întocmai ca o târâtură,
+
+O slujnică!
+
+Ruşine! Puah! Sus, cugete!
+
+Se zice
+
+Că la teatru-odată-un vinovat
+
+A fost atât de răscolit de jocul
+
+Actoricesc, încât mărturisit-a
+
+Pe loc nelegiuirea săvârşită,
+
+Omorul limbă n-are, dar grăieşte
+
+Prin alte mijloace mai minunate.
+
+Voi pune-aceşti actori să-mi joace-o piesă,
+
+Ceva cum tatăl meu a fost ucis,
+
+În faţa regelui. Am să-l pândesc,
+
+Am să-l pătrund. Dacă măcar tresare,
+
+Ştiu ce voi face.
+
+Duhul ce-am văzut
+
+E poate diavolul, că-i stă-n putere
+
+Să-şi dea cea mai plăcută-nfăţişare
+
+Şi folosindu-se de-a mea tristeţe
+
+Şi slăbiciune — că-i puternic foarte
+
+Pe-astfel de suflete — să m-amăgească
+
+Şi să mă ducă la pierzare. Vreau
+
+Dovezi mult mai temeinice ca astea.
+
+Iar piesa mea-i capcana ce-n curând
+
+Va prinde-n ea pe rege şi-al său gând.
+
+
+
+
+
+ACTUL III
+
+
+
+SCENA 1
+
+O sală în castel. Intră regina, regele, Polonius,
+
+Ofelia, Rosencrantz şi Guildenstern.
+
+
+
+REGELE
+
+Şi n-aţi putea afla, făr-a-l sili,
+
+De ce se înveşmântă-n rătăcire
+
+Şi tihna-acestor zile şi-o sfâşie
+
+Cu-al nebuniei zbucium şi primejdie?
+
+ROSENCRANTZ
+
+El recunoaşte că e tulburat,
+
+Dar pricina nu vrea s-o dea-n vileag.
+
+GUILDENSTERN
+
+Nici nu se lasă iscodit de noi,
+
+Ci cu-aiurări şirete ne-ocoleşte
+
+Când vrem să-l facem să mărturisească
+
+Ceva-n privinţa lui.
+
+REGINA
+
+Cu voie bună?
+
+Şi v-a primit—
+
+ROSENCRANTZ
+
+Ca un gentilom.
+
+GUILDENSTERN
+
+Dar cu o silnică bunăvoinţă
+
+ROSENCRANTZ
+
+Nimic nu-ntreabă, dar de-l întrebăm
+
+Răspunde din belşug.
+
+REGINA
+
+Nu l-aţi poftit
+
+La vreo petrecere?
+
+ROSENCRANTZ
+
+Întâmplător am întâlnit pe drum
+
+O trupă, doamnă, de actori. I-am spus,
+
+Şi parcă vestea l-a cam bucurat.
+
+Ei sunt aici şi ştiu că au poruncă
+
+Să joace-n faţa lui deseară.
+
+POLONIUS
+
+Aşa e.
+
+Şi m-a rugat să stărui să poftiţi
+
+Măria voastră amândoi de faţă.
+
+REGELE
+
+Din toată inima. Sunt bucuros
+
+S-aud că se desfată.
+
+Voi, domnii mei, mereu să-l îndemnaţi
+
+Către plăceri călăuzindu-i gândul.
+
+ROSENCRANTZ
+
+Prea bine, doamne.
+
+(Ies Rosencrantz şi Guildenstern.)
+
+REGELE
+
+Tu, regină, du-te,
+
+Căci pe Hamlet chematu-l-am in taină
+
+S-o poată întâlni aci pe-Ofelia,
+
+Aşa, ca dintr-o simplă întâmplare.
+
+Eu însumi şi-al ei tată, ca iscoade
+
+Îndrituite-a şti, am pus la cale
+
+Că stând la pândă făr-a fi văzuţi
+
+Să judecăm în voie, după fapte
+
+Şi după vorba şi purtarea lui,
+
+De-s chinurile dragostei de vină,
+
+Ori nu, în suferinţa-i.
+
+REGINA
+
+Mă supun.
+
+Cât despre tine, aş dori, Ofelia,
+
+Ca frumuseţea ta să fie tâlcul
+
+Durerii lui Hamlet. Şi harul tău
+
+Să-l ducă iar pe-adevărata-i cale,
+
+Spre cinstea ta şi-a lui.
+
+OFELIA
+
+De-ar fi aşa!
+
+(Iese regina.)
+
+POLONIUS
+
+Ofelia, plimbă-te pe-aci. Stăpâne
+
+Cu voia ta, să ne pitim.
+
+(Către Ofelia.) Citeşte-n
+
+Această carte, a ta singurătate
+
+Printr-o asemenea-ndeletnicire
+
+Să pară cu atât mai potrivită.
+
+Ades suntem de-ocară pentru asta,
+
+E mult prea dovedit că arătând
+
+Un chip smerit, cucernice purtări,
+
+Putem să-l îndulcim chiar şi pe dracul.
+
+REGELE
+
+(aparte)
+
+O, asta este prea adevărat,
+
+Ce bici cumplit pe cuget, ţi-e cuvântul!
+
+Obrajii târfei dreşi cu iscusinţă
+
+Nu-s mai urâţi sub sulimanul lor
+
+Ca fapta mea sub vorbele-mi alese.
+
+O, grea povară!
+
+POLONIUS
+
+L-aud venind. Să ne ascundem, sire!
+
+(Ies regele şi Polonius, intră Hamlet.)
+
+HAMLET
+
+A fi sau a nu fi: iată-ntrebarea!
+
+E oare mai de laudă să suferi
+
+În sinea ta, săgeţile şi praştia
+
+Norocului vrăjmaş, sau mai degrabă
+
+Să te-narmezi în faţa unei mări
+
+De zbucium şi prin luptă s-o răpui?
+
+Să mori, să dormi... nimic mai mult. Să ştii
+
+Că printr-un somn poţi pune-odată capăt
+
+Durerii sufleteşti şi-atâtor chinuri
+
+Ce-s partea cărnii, iată o-ncheiere
+
+Spre care năzuim. Să mori, să dormi;
+
+Să dormi poate visând? Aici stă totul.
+
+Ce vise-n somnul morţii poţi visa
+
+Când am scăpat vremelnicei strânsori?
+
+E tocmai ce ne-ndeamnă-a pregeta,
+
+Şi-aici se află şi acea-ndoială
+
+Ce dă restriştii-o viaţă — atât de lungă.
+
+O, cine-ar mai răbda dispreţul, biciul
+
+Acestor vremi şi-obida asupririi,
+
+Jignirea-adusă numelui de om,
+
+Durerea dragostei ne'mpărtăşite,
+
+Trufia dregătorilor, dreptatea
+
+Zăbavnică, bătaia din picior
+
+Pe care vrednicia răbdătoare
+
+O tot îndură de la nedestoinici,
+
+Când liniştea şi-ar căpăta-o singur
+
+C-un vârf de jungher. Cine-ar sta să-şi ducă
+
+Povara vieţii-n geamăt şi sudori,
+
+De n-ar fi spaima de ceva de-apoi,
+
+De ţărmul neştiut de unde nimeni
+
+N-a mai venit şi care ne-ngrozeşte
+
+Făcându-ne mai lesne să-ndurăm
+
+Urgiile de-aici, decât să tindem
+
+Spre altele pe care nu le ştim.
+
+Şi cugetul ne schimbă-n bieţi mişei,
+
+Încât firescul chip al hotărârii
+
+Sub raza slabă-a gândului păleşte,
+
+Şi-avânturile cele mai măreţe
+
+Sub semnu-acesta se abat din drum
+
+Şi pier ca faptă. Dar tăcere, iat-o
+
+Pe mândra Ofelia. Nimfă, pomeneşte
+
+În ruga ta de mine, păcătosul.
+
+OFELIA
+
+Stăpâne scump, ce faci de-atâta vreme?
+
+HAMLET
+
+Smerite mulţumiri. Eu? Bine, bine...
+
+OFELIA
+
+Păstrez, măria ta, din parte-ţi daruri,
+
+Şi vreau de mult să ţi le-napoiez.
+
+Primeşte-le, te rog.
+
+HAMLET
+
+Nu, nicidecum,
+
+Eu niciodată nu ţi-am dat nimic.
+
+OFELIA
+
+Mărite doamne, mi le-ai dat, ştii bine,
+
+Şi însoţite de atât de dulci
+
+Cuvinte,-ncât păreau şi mai bogate.
+
+De vreme ce mireasma le-a pierit,
+
+Ia-le înapoi, căci pentru-o fire-aleasă
+
+Bogatul dar îşi pierde-ntregul preţ
+
+Când cel ce-a dat se-arată rău la suflet.
+
+Stăpâne, iată-le aci.
+
+HAMLET
+
+Ha! ha! Eşti cinstită?
+
+OFELIA
+
+Stăpâne?
+
+HAMLET
+
+Eşti frumoasă?
+
+OFELIA
+
+Ce vrei să spui, măria ta?
+
+HAMLET
+
+Că dacă eşti cinstită şi frumoasă, cinstea ta nu trebuie să stea la sfat cu frumuseţea.
+
+OFELIA
+
+Dar stăpâne, cu cine oare s-ar putea mai bine însoţi frumuseţea decât cu cinstea?
+
+HAMLET
+
+Adevărat! Fiindcă puterea frumuseţii e mai curând în stare să facă o codoaşă din nevinovăţie, decât nevinovăţia să facă frumuseţea să-i semene. Lucrul acesta părea cândva un paradox, însă vremurile de azi îi dau dreptate. Te-am iubit odată...
+
+OFELIA
+
+Cel puţin, stăpâne, aşa m-ai făcut să cred.
+
+HAMLET
+
+N-ar fi trebuit să mă crezi. Fiindcă virtutea nu poate altoi un trunchi bătrân până într-atât, încât să nu se mai simtă nici urmă din ce-a fost înainte.
+
+Nu te-am iubit.
+
+OFELIA
+
+Cu atât mai rău m-am înşelat.
+
+HAMLET
+
+Du-te la mănăstire! De ce să dai naştere unor păcătoşi? Eu însumi sunt oarecum cinstit, totuşi m-aş putea învinui de asemenea fapte, încât ar fi fost mai bine de nu mă aducea mama pe lume. Sunt prea semeţ, răzbunător, ambiţios şi atâtea păcate îmi stau la îndemână, câte nu am gânduri să le cuprind, închipuire să le dau viaţă, sau răgaz să le înfăptuiesc. La ce bun să se mai târască între cer şi pământ unul ca mine? Toţi sânteni nişte păcătoşi nemaipomeniţi. Să nu-l crezi pe nici unul dintre noi. Du-te la mănăstire! Unde e tatăl tău?
+
+OFELIA
+
+Acasă, măria ta.
+
+HAMLET
+
+Închideţi uşile peste el, ca să nu facă pe nerodul decât la el acasă. Rămâi cu bine!
+
+OFELIA
+
+O, Doamne sfinte, ajută-i!
+
+HAMLET
+
+Dacă te măriţi, îţi dau ca zestre acest blestem: de-ai fi ca gheaţa de curată, ca zăpada de neprihănită şi de bârfeală tot să nu scapi. Du-te la mănăstire! Du-te! Adio! Sau dacă trebuie să te măriţi cu orice preţ, ia un nerod, căci oamenii cu cap ştiu prea bine ce dihănii faceţi din ei. La mănăstire! Du-te, cât mai repede. Drum bun!
+
+OFELIA
+
+O, puteri cereşti! Tămăduiţi-l!
+
+HAMLET
+
+Am auzit vorbindu-se destule şi despre sulimanurile voastre. Dumnezeu v-a dat un chip şi voi vă faceţi altul; ţopăiţi, umblaţi în buiestru, pociţi cuvintele, daţi felurite porecle făpturilor Domnului şi vă prefaceţi poftele în nevinovăţie. Pleacă. Nu mai vreau să aud nimic; m-aţi înnebunit. Îţi spun că n-o să mai fie căsnicii. Toţi cei care au apucat să se însoare mai demult o să trăiască, afară de unul. Ceilalţi să rămână aşa cum se află. Du-te la mănăstire!
+
+(Iese.)
+
+OFELIA
+
+Cu minte-aleasă se destramă-aici!
+
+El, ochi şi grai şi spadă totodată,
+
+Curtean şi cărturar şi-ostaş.
+
+Nădejdea
+
+Şi floarea-acestei mândre ţări.
+
+Oglinda
+
+Şi pilda frumuseţii-n chip şi port.
+
+El, pilda tuturor, s-a prăbuşit!
+
+Iar eu, din doamne cea mai oropsită,
+
+Ce supt-am mierea, cântul şoaptei lui,
+
+Văd azi cum mintea-i ieri atotstăpână,
+
+Cu aspru glas, din tonul lui clintit,
+
+Răsună-asemeni unui clopot spart.
+
+Făptura-i fără seamăn şi în floare
+
+De suflul nebuniei veştejită-i.
+
+Vai mie, c-am văzut ce am văzut
+
+Şi văd acum ce mi-a fost dat să văd.
+
+(Reintră Regele şi Polonius.)
+
+REGELE
+
+Iubire? Alta-i suferinţa lui,
+
+Iar spusele-i, deşi-s cam fără şir,
+
+Nu-s tocmai de nebun. În al său suflet
+
+Tristeţea lui cloceşte-un gând ascuns,
+
+Şi de-o rodi, mă tem, de vreo primejdie.
+
+Ca s-o pre'ntâmpin deci, am hotărât
+
+Să plece-n mare grabă-n Englitera
+
+Să ceară-ntârziatul ei tribut.
+
+Şi poate-atâtea mări şi ţări străine
+
+Cu noua lor privelişte s-alunge
+
+Din inimă acel ceva ce-l roade
+
+Şi-l scoate din sărite. Ce crezi oare?
+
+POLONIUS
+
+Că bine-ar fi! Cred totuşi că-nceputul
+
+Şi-izvorul suferinţei lui porneşte
+
+Dintr-o iubire neîmpărtăşită.
+
+Ofelia, tu nu mai eşti ţinută
+
+Să-mi povesteşti ce spusu-ţi-a Hamlet;
+
+Aflat-am totul. Sire, cum ţi-e voia,
+
+Dar dacă socoteşti că-i nimerit,
+
+Îngăduie-i reginei, mamei lui
+
+Ca singură, după sfârşitul piesei,
+
+Să-l întâlneascâ, să-i asculte păsul.
+
+Reginei spune-i să-i vorbească neted.
+
+Voi sta la pândă, cu-nvoirea ta,
+
+S'-aud tot ce-or vorbi. De nici regina
+
+Nu poate să-l descoase, atunci trimite-l
+
+În Anglia, sau poate-ntemniţează-l
+
+Oriunde gândul tău cel prea-nţelept
+
+Va hotărî.
+
+REGELE
+
+Să fie precum zici.
+
+Sminteala când la cei de sus s-arată
+
+Nu trebuie în voia ei lăsată.
+
+(Ies.)
+
+
+
+SCENA 2
+
+O sală în castel. Intră Hamlet şi actorii.
+
+
+
+HAMLET
+
+Te rog spune tirada răspicat şi curgător, aşa cum am rostit-o eu; dacă însă te-apuci să răcneşti, cum fac mulţi actori de-ai voştri, pun mai bine pe crainicul târgului să-mi strige stihurile. Nici să nu dai din mâini prea tare, aşa de pildă ca şi cum ai tăia aerul cu ferestrăul. Fii cât mai potolit. Chiar în mijlocul noianului, al furtunii — ca să zic aşa — în vârtejul pasiunii, trebuie să cauţi să păstrezi o măsură care s-o mai astâmpere puţin. Oh! Mă doare în suflet când aud vreun vlăjgan cu căpăţâna vârâtă într-o perucă, sfâşiind o pasiune în bucăţi, făcând-o zdrenţe, şi spărgând urechile spectatorilor de la parter, care, de cele mai multe ori, nu sunt în stare să preţuiască altceva decât pantomime de neînţeles şi gălăgia. Pe unul ca ăsta, ce se crede mai grozav decât Termagant şi mai Irod decât Irod-împărat, aş pune să-l bată cu biciul. Te rog, fereşte-te de astfel de lucruri.
+
+ÎNTIUL ACTOR
+
+Îţi făgăduiesc, măria-ta.
+
+HAMLET
+
+Să nu fii totuşi nici prea molatic. Dar lasă-te călăuzit de bunul simţ. Potriveşte fapta cu vorba şi vorba cu fapta; ia aminte numai să nu depăşeşti măsura; fiindcă tot ce întrece armura se abate de la scopul teatrului, acest scop fiind încă de la începuturile sale şi până astăzi să se păstreze ca o oglindă a firii; să arate virtuţii adevăratele ei trăsături, păcatului icoana lui şi tuturor vremilor şi vârstelor tiparul lor. Dacă depăşeşti acest ţel, sau dacă nu-l poţi atinge, chiar de-ai face să râdă de prostănaci, nu poţi decât să nemulţumeşti un om cu mintea întreagă. Iar părerea unuia ca acesta trebuie, în preţuirea voastră, să atârne tot atât de greu cât mulţimea întreagă care umple teatrul. Sunt şi unii actori, i-am văzut jucând şi am auzit pe alţii ridicându-i în slava cerului, n-aş vrea să vorbesc cu patimă, care nu mai aveau nimic creştinesc în spusa lor, nici măcar înfăţişarea de creştin, de păgân, sau chiar de om n-o mai aveau. Se umflau în pene şi răgeau de am ajuns să cred că i-a făcut oameni vreun salahor de-al creaţiunii şi că i-a făcut greşit, aşa de cumplit maimuţăreau tot ce e omenesc.
+
+ÎNTIUL ACTOR
+
+Trag nădejde că noi am îndreptat oarecum cusurul ăsta.
+
+HAMLET
+
+Îndreptăţit cu totul. Şi nu îngăduiţi celor ce fac pe paiaţele să spună mai mult decât e scris pentru ei. Sunt unii care se pornesc pe râs, ca să facă să râdă câţiva spectatori nerozi, deşi între timp se joacă vreo scenă însemnată, pe care ar trebui s-o asculte. Urât obicei! Şi trădează o ambiţie vrednică de milă la caraghiosul care se foloseşte de asemenea mijloace. Duceţi-vă să vă pregătiţi!
+
+(Ies actorii, intră Polonius, Rosencrantz şi Guildenstern.)
+
+HAMLET
+
+Ce s-a întâmplat, domnul meu? Doreşte regele să asculte piesa?
+
+POLONIUS
+
+Da. Şi regina de asemenea. Chiar acum.
+
+HAMLET
+
+Roagă-i pe actori să se grăbească.
+
+(Iese Polonius.)
+
+Voi doi vreţi să daţi ajutor ca să fie gata mai repede?
+
+ROSENCRANTZ şi GUILDENSTERN
+
+Negreşit, măria-ta.
+
+(Rosencrantz şi Guildenstern ies.)
+
+HAMLET
+
+Hei, Horaţio!
+
+(Intră Horaţio.)
+
+
+
+
+
+HORAŢIO
+
+Aici sunt, stăpâne drag, la porunca măriei tale.
+
+HAMLET
+
+Horaţio, tu eşti omul cel mai drept
+
+Cu care am avut vreodat-a face —
+
+HORAŢIO
+
+O, scumpul meu stăpân...
+
+HAMLET
+
+Nu-i măgulire,
+
+Căci ce folos aş trage de la tine,
+
+Tu care-ai numai voia ta cea bună
+
+Drept hrană şi veştmânt? Ce linguşire
+
+Cuvine-se săracului? Mai bine
+
+Mieroasa limbă s-o lăsăm să lingă
+
+Deşarta şi neroada strălucire,
+
+Genunchii să se-ndoaie din ţâţâni
+
+Câştigului adus prin linguşire.
+
+M-auzi? De când mi-e sufletul stăpân,
+
+Şi ştie osebi pe-un om de altul,
+
+Pe tine te-am pecetluit şi-ales;
+
+Ai fost ca unul ce tot suferind,
+
+Nu suferă nimic, bărbatul care
+
+Primea lovirea sau surâsul soartei
+
+Şi mulţumea la fel pentru-amândouă.
+
+Să fie binecuvântaţi acei
+
+În care sângele şi judecata
+
+Se află-atât de bine contopite
+
+Încât ei nu-s asemeni unui fluier
+
+Ce-n degetele soartei va să cânte
+
+Ce-i place ei. Dă-mi omul care
+
+Nu-i robul patimei, şi-l voi purta
+
+În miezul inimii,-n străfundul ei,
+
+Precum te port pe tine.
+
+Dar destul.
+
+Deseară-n faţa regelui se joacă
+
+O piesă amintind împrejurarea
+
+De care ţi-am vorbit, aşa cum fost-a
+
+Ucis al meu părinte. Rogu-te,
+
+Pe când vei urmări desfăşurarea,
+
+Din răsputerea sufletului tău,
+
+Pândeşte-l pe-al meu unchi.
+
+Şi dac-ascunsa
+
+Nelegiuire nu va fi stârnită,
+
+Ca un vânat, de-anume amănunte,
+
+Atunci e necurată arătarea
+
+Pe care am văzut-o amândoi,
+
+Iar ale mele-nchipuiri sunt negre
+
+Precum cuptorul lui Vulcan. Ia seama
+
+La el, că ochii mei nu-l vor slăbi,
+
+Şi-apoi ne vom împărtăşi gândirea,
+
+Să tălmăcim înfăţişarea lui.
+
+HORAŢIO
+
+Bine, stăpâne. Dacă mi-o fura
+
+Un cât de cât, pe când se joacă piesa
+
+Şi-mi scapă ochilor, atunci plătesc
+
+Eu paguba.
+
+HAMLET
+
+Ia-ţi locul. Iată-i vin. Eu trebuie acum să fiu nebun.
+
+(Marş danez. Fanfară. Intră regele, regina, Polonius,
+
+Ofelia, Rosencrantz, Guildenstern şi alţii.)
+
+REGELE
+
+Cum îi mai merge vărului nostru Hamlet?
+
+HAMLET
+
+Cum nu se poate mai bine, pe legea mea! Mă înfrupt din hrana cameleonului: mă îndop cu aer, care e plin de făgăduinţe. N-ai putea îngrăşa astfel un clapon.
+
+REGELE
+
+Răspunsul acesta nu mă atinge, Hamlet. Asemenea cuvinte nu sunt ale mele.
+
+HAMLET
+
+Nici ale mele nu mai sunt.
+
+(Către Polonius.) Domnul meu, după câte mi-ai spus, ai jucat teatru pe vremuri, la universitate.
+
+POLONIUS
+
+Am jucat, măria-ta, şi treceam drept un actor bun.
+
+HAMLET Şi ce rol ai jucat?
+
+POLONIUS
+
+Rolul lui Iuliu Cezar. Am fost ucis în Capitol. Mă ucidea Brutus.
+
+HAMLET
+
+Ce brutal din partea lui să omoare un cogeamite viţel. Sunt gata actorii?
+
+ROSENCRANTZ
+
+Da, stăpâne. Aşteaptă porunca voastră.
+
+REGINA
+
+Vino încoace, scumpul meu Hamlet. Stai lângă mine.
+
+HAMLET
+
+Nu, mamă dragă, e aici un magnet care mă atrage mai mult.
+
+POLONIUS
+
+(către rege) Oho, Ai auzit, măria-ta?
+
+HAMLET
+
+Domniţă, mă pot culca în poala ta?
+
+(Se aşază la picioarele Ofeliei.)
+
+OFELIA
+
+Nu, măria-ta.
+
+HAMLET
+
+Vreau să zic, cu capul pe genunchii tăi?
+
+OFELIA
+
+Da, măria ta.
+
+HAMLET
+
+Crezi că m-am gândit la lucruri necuviincioase?
+
+OFELIA
+
+Nu cred nimic, măria-ta.
+
+HAMLET
+
+Straşnic gând, să stai între picioarele unei fecioare.
+
+OFELIA
+
+Ce anume, stăpâne?
+
+HAMLET
+
+Nimic.
+
+OFELIA
+
+Eşti vesel, stăpâne.
+
+HAMLET
+
+Cine, eu?
+
+OFELIA
+
+Da, stăpâne.
+
+HAMLET
+
+Oh! Nu sunt decât paiaţa ta. Ce poate face un om pe lume decât să se bucure? Uită-te numai ce veselă arată mama. Şi tatăl meu a murit numai de două ceasuri.
+
+OFELIA
+
+Cum? sunt de două ori două luni, stăpâne.
+
+HAMLET
+
+E aşa de mult de-atunci? Dacă-i aşa, dracul să mai poarte doliu, eu am să mă-mbrac în negru. O! Ceruri! E răposat de două luni şi încă n-a fost uitat. Atunci poţi să tragi nădejde că amintirea unui om mare va dăinui o jumătate de an după săvârşirea sa din viaţă. Dar, pe Sfânta Născătoare, doar dacă a ctitorit biserici. Altminteri, o să aibă parte de uitarea tuturora, la fel cu calul de lemn, care poartă epitaful! Vai! vai! uitat e bietul căluşel!
+
+(Trâmbiţele, sună. Urmează pantomima. Intră un rege şi o regină ce par foarte îndrăgostiţi. Regina îl îmbrăţişează şi el pe dânsa. Apoi ea îngenunchează şi arată că-i face făgăduieli. El o ridică şi-şi pune capul pe umărul ei. Pe urmă, el se culcă pe o pajişte înflorită. Cum îl vede adormit, ea îl lasă singur. Îndată după ea intră un bărbat, care-i scoate lui coroana şi o sărută, toarnă otravă în urechea regelui şi iese. Regina se întoarce, îl găseşte pe rege mort şi dă semne de deznădejde. Ucigaşul, împreună cu vreo două-trei personaje mute, se întoarce şi el şi pare că plânge alături de ea. Cadavrul este scos afară. Otrăvitorul o îmbie pe regină cu daruri; ea; se împotriveşte la început şi pare că-l dispreţuieşte, dar se înduplecă în cele din urmă şi îi primeşte dragostea. Actorii ies )
+
+OFELIA
+
+Ce înseamnă asta, măria-ta?
+
+HAMLET
+
+Hei, asta e miching mallecho, şi înseamnă nelegiuire.
+
+OFELIA
+
+Pesemne că ni s-a înfăţişat subiectul piesei.
+
+(Intră Prologul.)
+
+HAMLET
+
+O să aflăm acum de la actorul acesta. Actorii nu pot păstra nici o taină. Spun totul.
+
+OFELIA
+
+O să ne spună ce însemnează scena aceea mută?
+
+HAMLET
+
+Da. Şi orice altă scenă mută pe care i-ai înfăţişa-o. Să nu te ruşinezi să-i arăţi orice şi nici el n-are să se ruşineze să-ţi spună ce înseamnă.
+
+OFELIA
+
+Eşti răutăcios, eşti răutăcios. Vreau să ascult piesa.
+
+PROLOG
+
+Pentru a noastră tragedie
+
+Rugămu-ne de îndurare
+
+Şi vă cerem ascultare.
+
+(Iese.)
+
+HAMLET
+
+E oare un prolog sau deviza de pe un inel?
+
+OFELIA
+
+E scurt, măria-ta.
+
+HAMLET
+
+Ca şi dragostea femeii.
+
+(Intră doi actori: un rege şi o regină.)
+
+REGELE DIN PIESĂ
+
+De treizeci de ori al lui Apollo car
+
+A dat ocol abisului sărat
+
+Al lui Neptun precum şi l-al lui Tellus
+
+Tărâm rotund. Şi treizeci de duzini
+
+De luni, cu-a lor lumină de-mprumut
+
+Trecut-au tot de-atâtea ori prin lume
+
+De când prin dragoste-ale noastre inimi
+
+Şi mâinile prin nuntă ni-s unite
+
+Cu cele mai sfinţite legături.
+
+REGINA DIN PIESĂ
+
+O, soarele şi luna de ne-ar da
+
+Să numărăm ocolurile lor,
+
+De tot atâtea ori ca pân-acum,
+
+Nainte de-a se stinge dorul nostru!
+
+Vai mie, însă: eşti bolnav de-o vreme
+
+Şi-atât de abătut şi de schimbat,
+
+Că mă-nspăimânt. Şi totuşi spaima mea
+
+Nu trebuie, stăpâne, să-ţi dea grijă;
+
+Că frica şi iubirea la femei
+
+Se cumpănesc întru nimic şi-n totul.
+
+Tu ştii, iubirea mea ţi-a dat dovezi,
+
+De-o seamă-mi sunt şi dragostea şi frica
+
+Şi-acolo unde dragostea e mare
+
+Se schimbă-n teamă cea mai mică grijă
+
+Şi-acolo unde temerile cresc
+
+Sporeşte şi iubirea deopotrivă.
+
+REGELE DIN PIESĂ
+
+Simt, dragoste, c-am să te las curând;
+
+
+
+
+
+Puterile treptat mă părăsesc,
+
+Iar după moartea mea tu vei trăi
+
+Pe lumea asta mândră, prea cinstită
+
+Şi răsfăţată. Poate s-ai şi parte
+
+De-un soţ blajin.
+
+REGINA DIN PIESĂ
+
+O, cruţă-mă, te rog!
+
+O nouă dragoste ar fi trădare,
+
+Blestem asupră-mi soţ urmaş de-mi iau,
+
+Că nimeni nu nunteşte-a doua oară
+
+De n-a ucis pe mirele dintâi.
+
+HAMLET
+
+(aparte) Amar pelin, amar pelin.
+
+REGINA DIN PIESĂ
+
+Temeiul unei cununii de-a doua
+
+Nu-i dragostea, ci numai socoteala,
+
+Pe soţul mort l-ucid a doua oară
+
+Când celalt soţ în pat m-o săruta.
+
+REGELE DIN PIESA
+
+Te cred că spui doar gândul ce-l gândeşti;
+
+Dar noi uităm ades ce-am hotărât.
+
+Căci scopu-e doar un rob al amintirii;
+
+Pornit cu-avânt, dar prea plăpând din fire:
+
+Un fruct necopt, legat de creanga sa,
+
+Ce cade singur când a dat în pârg.
+
+Căci noi pe noi uităm a ne plăti
+
+De datoria ce ne-o datorăm.
+
+Ce-n toiul patimii ne-am pus în gând,
+
+Când patima s-a stins, s-a dus şi gândul.
+
+În focul lor, dureri şi bucurii
+
+Îşi mistuie şi tâlcul şi fiinţa:
+
+Când bucuria-n voie se răsfaţă,
+
+Atunci durerea mai amarnic plânge,
+
+Iar jalea râde, râsul jeluieşte
+
+La cea mai ne-nsemnată întâmplare
+
+Pământul nu-i ciudat, nici veşnic nu-i;
+
+Cum trece dragostea, norocul trece,
+
+Nu ştim care din noi călăuzeşte.
+
+Când cade-un om de seamă, ai lui zboară;
+
+Calicu-ajuns, duşmanii-l îndrăgesc.
+
+Iar dragostea se ţine de noroc:
+
+Nu duce lipsă de prieteni omul
+
+Când el nevoie n-are de nimic,
+
+Dar cel ce-i pune totuşi la-ncercare
+
+Când e-n impas, duşmani şi i-a făcut.
+
+Dar vorba ca să n-o schimb şi să-nchei,
+
+Voinţa, soarta-aşa ni-s dezbinate:
+
+Întâi zadarnic stăm şi plănuim
+
+Că tot ce plănuim e spulberat;
+
+Al nostru-i gândul, nu şi-nfăptuirea-i
+
+Dar moară-ţi soţul, mort îţi e şi gândul.
+
+REGINA DIN PIESĂ
+
+Să n-am de pâine şi lumină parte,
+
+De somn şi voioşie zi şi noapte,
+
+Să-mi fie crez şi dor doar deznădejdea,
+
+Şi-un trai de schivnic pus în fiare soarta-mi.
+
+Năpasta-n faţa căreia păleşte
+
+Al bucuriei chip, să iasă-n calea
+
+A tot ce mi-am dorit, să-l nimicească.
+
+Pedeapsă veşnică să cadă-asupră-mi
+
+Aci şi dincolo de lume, dacă
+
+O dată văduvă, mă fac mireasă.
+
+HAMLET
+
+Dar dacă nu se ţine de cuvânt!
+
+REGELE DIN PIESĂ
+
+Greu jurământ. Mă lasă, dragă, singur,
+
+Mi-e duhul tulbure şi-aş vrea o clipă
+
+Să uit în somn povara zilei.
+
+REGINA DIN PIESĂ
+
+Dormi
+
+Şi fie somnul leagăn minţii tale
+
+Iar ceasul rău, departe-n veci de noi.
+
+(Iese.)
+
+HAMLET
+
+Cum vi se pare piesa, doamnă?
+
+REGINA
+
+Cred că regina face prea multe jurăminte.
+
+HAMLET
+
+Da, dar îşi va ţine cuvântul.
+
+REGELE
+
+Cunoşti subiectul piesei? Nu e nimic supărător?
+
+HAMLET
+
+Nu, nu, ei nu fac altceva decât să glumească. O otrăvire în gluma. Nu poate jigni pe nimeni.
+
+REGELE
+
+Cum se numeşte piesa?
+
+HAMLET
+
+Capcana de şoareci. Cum? Bineânţeles la figurat. Piesa înfăţişează un omor ce s-a întâmplat la Viena. Pe duce îl cheamă Gonzago şi pe soţia sa Baptista. Veţi vedea îndată că e o ticăloşie fără seamăn. Dar ce ne pasă nouă? Pe maiestatea-voastră şi pe noi, cei cu suflete curate, nu ne atinge cu nimic. Gloaba împunsă n-are decât să zvârle, noi ne ţinem bine în şa.
+
+(Intră Lucianus.)
+
+Acesta e un oarecare Lucianus, nepotul regelui.
+
+OFELIA
+
+Ce bine joci rolul corului, măria-ta.
+
+HAMLET
+
+Aş putea tălmăci ce se petrece între tine şi iubitul tău numai de-aş vedea jocul păpuşilor.
+
+OFELIA
+
+Vai! ce înţepător eşti, stăpâne! Ce înţepător!
+
+HAMLET
+
+Te-ar costa un geamăt ca să-mi toceşti vârful.
+
+OFELIA
+
+Încă şi mai bine şi mai rău.
+
+HAMLET
+
+Aşa sunt soţii... începe o dată, ucigaşule! Lasă strâmbăturile astea, blestemate şi începe! Haide! Corbul răguşit croncăne a răzbunare
+
+LUCIANUS
+
+Când negru, aprigi mâini, prielnic ceas,
+
+Prilej sosi, otravă descântată,
+
+Şi-n preajmă nici un suflet viu rămas.
+
+Tu, zeamă puhavă şi-amestecată,
+
+Din buruieni culese-n miez de noapte,
+
+De trei afurisenii-nveninată
+
+Şi de trei ori spurcată de Hecate
+
+Cumplita-ţi vrajă-n trup şi sănătate.
+
+(Toarnă otravă în urechea celui adormit.)
+
+HAMLET
+
+Îl otrăveşte în grădină, ca să-i ia coroana. Îl cheamă Gonzago. Povestea e adevărată şi scrisă într-o italiană aleasă. Veţi vedea îndată cum câştigă ucigaşul iubirea soţiei lui Gonzago.
+
+OFELIA
+
+Regele se ridică.
+
+HAMLET
+
+Cum? Se sperie de un foc de paie?
+
+REGINA
+
+Cum se simte stăpânul meu?
+
+POLONIUS
+
+Încetaţi jocul!
+
+REGELE
+
+Aduceţi lumini! Haideţi!
+
+POLONIUS
+
+Lumină, lumină, lumina!
+
+(Ies cu toţii în afară de Hamlet şi Horaţio.)
+
+HAMLET
+
+Tu laşi să geamă ciuta săgetată,
+
+Să zburde cerbul teafăr cât o vrea.
+
+Pe când plâng unii, alţii se desfată:
+
+Aşa e lumea de când este ea.
+
+Dacă soarta va fi vitregă cu mine de aci încolo, nu crezi oare, domnul meu, că stihurile acestea cu o pădure de pene la pălărie şi cu doi trandafiri de Provenţa pe pantofii mei m-ar putea face să fiu primit într-o trupă de actori?
+
+HORAŢIO
+
+La partea jumătate.
+
+HAMLET
+
+Ba pe de-a-ntregul.
+
+Că tu, prietene, mă crezi,
+
+Acest regat părăginit
+
+Ce-a fost de Dumnezeu iubit
+
+E stăpânit de-o... bufniţă.
+
+HORAŢIO
+
+Nu strica dacă-i punea-i o rimă.
+
+HAMLET
+
+O, dragul meu Horaţio, pun rămăşag o mie de galbeni pe spusele stafiei. Văzut-ai ceva?
+
+HORAŢIO
+
+Foarte bine, măria ta.
+
+HAMLET
+
+Când a fost vorba de otravă.
+
+HORAŢIO
+
+Am băgat de seamă.
+
+HAMLET
+
+Aha! Haide, să vină muzica!
+
+Să vie flautiştii!
+
+Căci piesa dacă regelui nu-i place
+
+Desigur că i-a displăcut şi pace!
+
+Să vie muzica!
+
+(Intră Rosencrantz şi Guildenstern.)
+
+GUILDENSTERN
+
+Bunul meu stăpân, îngăduie-mi să-ţi spun un cuvânt.
+
+HAMLET
+
+Şi o întreagă poveste, domnul meu.
+
+GUILDENSTERN
+
+Regele, stăpâne...
+
+HAMLET
+
+Ce i s-a întâmplat, domnul meu?
+
+GUILDENSTERN
+
+S-a retras în odăile sale nespus de tulburat.
+
+HAMLET
+
+Din pricina băuturii?
+
+GUILDENSTERN
+
+Nu, măria ta, din pricina mâniei.
+
+HAMLET
+
+Ar fi fost cu mult mai înţelept dacă ai fi împărtăşit aceasta medicului său, fiindcă nu m-aş încumeta eu să-i dau o curăţenie, s-ar putea să se înfurie şi mai rău.
+
+GUILDENSTERN
+
+Stăpâne, fii bun şi pune oarecare rânduială în vorbă şi nu te abate atât de tare de la cele ce am să-ţi spun.
+
+HAMLET
+
+Iată, m-am domolit, domnul meu; vorbeşte.
+
+GUILDENSTERN
+
+Regina, mama măriei tale, cu sufletul plin de durere, m-a trimis încoace.
+
+HAMLET
+
+Fii binevenit!
+
+GUILDENSTERN
+
+Nu, bunul meu stăpân, curtenia aceasta nu e tocmai nimerită. Dacă binevoieşti să-mi dai un răspuns bine chibzuit, am să împlinesc porunca mamei măriei tale; iar dacă nu, să-mi fie cu iertare, am să mă înapoiez, punând capăt însarcinării mele.
+
+HAMLET
+
+Nu pot, domnul meu.
+
+GUILDENSTERN
+
+Ce anume, stăpâne?
+
+HAMLET
+
+Să-ţi dau un răspuns bine chibzuit. Nu sunt teafăr la minte. Dar, domnul meu, dacă-i vorba de un răspuns aşa cum sunt eu în stare, oricând la porunca domniei tale, sau, mai bine zis, a mamei. Destul acum, să trecem la fapte. Ziceai că mama...
+
+ROSENCRANTZ
+
+Purtarea măriei tale a uimit-o şi a umplut-o de mâhnire.
+
+HAMLET
+
+Nemaipomenit e fiul ăsta care e în stare să-şi uimească în aşa hal mama! Dar această uimire a mamei nu are nici o urmare? Spune!
+
+ROSENCRANTZ
+
+Doreşte să stea de vorbă cu măria-ta în iatacul său, înainte de culcare.
+
+HAMLET
+
+Ne vom supune, chiar de-ar fi de zece ori mama noastră. Mai doreşti şi altceva?
+
+ROSENCRANTZ
+
+Stăpâne, într-o vreme ţineai la mine.
+
+HAMLET
+
+Şi mai ţIN şi acum, o jur pe aceste scule apucătoare şi hoaţe. (Îşi arată mâinile.)
+
+ROSENCRANTZ
+
+Bunul meu stăpân, care e pricina tulburării tale? Îţi fereci singur lanţurile, când îţi ascunzi necazurile faţă de un prieten.
+
+HAMLET
+
+Nu. Înainte de loc, domnul meu.
+
+ROSENCRANTZ
+
+Cum se poate? Când regele însuşi te numeşte moştenitor la tronul Danemarcei?
+
+HAMLET
+
+Da, domnul meu, dar până ce creşte iarba... zicătoarea s-a cam învechit.
+
+(Intră actorii cu flaute.)
+
+HAMLET
+
+Ah, flaute! Daţi-mi unul să-l văd. Şi, ca să isprăvesc cu voi...
+
+(lui Guildenstern). De ce tot îmi dai târcoale, de parc-ai vrea să mă prinzi în laţ?
+
+GUILDENSTERN
+
+O, dacă datoria mă face prea îndrăzneţ, dragostea mă face nepoliticos?
+
+HAMLET
+
+Nu prea înţeleg. Vrei să cânţi cu flautul ăsta?
+
+GUILDENSTERN
+
+Nu pot, stăpâne.
+
+HAMLET
+
+Te rog eu.
+
+GUILDENSTERN
+
+Crede-mă că nu pot.
+
+HAMLET
+
+Te rog din suflet.
+
+GUILDENSTERN
+
+Nu ştiu nici măcar să-l mânuiesc, măria ta.
+
+HAMLET
+
+E la fel de uşor cum ar fi să minţi. Potriveşte degetul cel mare şi celelalte patru degete pe aceste găurele; pune-l la gură şi suflă în el; şi flautul va viersui cea mai încântătoare muzică. Uite, acestea sunt clapele.
+
+GUILDENSTERN
+
+Dar nu-i pot smulge nici un sunet armonios.
+
+HAMLET
+
+Vrei să mă faci să cânt, vrei să arăţi că-mi cunoşti strunele; vrei să smulgi până şi inima tainei mele, vrei să mă faci să vibrez de la nota cea mai joasă până la cea mai înaltă. Acest micuţ instrument e plin de melodii, de sunete minunate, şi totuşi nu-l poţi face să vorbească. La naiba, cum îţi închipui că sunt mai uşor de mânuit decât un fluier? Poţi să mă iei drept orice fel de instrument, oricât m-ai suci, tot n-ai să mă faci să cânt. Dumnezeu să te aibă în pază, domnul meu.
+
+(Reintră Polonius.)
+
+POLONIUS
+
+Stăpâne, regina vrea să-ţi vorbească numaidecât.
+
+HAMLET
+
+Vezi norul acela în chip de cămilă?
+
+POLONIUS
+
+Pe sfânta liturghie, într-adevăr, e întocmai ca o cămilă.
+
+HAMLET
+
+Eu găsesc că seamănă cu o nevăstuică.
+
+POLONIUS
+
+Este adus de spate ca o nevăstuică.
+
+HAMLET
+
+Sau ca o balenă?
+
+POLONIUS
+
+Chiar ca o balenă.
+
+HAMLET
+
+Atunci, am să vin îndată la mama. Oamenii ăştia mă scot din sărite. Vin îndată.
+
+POLONIUS
+
+Mă duc să-i spun.
+
+(Iese Polonius.)
+
+HAMLET
+
+Îndată, e uşor de zis. Prieteni, lăsaţi-mă singur.
+
+(Ies Rosencrantz, Guildenstern, Horaţio etc.)
+
+HAMLET
+
+Acum e ceasul vrăjilor de noapte,
+
+Când cască cimitirile, când iadul
+
+Răsuflă-a molimă-ntr-această lume
+
+Acum aş bea şi sânge cald, aş face
+
+Vreo faptă-atât de rea, că ziua însăşi,
+
+Văzând-o, s-ar cutremura. Tăcere.
+
+M-aşteaptă mama. Inimă, nu-ţi pierde
+
+Adevărata fire. Nu lăsa
+
+Să intre sufletul lui Nero-n pieptu-mi.
+
+Pot fi chiar crud, dar nu neomenos:
+
+Să am pumnale-n glas, dar nu şi-n mâini.
+
+Făţarnic fie-mi sufletul şi graiul
+
+Şi-oricât de aspru-n vorbe-aş veşteji-o,
+
+Tu, suflete, nu-ngădui vreodată
+
+Cuvântu-mi să-l pecetluiesc prin faptă.
+
+(Iese.)
+
+
+
+SCENA 3
+
+O sală în castel. Intră regele.
+
+Rosencrantz şi Guildenstern
+
+
+
+REGELE
+
+Nu-mi place şi găsesc că nu-i cuminte
+
+Să las frâu slobod nebuniei lui.
+
+Fiţi gata deci. Vă pregătesc solia,
+
+Iar el vă va-nsoţi în Englitera;
+
+Nu pot să-ngădui ceas de ceas în preajmă-mi
+
+Ameninţările smintelii lui.
+
+GUILDENSTERN
+
+Ne pregătim de drum. E pentru noi
+
+O sfântă şi pioasă datorie
+
+Să ne-ngrijim de mântuirea-atâtor
+
+Şi-atâtor inşi a căror vieţi şi pâine
+
+Sunt strâns legate de măria-ta.
+
+ROSENCRANTZ
+
+Şi-un om de rând şi singur e ţinut
+
+Din toată vlaga sufletului său
+
+Să-şi apere de nimicire viaţa.
+
+Cu-atât mai mult acelui de-a cărui soartă
+
+Fiinţa tuturora-i strâns legată.
+
+Când moare-un rege, el nu moare singur:
+
+Ca o vâltoare, trage după sine
+
+Tot ce-i prin jur. E-o roată uriaşă
+
+De culmea celui mai nalt munte prinsă
+
+Şi de-ale cărei spiţe mari lipite-s
+
+Mărunte amănunte fără număr.
+
+Când cade roata, micile făpturi
+
+Se prăvălesc — urmare ne'nsemnată —
+
+În vuietul ruinii. Totdeauna,
+
+Când regele suspină, ţara geme.
+
+REGELE
+
+Gătiţi-vă pentru-acest grabnic drum,
+
+Vă rog; am hotărât să stăvilesc
+
+Această spaimă care prea de tot
+
+A luat-o razna.
+
+ROSENCRANTZ şi GUILDENSTERN
+
+Vom fi gata, sire.
+
+(Rosencrantz şi Guildenstern ies. Intră Polonius.)
+
+POLONIUS
+
+Se-ndreaptă spre iatacul mamei sale,
+
+Stăpâne. Eu voi sta după perdea
+
+S-aud tot ce-şi vorbesc. Mă ţin chezaş
+
+Că ea-l va dojeni cu mare-asprime.
+
+Dar cum ai spus — şi prea-nţelept grăit-ai —
+
+Un alt ascultător, nu numai mama
+
+— Căci mama e firesc părtinitoare —
+
+Să tragă cu urechea din loc sigur.
+
+Rămâi cu bine, ocrotitorul meu;
+
+'Nainte de ora stingerii mă-ntorc
+
+Să-ţi spun tot ce-am aflat.
+
+REGELE
+
+Îţi mulţumesc.
+
+(Iese Polonius.)
+
+Păcatu-mi râncezit la cer duhneşte.
+
+Blestemul cel mai vechi apasă asupră-i:
+
+Uciderea de frate! Să mă rog
+
+Aş vrea şi nu pot. Tare mi-e dorinţa
+
+Şi vrerea mi-e la fel de tare, totuşi
+
+Păcatul îmi înfrânge năzuinţa
+
+Şi ca un om aflat între ispite
+
+Potrivnice, nu-ncep nu-ncep nimic şi preget,
+
+Din două n-alegând nici una. Cum?
+
+De-ar fi această blestemată mână
+
+De sângele de frate îngroşată,
+
+Au n-are cerul blând destule ploi
+
+S-o spele albă ca zăpada? Oare
+
+La ce-o fi bună mila dacă nu
+
+Să-nfrunte chipul crimei? Ce e ruga,.
+
+De nu-i puterea ceea îndoită
+
+De-a ne feri nainte de păcat
+
+Şi-a ne ierta apoi după cădere?
+
+Să cercetez. Am săvârşit păcatul.
+
+Ce fel de rugă mi se potriveşte?
+
+„Şi iartă-mi, Doamne, mârşava mea crimă."
+
+Dar asta nu se poate, câtă vreme
+
+Mai sunt în stăpânirea-acelor lucruri
+
+Ce-mpinsu-m-au să fac omor, şi-anume
+
+Regina mea, trufia-mi şi coroana.
+
+Poţi fi iertat păstrându-ţi rodul crimei,
+
+Pe căile piezişe ale lumii
+
+Păcatul poate, cu-aurita-i mână,
+
+S-abată şi dreptatea de la ţelu-i,.
+
+Şi-ades văzut-am mârşavu-i câştig,
+
+A legii hotărâre cumpărând-o.
+
+Acolo sus nu-i însă tot aşa,
+
+Nu-ncap acolo măsluieli, acolo
+
+Se merge fără greş cu cercetarea,
+
+Iar noi, de faţă cu-ale noastre fapte
+
+Ce rânjetul şi chipul şi-l arată,
+
+Siliţi suntem a ne mărturisi.
+
+Atuncea? Ce mai am? Doar pocăinţa?
+
+S-o-ncerc ce poate. Ce nu poate oare?
+
+De însă nu mă pot căi, e vană.
+
+Cât sunt de slab! O, gând ca moartea negru,
+
+O, suflet încleiat care te zbaţi
+
+Să scapi, şi totuşi tot mai mult te-nclei!
+
+O, îngeri, ajutor! fie-vă milă;
+
+Jos, voi, genunchi semeţi, până-n pământ,
+
+Tu inimă de-oţel, te fă plăpândă
+
+Ca trupuşorul unui nou-născut.
+
+Dar poate totul va fi bine.
+
+(Îngenunche şi se roagă. Intră Hamlet.)
+
+HAMLET
+
+Acum ar fi s-o fac. E-n rugăciune.
+
+Acum e clipa. Şi se duce-n ceruri.
+
+Şi astfel mă răzbun.
+
+Să chibzuiesc.
+
+Un ticălos ucisu-l-a pe tata
+
+Şi singurul său fiu, eu, îl trimit
+
+Pe ticălos în cer.
+
+Nu-i răzbunare asta, ci răsplată.
+
+El l-a răpus, cumplit, pe tatăl meu
+
+Îngreuiat de masă, cu păcate
+
+În plină floare, ca-nflorirea-n mai,
+
+Şi cât de mari, o ştie numai cerul,
+
+Dar după-mprejurări, şi-a mea părere
+
+Sunt grele foarte, atunci, drept răzbunare...
+
+Când tocmai sufletu-i, curat prin rugă,
+
+De moarte-i pregătit, eu îl ucid.
+
+Nu.
+
+Stai, spadă, că vei fi cu mult mai crudă
+
+Beat-mort sau în turbare când o fi,
+
+În patu-i de incest şi desfătare
+
+La jocuri, blestemând, şi-n orice stări
+
+Ce nu-l gătesc de mântuire, — atunci îl
+
+Izbeşti să dea cu tălpile de cer,
+
+Iar sufletu-i cel blestemat să fie
+
+Mai negru decât iadu-n care intră.
+
+M-aşteaptă mama. Leacul ăsta doar
+
+De-ţi mai lungeşte zilele bolnave.
+
+(Iese.)
+
+REGELE (ridicându-se)
+
+Cuvântu-mi zboară, gândul mi-e stingher,
+
+Cuvinte fără gând n-ajung la cer.
+
+(Iese.)
+
+
+
+SCENA 4
+
+Iatacul reginei. Intră regina şi Polonius
+
+
+
+POLONIUS
+
+Soseşte-ndată. Spune-i răspicat
+
+Că poznele-i au întrecut măsura.
+
+Că scut ai stat între-a măriei sale
+
+Mânie şi Hamlet.
+
+M-ascund acolo. Te rog, fii aspră.
+
+HAMLET
+
+(în culise) Mamă, mamă, mamă!
+
+REGINA
+
+N-ai grijă. Ţi-am făgăduit. Acum
+
+Retrage-te. L-aud că vine.
+
+(Polonius se ascunde după perdea. Intră Hamlet.)
+
+HAMLET
+
+Ei, mamă, despre ce e vorba?
+
+REGINA
+
+Hamlet, jignit-ai greu pe tatăl tău.
+
+HAMLET
+
+Jignit-ai, mamă, greu, pe tatăl meu,
+
+REGINA
+
+Ia seama, nu-mi răspunde fără rost.
+
+HAMLET
+
+Ia seama, nu-ntreba fără ruşine.
+
+REGINA
+
+Hamlet, ce-nseamnă asta?
+
+HAMLET
+
+Care asta?
+
+REGINA
+
+Uiţi cine sunt?
+
+HAMLET
+
+Pe sfânta cruce, nu!
+
+Regină eşti, iar azi nevasta chiar
+
+A fratelui bărbatului dintâi,
+
+Iar din păcate, însăşi mama mea.
+
+REGINA
+
+Prea bine, atunci am să-ţi trimit pe cei
+
+Ce se pricep cum trebui să-ţi vorbească.
+
+HAMLET
+
+Şezi jos şi n-ai să mişti din loc 'nainte
+
+Să-ţi pun în faţă o oglindă-n care
+
+Ai să te vezi aproape-aşa cum eşti.
+
+REGINA
+
+Ce vrei să faci? Să mă omori? Săriţi, săriţi!
+
+POLONIUS Ce s-a-ntâmplat? Săriţi, săriţi!
+
+HAMLET
+
+(scoţând sabia)
+
+Un şobolan! Pe-un galben, că e mort!
+
+(Împunge cu sabia prin draperie.)
+
+POLONIUS
+
+Am fost ucis!
+
+REGINA
+
+O, Doamne, ce-ai făcut?
+
+HAMLET
+
+Nici eu nu ştiu. Nu-i regele, cumva?
+
+REGINA
+
+Ce crâncenă şi ce cumplita faptă!
+
+HAMLET
+
+Aproape-aidoma, o, scumpă mamă,
+
+Cât să ucizi un rege şi pe urmă
+
+Să te măriţi cu însuţi al său frate.
+
+REGINA
+
+Cât să ucizi un rege?
+
+HAMLET
+
+Doamnă, da,
+
+Aşa am spus. Iar tu, rămâi cu bine,
+
+Biet prost, cutezător şi nepoftit.
+
+Te-am luat drept altul, care ţi-e stăpânul.
+
+Primeşte-ţi soarta. Te-ai încredinţat
+
+Că-i primejdios să prea te afli-n treabă.
+
+De ce-ţi frângi, mamă, mâinile? Destul.
+
+Şezi la un loc, şi lasă-mă să-ţi frâng
+
+Eu inima. Şi-aşa voi face dacă
+
+Făcută nu-i din prea vârtos aluat
+
+Şi dacă blestemata-obişnuinţă
+
+N-a oţelit-o în aşa măsură
+
+Că nu-i fior s-o poată-nduioşa.
+
+REGINA
+
+Dar ce-am făcut că-ngădui limbii tale
+
+Să-mproaşte-n mine cu venin?
+
+HAMLET
+
+O faptă
+
+Ce veştejeşte harul şi bujorii
+
+Sfielii, iar virtutea o numeşte
+
+Făţărnicie, smulge şi coroana
+
+De trandafiri a dragostei curate
+
+Şi-n locul ei aşază doar buboaie.
+
+Din sfântul legământ al cununiei
+
+Un jurământ de cartofor ea face,
+
+E-o faptă care smulge însuşi duhul
+
+Din trupul legii, şi-n şirag de vorbe
+
+Credinţa ne-o preschimbă.
+
+Se-nroşeşte
+
+Şi faţa cerului şi chiar această
+
+Plămadă deasă cu-al ei jalnic chin
+
+Doar auzind de ea se-mbolnâveşte
+
+Ca-n faţa judecăţii de apoi.
+
+REGINA
+
+Vai mie, oare ce am săvârşit
+
+De tuni şi fulgeri astfel împotrivă-mi?
+
+HAMLET
+
+Priveşte-acest portret şi-acestălalt,
+
+În care cei doi fraţi sunt zugrăviţi.
+
+Cât farmec, vezi-l, e pe chipu-acesta:
+
+Cu părul inelat al lui Hiperion,
+
+Cu fruntea parcă a lui Jupiter,
+
+Cu ai lui Marte ochi poruncitori
+
+Şi plini de-ameninţare, şi-o statură
+
+Asemeni celei a lui Hermes, crainic
+
+Văzut sub cer, pe-o culme pogorât.
+
+O-ntruchipare şi o plăsmuire
+
+De parcă zeii toţi şi-au pus pecetea
+
+S-arate lumii ce-nsemnează-un om.
+
+Acesta fost-a soţul râu. Şi-acum
+
+Priveşte-l şi pe celalt: ca neghina-i
+
+Ce creşte-n spicul-frate şi-l usucă.
+
+N-ai ochi? Ai fost în stare să cobori
+
+Măreţul munte dătător de viaţă
+
+Şi-n mlaştina-asta să te-nfunzi? N-ai ochi?
+
+Nu poţi să spui că-i vorba de iubire,
+
+C-al sângelui pojar, la vârsta ta
+
+S-a stins, s-a cuminţit. Ce cuminţenie
+
+E asta însă care te-a-ndemnat
+
+Să cazi de unde-ai fost la ce-ai ajuns?
+
+Desigur, ai simţire, căci altminteri
+
+Nu te-ai putea mişca. Simţirea-ţi însă
+
+Lovită-i de dambla. Nici nebunia
+
+Nu poate rătăci-n aşa măsură,
+
+Căci niciodată simţul nu-i robit
+
+Cu totul, ci-şi păstrează oarecare
+
+Putinţă de-a alege, ce-i slujeşte
+
+Să poată osebi măcar atât.
+
+Ce drac a fost cel ce te-a păcălit
+
+De parcă te-ai jucat de-a baba oarba?
+
+Ochi fără simţuri, simţuri fără văz.
+
+Auz lipsit de mâini, de ochi, mirosul
+
+Lipsit de toate, nici chiar un crâmpei
+
+Beteag al unui simţ nevătămat
+
+Nu poate-n gropi să dea aşa!
+
+O, tu, ruşine! unde ţi-e roşeaţa?
+
+Tu, iad în răzvrătire, dacă poţi
+
+Şi-n oasele unei femei trecute
+
+Să clocoteşti aşa, dă voie-atunci
+
+Şi-nflăcăratei tinereţi, în focu-i
+
+Virtutea ca pe-o ceară s-o topească.
+
+Ruşinea nu mai este nicăieri
+
+Când patima-asmuţită, dând năvală,
+
+Aprinde chiar şi gheaţa, care arde
+
+Atât de tare-ncât din judecată
+
+Îşi face o codoaşă.
+
+REGINA
+
+Încetează, Hamlet.
+
+Ai îndreptat a mea privire
+
+Spre-adâncurile sufletului meu
+
+Şi văd în el atâtea negre pete,
+
+Ce n-au să iasă.
+
+HAMLET
+
+Nu, dar să trăieşti
+
+În rânceda sudoare-a unui pat
+
+Soios şi puhav, să mi te dezmierzi,
+
+Să te desfeţi în cocina spurcată...
+
+REGINA
+
+Nu-mi mai vorbi aşa, Hamlet, o, nu!
+
+În sufletu-mi cuvintele-ţi pătrund,
+
+De parcă sunt pumnale ascuţite.
+
+O, drag Hamlet, nu-mi mai vorbi aşa!
+
+HAMLET
+
+Un ticălos şi-un ucigaş, un rob
+
+Ce nici a mia parte nu-i din cel
+
+Ce-a fost stăpânul tău. Un măscărici
+
+De regi, pungaş de sceptre şi de tronuri,
+
+Şi care fură de pe raft coroana
+
+Cea fără preţ şi-o bagă-n buzunar!
+
+REGINA
+
+O, cruţă-mă, Hamlet!
+
+HAMLET
+
+Un rege
+
+De Vicleim, în petice şi zdrenţe...
+
+(Intră Duhul.)
+
+O, scapă-mă, şi-asupra mea deschide-ţi
+
+Aripile, ceresc ocrotitor.
+
+Sfinţita-ţi faţă, spune-mi, ce doreşte?
+
+REGINA
+
+Vai mie, e nebun.
+
+HAMLET
+
+Nu vii cumva să-ţi mustri fiul care
+
+Tot zăbovind îşi iroseşte vremea
+
+Şi patima, lăsând neîndeplinită
+
+Cumplita faptă a poruncii tale?
+
+O, spune-mi!
+
+DUHUL
+
+Nu uita că vin la tine
+
+Doar ca s-ascut imboldul tău tocit.
+
+Dar iată deznădejdea mamei tale:
+
+Fii scut între-al ei suflet zbuciumat
+
+Şi-a ei fiinţă. În trupurile slabe
+
+Gândirea bântuie mai cu putere.
+
+Vorbeşte-i, Hamlet.
+
+HAMLET
+
+Ce-i cu tine, mamă?
+
+REGINA
+
+Cu tine ce-i, vai mie!
+
+Că stai aşa cu ochii ţinta-n gol
+
+Vorbind văzduhului cel fără trup?
+
+Sălbatic gând în ochii tăi pândeşte
+
+Şi ca ostaşii-n somn când sună-alarma
+
+Stau firele-ţi de păr în cap zbârlite.
+
+De parcă-au prins viaţă. Dragă Hamlet,
+
+Pe arşiţa şi focul urii tale
+
+Revarsă unda rece a răbdării.
+
+La ce te uiţi?
+
+HAMLET
+
+La el mă uit, la el!
+
+Priveşte-l cum ne fulgeră din ochi
+
+Şi cât de palid e! Dreptatea lui
+
+Unită cu-al său chip, ar fi în stare,
+
+De ar vorbi, să mişte şi o piatră.
+
+O, nu, nu te uita la mine. Nu vreau
+
+Să fiu clintit din aspra-mi hotărâre
+
+De ochii-ţi trişti. Iar ce-am de gând să fac
+
+Şi-ar pierde-atunci adevărata-i faţă.
+
+Şi-n loc de sânge-ar curge numai lacrimi.
+
+REGINA
+
+Dar cui îi spui acestea toate, Hamlet?
+
+HAMLET
+
+Nu vezi nimic?
+
+REGINA
+
+Nimic, şi totuşi văd
+
+În jurul nostru tot ce-i de văzut.
+
+HAMLET
+
+Şi nici n-ai auzit nimic?
+
+REGINA
+
+Nimic,
+
+Afară de noi înşine şi-atât.
+
+HAMLET
+
+Dar uite-l, vezi cum se depărtează,
+
+Pe tatăl meu, ca-n viaţă-nveşmântat,
+
+Şi cum se duce, iată-l, prin portal.
+
+(Iese Duhul.)
+
+REGINA
+
+E născocirea minţii tale doar:
+
+În astfel de deşarte plăsmuiri
+
+E foarte iscusită nebunia.
+
+HAMLET
+
+Cum? Nebunia?
+
+Dar pulsu-mi bate aidoma cu-al tău,
+
+Măsura lui e-a însăşi sănătăţii
+
+Şi ce-am rostit nu-s vorbe de nebun;
+
+Încearcă-mă, să vezi că-ţi spun din nou
+
+Aceleaşi spuse fără să-mi pierd şirul.
+
+Pe sfântul har, o, mamă, nu-ţi aşterne
+
+Acest balsam adormitor pe suflet,
+
+Că nu păcatul tău, ci nebunia-mi
+
+Vorbeşte aşa. Pe locu-nsângerat
+
+O pieliţă subţire-ar prinde coajă,
+
+Sub care însă nevăzut puroiul
+
+Ar cotropi lăuntrul putrezit.
+
+Tu spovedeşte-te dumnezeirii,
+
+Fereşte-te de-a mai cădea-n ispită
+
+Şi pocăieşte-te. Gunoiul nu-l întinde
+
+Pe bălării ca să le-ngraşi mai tare.
+
+Şi, mamă, îţi mai cer să-mi ierţi virtutea.
+
+Că-n aste vremi ce gâfâie-n plăceri,
+
+Virtutea însăşi trebuie să ceară
+
+Iertare viciului şi să-ngenunehe
+
+În faţa lui s-o lase să-l ajute.
+
+REGINA
+
+O, Hamlet, mi-ai frânt inima în două.
+
+HAMLET
+
+Aruncă partea-i rea, ca să trăieşti
+
+O viaţă mai curată cu cealaltă.
+
+Deci, noapte bună. Nu te duce însă
+
+În patul unchiului. Fii ca şi cum
+
+Ai fi virtuoasă, chiar de n-ai virtute,
+
+Căci monstru-acesta-obişnuinţa, care
+
+Simţirea toată ne-o mănâncă, este
+
+Un diavol nărăvit, dar şi un înger,
+
+Ce faptelor frumoase deopotrivă
+
+Le dă veşminte lesne de purtat.
+
+Tu stăpâneşte-te la noapte. Mâine
+
+Cu-atât mai lesne te vei stăpâni,
+
+Şi-aşa-ţi va fi mereu tot mai uşor,
+
+Căci stă-n puterile obişnuinţii
+
+Să schimbe-aproape şi tiparul firii,
+
+Chiar şi pe diavol să îl stăpânească,
+
+Sau ca prin farmec chiar să îl alunge.
+
+Deci înc-o dată, noapte bună, mamă,
+
+Iar când nevoia binecuvântării
+
+Se va trezi şi-n tine, am să-ţi cer
+
+La rându-mi binecuvântarea ta.
+
+(Arătându-l pe Polonius.)
+
+Cât despre domnu-acesta, mă căiesc;
+
+Dar asta-a fost a cerului voinţă:
+
+Prin el pe mine şi pe el prin mine
+
+Să ne lovească. Fost-am slujitorul
+
+Şi biciul hotărârilor cereşti.
+
+Mă voi griji de el şi-am să răspund
+
+De moartea lui. Deci noapte bună iar,
+
+Şi de-am fost crud, am fost spre-a fi milos...
+
+Începe rău — dar fi-va şi mai rău.
+
+O vorbă încă, mamă.
+
+REGINA
+
+Ce să fac?
+
+HAMLET
+
+Nimic din tot ce te-am rugat, fireşte.
+
+Tu lasă-l iar pe regele cel puhav
+
+În patul său să te ademenească,
+
+De-obraji să te ciupească ştrengăreşte,
+
+Să-ţi zică şoricelul lui iubit,
+
+Şi-n schimbul unor scârnave săruturi
+
+Sau pipăieli prelinse pe grumaz
+
+Cu degetele lui afurisite,
+
+Destăinuieşte-i adevărul tot
+
+Şi-anume că nu sunt nebun de loc,
+
+Ci numai mă prefac. I-ar prinde bine.
+
+Căci numai o regină cumpătată,
+
+Frumoasă şi cuminte, n-ar fi în stare
+
+S-ascundă de-un motan, de un liliac
+
+Şi de-un broscoi o ştire ca aceasta.
+
+Că altul cine-ar mai putea s-o facă?
+
+Şi-n ciuda judecăţii şi a tainei
+
+De care eşti şi tu legată, suie
+
+Pe-acoperişuri şi deschide coşul,
+
+Dă drumul păsărilor să-şi ia zborul
+
+Şi-asemenea maimuţii din poveste
+
+Tu bagă-te în coş, să vezi cum e,
+
+Şi frânge-ţi gâtul.
+
+REGINA
+
+Fii sigur: dacă vorbele-s făcute
+
+Din răsuflare, iar suflarea dacă
+
+Din viaţă e făcută, nu am viaţă
+
+Să pot sufla o vorbă din ce-ai spus.
+
+HAMLET
+
+Eu trebuie să plec în Englitera. Ştiai?
+
+REGINA
+
+Uitasem, vai! S-a hotărât aşa.
+
+HAMLET
+
+Scrisorile au fost pecetluite,
+
+Cei doi colegi ai mei, în cari mă-ncred
+
+Ca-n două vipere colţate, duc solia.
+
+Ei trebuie să-mi netezească drumul
+
+De-a dreptul în capcană. Treaba lor.
+
+Căci jocul e să-i faci să sară-n aer
+
+Cu pocnitoarea lor cu tot pe meşteri
+
+Şi rău mi-ar merge de n-aş izbuti
+
+Să sap de-un cot pe dedesubtul minei
+
+Şi-n lună pe mineri să-i năpustesc.
+
+O, ce plăcut să vezi că se-ntâlnesc
+
+Pe-aceeaşi matcă două vicleşuguri.
+
+(Arată spre Polonius.)
+
+Cu omul ăsta-ncep să-mi fac de drum,
+
+Să-l duc târâş deci pe burtos alături.
+
+Cu bine mamă. Sfetnicul acesta
+
+Ce-n viaţă-a fost flecar şi nătărău
+
+Şi cam mişel, acum, într-adevăr,
+
+E liniştit, tăcut şi foarte grav.
+
+Pofteşte, domnul meu, să isprăvim
+
+Iar ţie, noapte bună, mamă.
+
+(Ies unul într-o parte, celălalt într-alta, Hamlet târându-l pe Polonius.)
+
+CORTINA
+
+
+
+
+
+ACTUL IV
+
+
+
+SCENA 1
+
+O sală în castel. Intră regele, regina, Rosencrantz şi Guildenstern
+
+
+
+REGELE
+
+Suspinele şi gemetele tale
+
+Au tâlc. Împărtăşeşte-mi-l şi mie:
+
+Sunt dornic să-nţeleg.
+
+Dar fiu-ţi unde-i?
+
+REGINA
+
+(către Rosencrantz şi Guildenstern) Lăsaţi-ne, vă rog, o clipă singuri.
+
+(Rosencrantz şi Guildenstern ies.)
+
+Stapâne drag, ah, ce-am văzut azi-noapte!
+
+REGELE
+
+Gertrudo, ce-ai văzut? Hamlet ce face?
+
+REGINA
+
+Nebun ca marea şi ca vântul când
+
+Dezlănţuite se măsoară-n luptă:
+
+În furia lor oarbă, auzind
+
+Ceva mişcându-se după perdele,
+
+Şi-a tras din teacă sabia strigând:
+
+„Un şobolan, un şobolan!" şi-n spaima-i
+
+Descreierată, l-a ucis pe bietul
+
+Bătrân, pe care nici nu l-a văzut.
+
+REGELE
+
+Cumplită faptă, — aveam aceeaşi soartă
+
+În locul lui dacă eram acolo.
+
+Dar libertatea lui ne ameninţă
+
+Pe amândoi, pe mine, pe-orişicine.
+
+Cum oare voi răspunde de această
+
+Ispravă sângeroasă? Toată vina
+
+Asupră-mi va cădea, că n-am ştiut
+
+Să-l ţin din scurt, sâ-l depărtez la vreme
+
+Pe tânărul acesta scos din minţi.
+
+Dar dragostea mi-era atât de mare,
+
+Că seama nu mi-am dat ce trebuia
+
+Să fac. Întocmai cum un om bolnav
+
+De-o boală ruşinoasă şi-o ascunde
+
+Pe când ea-i roade măduva fiinţei.
+
+Dar unde oare s-o fi dus Hamlet?
+
+REGINA
+
+S-ascundă trupul cel ucis de el,
+
+Pe care-l plânge-n nebunia lui;
+
+Căci sufletul, ca aurul în zgură,
+
+Se-arată-n toată curăţia lui.
+
+REGELE
+
+Să mergem, o, Gertruda mea,
+
+Şi-n zori îl vom porni de-aci-n corabie,
+
+Când soarele de munte se atinge
+
+Iar fapta-i mârşavă o voi ierta
+
+Şi-o voi acoperi cu dibăcia
+
+Şi cu puterea-mi toată. Guildenstern!
+
+(Reintră Rosencrantz şi Guildenstern.)]
+
+Prieteni, mergeţi, luaţi-vă-ajutoare:
+
+Hamlet, în nebunia-i, pe Polonius
+
+L-a omorât şi l-a târât afară
+
+Din camera reginei. Căutaţi-l
+
+Vorbiţi-i blând şi duceţi mortul trup în
+
+Capelă. Dar vă rog, cât mai degrabă.
+
+Şi-acum, Gertrudo, cheamă din prieteni:
+
+Pe cei mai înţelepţi, să le-arătăm
+
+Ce-avem de gând şi ce s-a întâmplat
+
+Atât de făr' de veste. Defăimarea,
+
+A cărei şoaptă lumea o străbate
+
+Precum şi-atinge tunul ţinta lui
+
+Cu-mpuşcătura sa ucigătoare,
+
+De data asta numele să-mi cruţe,
+
+Lovind zadarnic în văzduh. O, vino;
+
+Mi-e sufletu-ngrozit şi dezbinat.
+
+(Ies.)
+
+
+
+SCENA 2
+
+O altă sală în castel. Intră Hamlet.
+
+HAMLET
+
+L-am pus la păstrare.
+
+ROSENCRANTZ, GUILDENSTERN
+
+(de afară) Hamlet! Prinţe Hamlet!
+
+HAMLET
+
+Ce e larma asta? Cine-l strigă pe Hamlet? A! Iată-i ca vin.
+
+(Intră Rosencrantz şi Guildenstern.)
+
+ROSENCRANTZ
+
+Stăpâne ce-ai făcut cu trupul mort?
+
+HAMLET
+
+Ce? Una cu pământul; era rudă
+
+Cu pulberea, căci se trăgea din ea.
+
+ROSENCRANTZ
+
+Ne spune unde e, să-l luăm de acolo
+
+Şi să-l depunem în capelă.
+
+HAMLET
+
+Să nu credeţi...
+
+ROSENCRANTZ
+
+Ce anume?
+
+HAMLET
+
+Că aş putea urma sfatul vostru şi nu pe al meu. Şi de altfel, la întrebarea unui burete, ce răspuns poate da fiul unui rege?
+
+ROSENCRANTZ
+
+Mă iei drept un burete, măria-ta?
+
+HAMLET
+
+Da, domnul meu; ceva care suge hatârurile, răsplata şi puterea de la rege. La urma urmelor, astfel de curteni îl slujesc cel mai bine pe rege. Îi ţine între fălci, cum ţine o maimuţă nucile; mai întâi îi mestecă şi mai pe urmă îi înghite. Când are nevoie de ce aţi cules, vă stoarce puţin, şi voi, ca bureţii, o să fiţi iar uscaţi.
+
+ROSENCRANTZ
+
+Nu te înţeleg, stăpâne.
+
+HAMLET
+
+Mă bucur. O vorbă isteaţă adoarme într-o ureche bleagă.
+
+ROSENCRANTZ
+
+Măria-ta, trebuie să ne spui unde e trupul şi să mergi cu noi la rege.
+
+HAMLET
+
+Trupul e cu regele, dar regele nu e cu trupul. Măria-sa e un lucru mic.
+
+GUILDENSTERN
+
+Un lucru mic, stăpâne?
+
+HAMLET
+
+Mic şi de nimic. Duceţi-mă la el. Hai să ne jucăm de-a v-aţi ascunselea. Gata!
+
+(Ies cu toţii)
+
+
+
+SCENA 3
+
+O sală în castel. Intră regele însoţit de curteni.
+
+
+
+REGELE
+
+Poruncă-am dat să fie căutat
+
+Şi leşul să mi-l afle. Ce primejdie!
+
+Un om ca el e rău să fie slobod.
+
+Şi nu-l putem supune asprei legi:
+
+Căci prea e drag nesocotitei gloate,
+
+Ce nu cu minte-alege, ci cu ochii.
+
+Şi dac-aşa-i, nu vina, ci pedeapsa
+
+Acestui vinovat atârnă greu.
+
+Dar ca s-o liniştim şi s-o-mpăcăm,
+
+Această grabnică plecare-i bine
+
+Să pară chibzuită pe-ndelete.
+
+Iar răul ce-a crescut fără cruţare
+
+Se vindecă prin leac necruţător,
+
+Sau nu se vindecă de loc.
+
+(Intră Rosencrantz.)
+
+Ce este?
+
+ROSENCRANTZ
+
+Nu vrea să spună unde-i leşul ascuns.
+
+REGELE
+
+Dar unde-i el?
+
+ROSENCRANTZ
+
+Stăpâne, aşteaptă-afară a ta poruncă.
+
+REGELE
+
+Aduceţi-l aici.
+
+ROSENCRANTZ
+
+Ei! Guildenstern! Să vie prinţul!
+
+(Intră Hamlet şi Guildenstern.)
+
+REGELE
+
+Ei, Hamlet, unde e Polonius?
+
+HAMLET
+
+La ospăţ.
+
+REGELE
+
+La care ospăţ?
+
+HAMLET
+
+Acolo unde nu mănâncă, ci e mâncat; o anumită adunare de viermi politici e împrejurul lui. Viermele e împăratul mâncăilor. Îngrăşăm toate vieţuitoarele, ca să ne îngrăşăm noi. Şi noi ne îndopăm pentru viermi. Un rege pântecos şi un cerşetor costeliv nu sunt decât două feluri de mâncare, servite deosebit la acelaşi ospăţ! Acesta-i sfârşitul.
+
+REGELE
+
+Vai! Vai!
+
+HAMLET
+
+Un om poate pescui cu un vierme care a mâncat dintr-un rege; şi poate mânca apoi din peştele care s-a hrănit cu acel vierme.
+
+REGELE
+
+Ce vrei să spui?
+
+HAMLET
+
+Nimic decât să vă arăt cum poate un rege să facă o călătorie în măruntaiele unui cerşetor.
+
+REGELE
+
+Unde e Polonius?
+
+HAMLET
+
+În ceruri. Trimite să vezi. Dacă solul tău nu-l găseşte pe acolo, caută-l singur prin partea cealaltă. Dar, de bună seamă, dacă nu-l descoperi până într-o lună, ai să-i simţi mirosul când urci scările spre galerie.
+
+REGELE
+
+(către slujitori) Duceţi-vă şi-l căutaţi acolo.
+
+HAMLET
+
+Vă aşteaptă până ce veniţi.
+
+(Slujitorii ies.)
+
+REGELE
+
+Hamlet, a ta scăpare după fapta-ţi
+
+Ce-adânc ne-a îndurerat, precum şi grija
+
+Ce-avem de paza ta, ne porunceşte
+
+Să pleci la drum ca fulgerul de iute.
+
+Fii gata deci. Te-aşteaptă la corabie
+
+Însoţitorii tăi. Şi-un vânt prielnic
+
+Spre Anglia vă va purta.
+
+HAMLET
+
+Spre Anglia?
+
+REGELE
+
+Da, Hamlet.
+
+HAMLET
+
+Bine.
+
+REGELE
+
+Tot bine ai zice, de mi-ai cunoaşte gândul tot.
+
+HAMLET
+
+Eu văd un înger care-l vede. Rămâi cu bine, mamă dragă. Deci, haidem, în Anglia!
+
+REGELE
+
+Tatăl tău care te iubeşte, Hamlet.
+
+HAMLET
+
+Ba mamă! Tatăl şi mama sunt soţ şi soţie; soţul şi soţia sunt un singur trup. Deci, îmi eşti mamă. Să mergem în Anglia.
+
+(Iese.)
+
+REGELE
+
+Urmaţi-l pas cu pas. Şi la corabie
+
+L-ademeniţi degrab'! Nu pregetaţi.
+
+Să-l ştiu la noapte chiar pornit de-aci.
+
+La drum!
+
+Căci totul pentru-această faptă
+
+E bine ticluit şi sub pecete.
+
+Vă rog să vă grăbiţi!
+
+(Ies Rosencrantz şi Guildenstern.)
+
+Tu, Engliteră!
+
+De pui vreun preţ pe-a mea prietenie,
+
+Aşa precum puterea mea o cere
+
+Şi rana ta ce încă sângerează
+
+De paloşul danez pricinuită
+
+Şi teama ce mi te-a îngenuncheat,
+
+Să nu respingi porunca-mi suverană,
+
+Cuprinsul căreia stă în scrisori
+
+Stăruitoare, care cer ca Hamlet
+
+Să piară de îndată. Engliteră,
+
+Fă ce îţi cer, căci Hamlet, ca o boală
+
+Îmi clocoteşte-n sânge; să mă vindeci!
+
+Eu nu am parte, pân's-o-nfăptui,
+
+De nici o bucurie, orice-ar fi.
+
+(Iese.)
+
+
+
+SCENA 4
+
+O câmpie în Danemarca. Intră
+
+Fortinbras, un căpitan şi soldaţi în marş.
+
+
+
+FORTINBRAS
+
+Du regelui danez salutul meu
+
+Şi spune-i, căpitane, că, cu voia
+
+Măriei sale, Fortinbras îi cere
+
+Făgăduita încuviinţare
+
+De-a trece prin împărăţia lui
+
+Ştii unde-i locul de-ntâlnire.
+
+Dacă Măria-sa doreşte să mă vadă,
+
+Sosesc în grabă-n faţă-i să mă-nchin.
+
+Aşa să-i spui.
+
+CĂPITANUL
+
+Stăpâne, la poruncă!
+
+FORTINBRAS
+
+Să fii cu luare-aminte.
+
+(Ies. Intră Hamlet, Rosencrantz, Guildenstern şi alţii.)
+
+HAMLET
+
+A cui e oastea-aceasta, domnul meu?
+
+CĂPITANUL
+
+E, domnul meu, a regelui norveg.
+
+HAMLET
+
+Şi, rogu-te, în ce scop e-adunată?
+
+CĂPITANUL
+
+În contra-unui ţinut de prin Polonia.
+
+HAMLET
+
+Şi, cine-i, domnul meu, în fruntea ei?
+
+CĂPITANUL
+
+E Fortinbras, al regelui nepot.
+
+HAMLET
+
+Se-ndreaptă chiar spre inima Poloniei?
+
+Sau spre-un ţinut al ei de la hotar?
+
+CĂPITANUL
+
+La drept vorbind, şi ca să nu mă laud,
+
+Vrem doar să luăm un petic de pământ,
+
+Nu pentru vreun câştig, ci pentru faimă.
+
+N-aş da pe el nici cinci ducaţi arendă.
+
+Polonul sau norvegul n-ar lua
+
+Mai mult pe el vânzându-l chiar pe veci.
+
+HAMLET
+
+Atunci polonul nu-l va apăra.
+
+CĂPITANUL
+
+A şi trimis acolo întăriri.
+
+HAMLET
+
+Nici două mii de morţi, nici douăzeci
+
+De mii de galbeni nu vor fi de-ajuns
+
+Acestei vrăjbi pentru-o nimica toată,
+
+Aceasta-i buba care obrinteşte
+
+Din pace şi prea mult belşug şi sparge
+
+Pe dinăuntru făr-a da alt semn
+
+Decât prin moartea omului bolnav.
+
+Smerite mulţumiri, cinstite domn.
+
+CĂPITANUL
+
+Cu Dumnezeu nainte, domnul meu.
+
+ROSENCRANTZ
+
+Stăpâne, pot pleca?
+
+HAMLET
+
+Porniţi, v-ajung.
+
+(Ies cu toţi, afară de Hamlet.)
+
+Cum fiece prilej mă-nvinuieşte
+
+Dând pinteni răzbunări-mi amorţite!
+
+Ce-i omul, dacă n-are alt gând pe lume
+
+Decât să doarmă şi să se hrănească?
+
+Un dobitoc şi alt nimic mai mult.
+
+Desigur, cel ce ne-a făcut cu-atâta
+
+Cuprindere de minte să vedem
+
+Ce-a fost şi ce va fi, nu ne-a-nzestrat
+
+Cu-această judecată şi putere
+
+Dumnezeiască, pentru-a le lăsa
+
+Să prindă mucegai în sinea noastră.
+
+Şi fie că-i becisnică uitare,
+
+Sau poate doar sfială mişelească
+
+Aceea ce mă face-a cumpăni
+
+Prea mult asupra faptei plănuite,
+
+Un gând ce-i doar pe-un sfert înţelepciune,
+
+Şi numai mişelie pe trei sferturi,
+
+Nici eu nu ştiu de ce trăiesc spunându-mi:
+
+„Lucrul acesta trebuie să-l fac
+
+Şi am de ce să-l fac, şi îl voiesc
+
+Şi am puteri şi mijloace să-l fac.
+
+Mă-ndeamnă pilde mari cât tot pământul.
+
+Şi-această oaste-mi stă de mărturie
+
+Cu numărul şi greutatea ei,
+
+C-un prinţ firav şi blând care-o comandă
+
+Al cărui duh purtat de-o sfântă râvnă
+
+Îşi bate joc de piedicile sorţii,
+
+Iar tot ce-i nestatornic şi vremelnic
+
+Într-însul, el le-aruncă-acum în faţa
+
+Norocului, primejdiei şi-a morţii,
+
+Spre cucerirea unei coji de ou".
+
+A fi om mare într-adevăr nu-nseamnă
+
+Să te frămânţi, doar pentru pricini mari,
+
+Ci să te baţi chiar pentr-un fir de pai,
+
+Atunci când cinstea-ţi însăşi este-n joc,
+
+De ce mai stau pe gânduri, când un tată
+
+Ucis şi-o mamă pângărită sunt
+
+Îndemn pentru-al meu gând şi pentru sânge.
+
+Şi las s-adoarmă tot, pe când privesc —
+
+Spre-a mea ruşine — douăzeci de mii
+
+De-ostaşi ameninţaţi să moară-ndată.
+
+Şi care numai pentru-o-nchipuire
+
+Şi numai pentru umbra unei glorii
+
+Se duc la groapă cum s-ar duce-n pat,
+
+Se bat pentru un petic de pământ
+
+În care nici n-au loc toţi să se lupte,
+
+Şi-n care nu-s nici locuri de mormânt
+
+Destule să-şi înmormânteze morţii.
+
+O, de-azi nainte, gândurile-mi pline
+
+Să-mi fie, ori de sânge-ori de ruşine.
+
+(Iese.)
+
+
+
+SCENA 5
+
+La Elsinor. O sală în castel. Intră regina, Horaţio.
+
+
+
+REGINA
+
+Nu vreau s-o văd.
+
+HORAŢIO
+
+Dar stăruie. I-e mintea-i rătăcită;
+
+S-o vezi, mai mare mila.
+
+REGINA
+
+Ce doreşte?
+
+HORAŢIO
+
+Vorbeşte mult de tatăl ei şi spune
+
+Că lumea-i trădătoare, şi oftează,
+
+Îşi dă mereu cu pumnii-n piept, se-ncruntă
+
+Şi bate din picior pentru nimica,
+
+Vorbeşte în doi peri şi fără şir,
+
+Dar cei care-o aud răstălmăcesc
+
+Cuvintele-i lipsite de-nţeles,
+
+Le cercetează şi le potrivesc
+
+Cu-adaosuri pe bănuiala lor.
+
+Cum dă din mâini, din cap, şi cum clipeşte,
+
+Îţi vine-a crede-n minte-i că se iscă
+
+Şi gânduri limpezi, totuşi tare triste.
+
+Şi bine-ar fi să i se mai vorbească,
+
+Ca nu cumva să semene gând rău
+
+La cei cu-nchipuiri răuvoitoare.
+
+REGINA
+
+Lăsaţi-o să se-apropie.
+
+(Iese Horaţio.)
+
+Mi-e sufletul bolnav. Cel cu păcat
+
+În orice semn se vede-ameninţat;
+
+De-o veşnică nelinişte cuprins,
+
+Fugar mereu, se lasă singur prins.
+
+(Intră Horaţio şi Ofelia.)
+
+OFELIA
+
+Dar unde e regina prea frumoasă
+
+A Danemarcei?
+
+REGINA
+
+Draga mea Ofelia!
+
+OFELIA
+
+(cântă)
+
+Cine-i vieţii tale drag
+
+Ţi-l ghicesc după toiag,
+
+După cuşma cu mărgele
+
+Şi-ncălţarea-i de-opincele.
+
+REGINA
+
+Domniţa mea, ce rost au vorbele-astea?
+
+OFELIA
+
+Ai spus ceva? ascultă numai:
+
+A murit şi mi s-a dus,
+
+Iarbă i s-a pus la căpătâi,
+
+A murit şi mi s-a dus
+
+I s-a pus o piatră de călcâi. Of, of!
+
+REGINA
+
+Dar, dragă Ofelia...
+
+OFELIA
+
+Rogu-te, ascultă:
+
+Cu giulgiu-i alb ca neaua de pe munte...
+
+(Intră regele.)
+
+REGINA
+
+Priveşte-o, vai, stăpâne...
+
+OFELIA
+
+Cu flori dalbe-mpodobit
+
+Şi la groapă, plâns l-au dus
+
+Şi cu lacrimi l-au stropit.
+
+REGELE
+
+Ce-ai tu, gingaşă domniţă?
+
+OFELIA
+
+Mulţumesc. Domnul vă aibă în pază. Se zice că bufniţa a fost odată fată de brutar. Doamne, noi ştim ce suntem, dar nu ştim ce putem fi. Domnul fie-ţi oaspete.
+
+REGELE
+
+Tot cu gândul la tatăl ei.
+
+OFELIA
+
+Rogu-te, nici un cuvânt despre asta. Dar dacă te-ntreaba cineva ceva, spune-i aşa:
+
+Mâine-i sfântul Valentin
+
+Dis-de-dimineaţă,
+
+La fereastră-ţi iată vin
+
+Ca să-ţi fiu mireasă.
+
+S-a sculat, s-a îmbrăcat,
+
+I-a deschis îndată
+
+Fata-n casă i-a intrat
+
+N-a mai ieşit fată.
+
+REGELE
+
+Draga de Ofelia!
+
+OFELIA
+
+Într-adevăr, să nu vorbesc cu păcat, mai are şi-un sfârşit.
+
+Pe domnul nostru Isus Hristos,
+
+E vai şi-amar de mine,
+
+Băieţii toţi sunt nişte hoţi,
+
+Zău, fie-le ruşine.
+
+Mi-a spus nevastă c-am să-i fiu
+
+Şi m-a pus jos, şi-i prea târziu.
+
+Iar el îi răspunde:
+
+Pe soare jur că te-aş fi luat,
+
+Dar ce-ai cătat la mine-n pat?
+
+REGELE
+
+De când e în starea asta?
+
+OFELIA
+
+Nădăjduiesc că totul va fi bine. Trebuie s-avem răbdare, dar nu pot să nu plâng la gândul că o să-l culce în pământut rece. Fratele meu o să afle şi el: aşa că vă mulţumesc pentru bunele voastre sfaturi. Să-mi vie trăsura. Noapte bună, doamnelor, noapte bună, dragele mele doamne, noapte bunăr, noapte bună.
+
+(Iese Ofelia.)
+
+REGELE
+
+Vă rog, purtaţi-i grijă. Urmăriţi-o
+
+De-aproape.
+
+(Iese Horaţio.)
+
+O, acesta e veninul
+
+Durerii ei adânci. El izvorăşte
+
+Din moartea lui Polonius.
+
+O, Gertrudo,
+
+Când vin răstriştile, nu vin în chip
+
+De singuratice iscoade, ci-n legiuni.
+
+Bătrânul omorât. Iar fiul tău,
+
+Năprasnic vinovat de ce păţeşte,
+
+E surghiunit. Şi drojdia răscolită
+
+A gloatei şuşoteşte nişte gânduri
+
+Urâte despre moartea lui Polonius;
+
+Cât despre noi, am fost prea uşuratici
+
+Când ne-am pripit să-l ducem pe furiş
+
+La groapă. Şi Ofelia, rătăcită
+
+De sine şi de mintea-i fără care
+
+Un om e doar chip zugrăvit sau fiară.
+
+La urmă, şi-asta pune vârf la toate,
+
+Întors pe-ascuns din Franţa, fratele-i,
+
+De veste zăpăcit, cu capu-n nori,
+
+E-ntărâtat de fel de fel de zvonuri
+
+Şi vorbe care-i ţiuie-n urechi
+
+De moartea lui Polonius şi tinzând,
+
+Din gură-n gură, să mă-nvinuiască
+
+Pe mine însumi. O, regină scumpă,
+
+Asemeni unei ţinte vii-n bătaia
+
+Necontenită-a unei guri de foc,
+
+Mă simt ucis de mii şi mii de ori.
+
+REGINA
+
+Vai mie, ce e larma asta-afară?
+
+REGELE
+
+Închideţi poarta. Unde mi-este garda?
+
+(Intră un gentilom.)
+
+Dar ce se-ntâmplă?
+
+GENTILOMUL
+
+Fugi, măria ta.
+
+Nici marea revărsată peste ţărmuri
+
+Nu cotropeşte-ogoarele mai lacom
+
+În graba-i aprigă, decât Laertes
+
+Ce-n fruntea unor cete răzvrătite
+
+Răstoarnă-mpotrivirea gărzii tale.
+
+În cale, gloata şi l-a pus stăpân,
+
+Şi ca şi cum cu ea se-ncepe lumea,
+
+Uitând de datină şi de trecut,
+
+Ea strigă: „L-am ales! Laerte-i rege!"
+
+Căciuli şi guri şi mâini îl saltă-n slavă:
+
+„Laert să fie rege, el e rege!"
+
+REGINA
+
+Ce vesel strigă ei pe căi greşite!
+
+Aţi luat-o razna, câinilor danezi!
+
+REGELE
+
+Au spart şi porţile.
+
+(Zgomot. Intră Laertes înarmat şi câţiva danezi cu el.)
+
+LAERTES
+
+Dar unde-i regele? Staţi, domnii mai,
+
+Vă rog afară.
+
+DANEZUL Nu, mai bine-aici.
+
+LAERTES
+
+Vă rog, lăsaţi-mă o clipă.
+
+DANEZUL
+
+Bine, bine.
+
+(Ies pe uşă.)
+
+LAERTES
+
+Vă mulţumesc. De pază staţi la poartă.
+
+O, rege josnic, dă-mi pe tatăl meu!
+
+REGINA
+
+O, fii pe pace, dragul meu Laertes.
+
+LAERTES
+
+De-ar fi în mine doar un pic de sânge
+
+Împăciuit, el mi-ar striga: „Bastard!"
+
+Pe tatăl meu, încornorat l-ar face,
+
+Iar dalba şi neprihănita frunte
+
+A mamei mele-atât de credincioase,
+
+Ar înfiera-o ca pe-a unei târfe.
+
+REGELE
+
+Ce te-a făcut, Laert, să te ridici
+
+Cu răzvrătire-atât de uriaşă?
+
+Gertrudo, lasă-l. Pentru viaţa mea
+
+Nu-ţi fie teamă. De atâta har
+
+Dumnezeiesc e apărat un rege,
+
+Încât trădarea nu poate răzbi
+
+La el, ci doar să îl întrezărească.
+
+Laertes, spune-mi, ce te-a-nverşunat?
+
+Gertrudo, lasă-l. Vino, drag prieten,
+
+Şi spune-mi mie...
+
+LAERTES
+
+Unde-i tatăl meu?
+
+REGELE
+
+E mort.
+
+REGINA
+
+Dar nu din vina lui.
+
+REGELE
+
+Tu, lasă-l
+
+Să-ntrebe tot ce are de-ntrebat.
+
+LAERTES
+
+De ce-a murit? Cu mine nu te joci!
+
+În iad cu legământul de-nchinare,
+
+Şi ducă-se la dracu ce-am jurat!
+
+Străfund de-abis să-nghită har şi suflet,
+
+Să fiu afurisit: că de-unde sunt
+
+Înfrunt osânda veşnică, nu-mi pasă
+
+Nici de-astă lume, nici de cea de-apoi,
+
+Întâmplă-se ce s-o-ntâmpla! Vreau numai
+
+Pe tatăl meu să mi-l răzbun, şi-atât!
+
+REGELE
+
+Şi cine oare te-ar putea opri?
+
+LAERTES
+
+Nici lumea toată, doar voinţa mea.
+
+Mijloacele-mi, ca să vorbim de ele,
+
+Le voi gospodări atât de bine
+
+Că mult-puţine-mi voi atinge ţinta.
+
+REGELE
+
+Prietene, de vreme ce doreşti
+
+Să afli adevăru-adevărat
+
+Asupra morţii scumpului tău tată,
+
+De ce stau scrişi în răzbunarea ta
+
+Şi cei ce pierd şi cei ce trag foloase.
+
+Şi duşmani şi prieteni deopotrivă,
+
+Şi-i faci la fel răspunzători?
+
+LAERTES
+
+Pe duşmani doar!
+
+REGELE
+
+Atunci, vrei să-i cunoşti?
+
+LAERTES
+
+Acelor care mi-s prieteni buni
+
+Atât de drag eu braţele-mi deschid —
+
+Şi-asemeni pelicanului milos
+
+De viaţă dătător, am să le dărui
+
+Şi sângele din vine.
+
+REGELE
+
+Ai vorbit
+
+Ca nobil gentilom şi vrednic fiu.
+
+Că vină n-am în moartea lui Polonius
+
+De care sunt adânc îndurerat,
+
+Vei înţelege tot atât de bine
+
+Cum vezi cu ochii tăi lumina zilei.
+
+(Zgomot în culise.)
+
+DANEZUL
+
+Deschideţi-i să intre.
+
+LAERTES
+
+Asta ce-i? Ce-nseamnă zgomotul acesta iar?
+
+(Intră Ofelia.)
+
+O, arşiţă, usucă-mi mintea! Lacrimi
+
+De şapte ori sărate-orbiţi-mi ochii,
+
+Să nu mai ştiu, să nu mai văd cu ei.
+
+Pe cer, sminteala ta va fi plătită
+
+În cumpăna dreptăţii-atât de greu,
+
+Că talerul va-ncovoia vergeaua.
+
+O, floare-a primăverii, scumpă fată,
+
+Duioasă soră, dulcea mea Ofelia!
+
+O, ceruri, cum e oare cu putinţă,
+
+Lumina duhului unei fecioare
+
+Să fie pieritoare tot atât
+
+Ca suflul vieţii unui om bătrân?
+
+Că firea omului se subţiază
+
+În dragoste şi-n destrămarea ei
+
+Trimite pe-urma celui prea iubit
+
+Tot ce-i de preţ în sine-şi.
+
+OFELIA
+
+(cântă)
+
+Cu capul gol în raclă mi l-au pus.
+
+Vai, puiu mamii, nani, nani, nani,
+
+Şi-n groapă lacrimi multe-au curs.
+
+Rămâi cu bine, porumbelul meu.
+
+LAERTES
+
+Şi-n toate minţile de-ai fi, şi-ai vrea
+
+Să-mi dai imbold n-ai izbuti mai bine!
+
+OFELIA
+
+(cântă)
+
+Să-i tot cânţi, vin' jos, vin' jos
+
+Şi să-i strigi să cadă jos.
+
+O cât e de potrivit refrenul ăsta. E povestea unchiului necredincios care a furat pe fata stăpânului.
+
+LAERTES
+
+Nimicurile astea au totuşi un tâlc.
+
+OFELIA
+
+Uite flori de rosmarin ca să-ţi aduci aminte; te rog, iubitule, să nu mă uiţi. Şi iată şi panseluţe, florile gândului ca să te gândeşti.
+
+LAERTES
+
+Învăţătură trasă din nebunie: gândul şi amintirea îmbinate.
+
+OFELIA
+
+Uite şi sulfină pentru tine şi căldăruşe, uite şi floarea raiului pentru tine. Şi uite am ceva şi pentru mine, să le zicem florile harului sfintei duminici. Şi tu trebuie să porţi floarea raiului, dar nu ca mine. Uite şi o mărgărită. Aş fi dorit să-ţi dau şi câteva viorele, dar toate s-au veştejit când a murit tata. Se zice că a murit de moarte bună.
+
+(cântă) Că doar dragul de Robin e bucuria mea...
+
+LAERTES
+
+Durere, patimi, gând şi chiar şi iadul
+
+Prin ea se schimbă-n har şi-n gingăşie.
+
+OFELIA (cântă)
+
+Şi n-are să mai vie?
+
+Şi n-are să mai vie?
+
+E mort şi îngropat
+
+Culcat pe-al morţii pat.
+
+Nicicind n-o să mai vie.
+
+Cu barba-i colilie,
+
+Cu pletele lui sure,
+
+Departe mi s-a dus;
+
+Amarul mi-e nespus
+
+Şi domnul pază-i fie.
+
+Şi tuturor sufletelor creştineşti!
+
+Pre tine, Doamne, te rog.
+
+Domnul fie cu voi.
+
+LAERTES
+
+Vezi tu asta, Dumnezeule?
+
+REGELE
+
+Laertes, vreau să-mpărtăşesc durerea-ţi,
+
+Altminteri îmi tăgăduieşti un drept;
+
+Te du acum, şi-alege-ţi din prieteni
+
+Pe cei ce-i socoteşti mai înţelepţi
+
+S-asculte şi să judece-ntre noi.
+
+Şi de-or găsi că am avut amestec
+
+Cu mâna mea sau printr-o altă mână,
+
+Îţi dau regatul meu, coroana, viaţa,
+
+Şi tot ce am, spre-a te despăgubi.
+
+Dar dacă nu, spre mine-atunci îndreaptă-ţi
+
+Cu mulţumire-a ta răbdare-ntreagă,
+
+Şi-mi voi uni strădania cu-al tău suflet
+
+Să-i pot da cuvenita mângâiere.
+
+LAERTES
+
+Aşa să fie. Moartea lui ciudată,
+
+Şi tainica-i înmormântare, fără
+
+Podoabe, spadă, stemă pe-al lui trup,
+
+Şi nici alai măreţ şi nici prohod,
+
+Îmi strigă de se-aude ca un glas
+
+Pornit din ceruri până la pământ
+
+Că trebuie să aflu.
+
+REGELE
+
+Vei afla.
+
+Şi unde-i vina, cadă şi securea!
+
+Te rog, urmează-mă.
+
+(Ies.)
+
+
+
+SCENA 6
+
+Altă sală în castel. Intră Horaţio şi un slujitor.
+
+
+
+HORAŢIO
+
+Cine sunt cei care vor să-mi vorbească?
+
+SLUJITORUL
+
+Nişte marinari, stăpâne; şi spun că ar avea scrisori pentru domnia ta.
+
+HORAŢIO
+
+Lasă-i să intre.
+
+(Slujitorul iese.)
+
+N-aş şti din care parte-a lumii pot
+
+Primi salut, de nu-i de la Hamlet.
+
+(Intră marinarii.)
+
+ÎNTIUL MARINAR
+
+Domnul să te binecuvânteze, stăpâne.
+
+HORAŢIO
+
+Şi pe tine de asemenea.
+
+ÎNTIUL MARINAR
+
+Aşa o să şi facă, stăpâne, dacă vrea el. Am o scrisoare pentru domnia-ta — e de la solul trimis în Englitera — dacă te cheamă Horaţio, după cum mi s-a spus.
+
+HORAŢIO (citeşte)
+
+„Horaţio, după ce vei fi citit acestea, înlesneşte acestor oameni să ajungă până la rege; îi aduc nişte scrisori. Eram abia de două zile în largul mării când se luă după noi o corabie de piraţi, bine înarmată. Şi cum înaintam destul de încet, n-am avut altă scăpare decât în vitejie. În încăierare, am sărit pe puntea lor. Dar chiar în clipa aceea s-a desprins de corabia noastră şi astfel, singur, am rămas prizonier. S-au purtat cu mine ca nişte tâlhari plini de omenie. Ştiau ei ce fac! Le dau prilejul să încheie un târg bun. Fă în aşa fel ca să-i ajungă regelui scrisorile ce i-am trimis şi aleargă la mine cu graba cu care ai fugi de moarte. Am să-ţi şoptesc la ureche câteva vorbe care au să te lase mut. Sunt totuşi prea nevinovate pentru, greutatea faptelor. Oamenii aceştia de treabă te vor aduce la mine. Rosencrantz şi Guildenstern călătoresc înainte spre Englitera. Am multe să-ţi spun despre ei.
+
+Rămâi cu bine Acela pe care-l ştii al tău, Hamlet".
+
+Veniţi cu mine şi-nmânaţi de grabă
+
+Scrisorile, şi fiţi-mi călăuze
+
+Spre cel ce v-a trimis.
+
+(Ies.)
+
+
+
+SCENA 7
+
+O sală în castel. Intră regele şi Laertes
+
+
+
+REGELE
+
+Acuma conştiinţa ta nu poate
+
+Să nu-mi pecetluiască izbăvirea.
+
+Păstrează-mi deci în inimă un loc
+
+De bun prieten, căci ai auzit
+
+Şi te-ai încredinţat că omul care
+
+L-a omorât pe tatăl tău a vrut
+
+Să-mi ia viaţa.
+
+LAERTES
+
+Pare-a fi aşa.
+
+Dar spune-mi din ce pricină n-ai luat
+
+Măsuri în contr-acestor fapte-atât
+
+De sângeroase şi nelegiuite,
+
+Aşa cum grija ta de tine însuţi
+
+Şi gându-ţi înţelept şi câte toate
+
+Ţi le cereau?
+
+REGELE
+
+Din două-anume pricini
+
+Ce poate-ţi vor părea neînsemnate,
+
+Dar pentru mine-s foarte cu temei.
+
+Regina, mama lui, prin el trăieşte.
+
+Cât despre mine — pacoste, sau poate
+
+Norocul meu — mi-s sufletul şi viaţa
+
+De ea legate atât de strâns, încât,
+
+Ca steaua ce nu-şi iese din orbită,
+
+Nu pot fără de ea. Pe lângă asta
+
+— Şi-i tocmai ce mă-mpiedică să-i cer
+
+În public socoteală — e iubirea
+
+Pe care tot poporul meu i-o poartă
+
+Şi scaldă-n ea greşelile-i, scoţând
+
+Ca apa ce preschimbă lemnu-n piatră
+
+Podoabe din chiar lanţurile lui.
+
+Aşa încât săgeţile-mi, tăiate
+
+Din lemn prea slab să-şi poată face drum
+
+Pe-un vânt năprasnic, s-ar întoarce-n arcu-mi,
+
+În loc s-ajungă unde le-am ţintit.
+
+LAERTES
+
+Eu am pierdut un tată-atât de vrednic
+
+Şi-o soră-n stare deznădăjduită,
+
+Şi care — dacă lauda mai poate
+
+Să-ntoarcă-n loc ce nu mai e — a fost
+
+În vremea de-azi o pildă fără seamăn
+
+Prin meritu-i. Dar răzbunarea vine!
+
+REGELE
+
+Să nu-ţi strici somnul pentru grija asta.
+
+Nu trebuie să crezi că sunt croit
+
+Dintr-un ţesut atât de rar şi moale
+
+Că pot fi zdravăn zgâlţâit de barbă
+
+Şi să îmi pară glumă. Mai mult încă:
+
+Iubeam pe tatăl tău; dar mă iubesc
+
+Pe mine însumi. Şi nădăjduiesc
+
+Că asta te va face să-nţelegi...
+
+(Intră un sol cu scrisori.)
+
+Ce veşti?
+
+SOLUL
+
+Scrisori de la Hamlet, stăpâne. Reginei, una. Regelui, cealaltă.
+
+REGELE
+
+Scrisori de la Hamlet? Dar cin' le-aduce?
+
+SOLUL
+
+Se zice că-s matrozi. Nu i-am văzut.
+
+Horaţio mi le-a dat. El le-a primit
+
+Din mâna celui care le-a adus.
+
+REGELE
+
+Laertes, vei şti tot.
+
+(Către sol.) Ne lasă singuri
+
+(Citeşte.)
+
+„Înalt prea puternic stâpâne, află că am fost lăsat gol şi despuiat pe. ţărm, în regatul tău. Mâine voi cerşi învoirea să pot vedea regeasca-ţi faţă: şi după ce mai întâi îţi voi fi cerut iertare, îţi voi povesti pricina neaşteptatei şi prea ciudatei mele întoarceri. Hamiet."
+
+Ce-nseamnă asta? 'Ntorsus-au cu toţii? Să fie-nşelăciune, sau nimic?
+
+LAERTES
+
+Scrisu-l cunoşti?
+
+REGELE
+
+E a lui Hamiet: Iar sub iscălitură scrie „singur". Ce sfat îmi dai?
+
+LAERTES
+
+Nici eu nu ştiu. Însă lasă-l să vie,
+
+Că inima-mi bolnavă clocoteşte
+
+La gândul că-i voi spune în obraz:
+
+„Ştiu, tu ai făcut asta!"
+
+REGELE
+
+De-i aşa —
+
+Şi cum n-ar fi aşa, şi cum, altminteri? —
+
+Vrei tu s-asculţi de sfatul meu, Laertes?
+
+LAERTES
+
+Stăpâne, doar de nu mă-ndemni la pace.
+
+REGELE
+
+La pacea sufletului tău, Laertes
+
+De Hamiet s-a întors din drum cu gând
+
+Să nu mai plece, atunci îl voi supune
+
+La o-ncercare ce-mi mijeşte-n minte
+
+Şi-n care fără greş îşi află moartea.
+
+Şi nici un zvon nu va zvoni de rău
+
+La moartea-i. Însăşi mama lui va spune
+
+Că nimeni alt n-a fost de vină, afară
+
+De ceasul rău.
+
+LAERTES
+
+Stăpâne-am să te-ascult.
+
+Cu-atât mai mult, de faci aşa încât
+
+Să-ţi fiu unealtă.
+
+REGELE
+
+Se şi potriveşte.
+
+De când cu lipsa ta, s-a tot vorbit,
+
+De faţă cu Hamlet, de-o-ndemânare
+
+În care zice-se, că n-ai pereche.
+
+Din meritele-ţi toate laolaltă
+
+Pe-acesta numai ţi-l invidiază,
+
+Şi-i tocmai cel mai ne-nsemnat
+
+În ochii-mi
+
+LAERTES
+
+Stăpâne, care-i meritul acesta?
+
+REGELE
+
+O panglică-n tichia tinereţii,
+
+Dar şi folositoare, tineretul
+
+Se-mbracă în veşmântul cel uşor
+
+Al nepăsării, cum cei vârstnici poartă
+
+Samuru-ntunecat, în potrivire
+
+Cu sănătatea şi-ncruntarea lor.
+
+Sunt două luni de când a fost pe-aci
+
+Un gentilom normand. Eu pe francezi
+
+I-am cunoscut, m-am războit cu ei;
+
+Sunt straşnici călăreţi. Viteazul ăsta
+
+Părea un vrăjitor; înfipt în şa,
+
+Ştia să-şi joace-atât de minunat
+
+Frumosu-i cal, încât părea crescut
+
+Şi ca turnat pe el. Eram atât
+
+De uluit, că tot ce născoceam:
+
+Galopuri, salturi, jocuri, să-l întrec,
+
+Era-n zadar.
+
+LAERTES
+
+Şi zici, era normand?
+
+REGELE
+
+Normand era.
+
+LAERTES
+
+Pe viaţa mea,-i Lamord!
+
+REGELE
+
+Chiar el!
+
+LAERTES
+
+Îl ştiu de mult. E-într-adevăr podoaba
+
+Şi piatra nestemata-a-ntregii naţii.
+
+REGELE
+
+Ne-a spus ce crede despre tine,
+
+Că ai atâta măiestrie-n jocul
+
+Şi meşteşugul luptei, mai ales
+
+La spadă-ncât a spus în gura mare
+
+C-ar fi nemaivăzut să fie vr'unul
+
+Să-ţi ţie piept. Şi s-a jurat că-n ţară
+
+La el nu se găseşte spadasin
+
+Cu ochiul, garda, şi-agerimea-n stare
+
+Să-ţi stea-mpotrivă. Iar de-aceste spuse,
+
+Hamlet, în pizma lui, e-atât de-acrit,
+
+Că nu mai are-alt dor şi altă rugă
+
+Decât să vii-napoi cât mai curând,
+
+Cu tine să se poată măsura.
+
+Din treaba asta...
+
+LAERTES
+
+Care ni-i folosul?
+
+REGELE
+
+Laert, iubitu-l-ai pe tatăl tău?
+
+Sau eşti doar o icoană a durerii,
+
+Un chip lipsit de suflet...
+
+LAERTES
+
+Ce mă-ntrebi?
+
+REGELE
+
+Nu vreau să spun că pun la îndoială
+
+Că l-ai iubit pe tatăl tău. Dar ştiu
+
+Că dragostea se naşte-n timp şi văd
+
+Din fel de fel de fapte cu temei
+
+Că timpu-i suflă-n focu-i şi-n scânteia-i.
+
+În chiar văpaia dragostei trăieşte
+
+Ceva pe care vremea-ncet îl stinge;
+
+Nimic nu-i tot mereu desăvârşit;
+
+Desăvârşirea-mpinsă prea departe
+
+Sortită-i morţii prin prea plinul ei.
+
+Iar ceea ce noi vrem să facem, trebui
+
+Făcut atunci când vrem. Iar „vrem" acesta,
+
+Se schimbă, şovăie, 'ntâlneşte piedici
+
+La fel de multe câte braţe, guri
+
+Şi câte lucruri se găsesc pe lume,
+
+Iar „trebuie" acesta este-asemeni
+
+Suspinului bolnav care te doare
+
+În clipa când răsufli. Dar să punem
+
+Pe rană degetul: Hamlet se-ntoarce.
+
+Tu ce-ai de gând să faci ca să te-arăţi
+
+Al tatălui tău fiu cu-adevărat,
+
+Nu numai în cuvinte?
+
+LAERTES
+
+Să-i tai gâtul în timpul sfintei slujbe.
+
+REGELE
+
+Pentru-omor
+
+Altar pe lume nu-i ca să-l oprească
+
+Nici stăvili nu-s în faţa răzbunării.
+
+Dar, dragul meu Laert, de vrei s-asculţi,
+
+Închide-te o vreme-n casă. Hamlet
+
+Întors aci, va şti că eşti în ţară.
+
+Voi face să fii ridicat în slăvi
+
+Cu el de faţă, ca maestru al spadei,
+
+Ca faima ta, făcută de francez,
+
+Să strălucească înc-o dat-atâta
+
+Şi faţă-n faţă-ajunşi, într-un sfârşit
+
+Vom pune rămăşag pe capul vostru.
+
+Mărinimos şi lăsător din fire,
+
+Hamlet, nebănuind nimic, nu are
+
+Să cerceteze spadele, şi-atunci
+
+Va fi uşor, cu vreo scamatorie,
+
+S-alegi o sabie cu vârful slobod
+
+Şi dintr-o lovitură măiestrită,
+
+Plăteşte-i!
+
+LAERTES
+
+Îi plătesc — şi pentru asta
+
+Voi unge spada mea cu o unsoare
+
+Pe vremuri cumpărată la un vraci,
+
+Atât de-otrăvitoare-ncât de-nmoi
+
+În ea un ascuţiş, când dă de sânge,
+
+Nu-s oblojeli pe lume-alcătuite
+
+Din ierbi de leac culese-n nopţi cu lună,
+
+Să vindece pe-un ins de-abia zgâriat.
+
+Îmi ung al spadei vârf cu-acea unsoare,
+
+Uşor apoi îl zgârii şi e mort.
+
+REGELE
+
+La treaba asta să ne mai gândim,
+
+Să cumpănim şi mijlocul şi clipa
+
+Prielnice ca să ne-atingem ţinta.
+
+Că greş de-om da şi suntem luaţi la ochi,
+
+Mai bine nici să nu mai fi-ncercat.
+
+De-aceea s-ar cădea la planul nostru
+
+Să adăugăm un altul, ca să poată
+
+Să fie-nlocuit la trebuinţă.
+
+Ia stai. Ia să vedem. Un rămăşag
+
+De mare preţ vom pune pe voi doi;
+
+Da, asta-i:
+
+În focul luptei, când veţi fi-nsetaţi,
+
+— Tu vei zori din răsputeri spre asta —
+
+Şi-o cere de băut, eu voi fi gata
+
+Cu-o cupă anume. E de ajuns o gură,
+
+Şi de-a scăpat de spada-ţi otrăvită,
+
+Noi treaba ne-am făcut-o. Ce se-aude?
+
+(Intră regina.)
+
+Regină scumpă, ce s-a întâmplat?
+
+REGINA
+
+Nenorocire una după alta.
+
+Laertes, sora ta s-a înecat.
+
+LAERTES
+
+S-a înecat? Cum? Unde?
+
+REGINA
+
+E lângă râu o salcie plecată
+
+Ce frunza-i sură-n ape şi-oglindeşte.
+
+Purtând cununi ciudate de urzici,
+
+De margarete şi de gălbinele
+
+Şi floarea roşie căreia păstorii
+
+Îi zic c-un nume de ruşine,
+
+dar Fecioarele sfioase-i spun cervană —
+
+Acolo ea-ncercând să se agaţe,
+
+S-anine ierburile-i împletite
+
+De ramurile plângătoare, o creangă
+
+Vrăjmaşă ruptu-s-a şi dintr-o dată,
+
+Cu-ale ei podoabe câmpeneşti
+
+Cu tot, căzut-a-n râul plin de lacrimi.
+
+Veşmintele-i, umflându-se de ape,
+
+O duseră, o vreme, ca pe-o nimfă.
+
+Cânta-ntre timp frânturi de cântec
+
+Nedându-şi seama de răstrişte, ea,
+
+De parcă se găsea în lumea ei
+
+Născută şi crescută chiar acolo.
+
+Dar asta nu putea să ţină mult.
+
+La urmă, vălurile-i, grele de-apă
+
+Au tras la fund în nămolos mormânt
+
+Pe biata fată, smulsă de la cântu-i
+
+Cel prea duios.
+
+LAERTES
+
+Vai mie, s-a-necat?
+
+REGINA
+
+Da, s-a-necat!
+
+LAERTES
+
+Te plâng destule ape-acum, Ofelia,
+
+Şi lacrimile mele-s de prisos.
+
+Aşa ni-i dat. Şi chiar de ni-i ruşine,
+
+Îşi are firea legile. Mă duc
+
+Să plâng, s-alung din mine slăbiciunea.
+
+Adio, rege. Vorbele-mi de foc
+
+Ar izbucni să pârjolească totul,
+
+De nu le-ar stinge deznădejdea mea.
+
+(Iese.)
+
+REGELE
+
+Să-l urmărim, Gertrudo. Anevoie
+
+Am potolit cumplita lui mânie
+
+Şi teamă mi-i că izbucneşte iar.
+
+De-aceea, să-l urmam.
+
+(Ies.)
+
+
+
+
+
+ACTUL V
+
+
+
+SCENA 1
+
+La Elsinor. Un cimitir. Intră doi gropari cu hârleţe.
+
+
+
+ÎNTIUL GROPAR
+
+Şi-o să mai aibă ea parte de înmormântare creştinească, dacă şi-a făcut seama singură?
+
+AL DOILEA GROPAR
+
+Păi dacă-ţi spun eu! Aşa că apucă-te de-i sapă groapa. Judecătorul a văzut cum stau lucrurile şi a găsit că trebuie s-o îngroape creştineşte.
+
+ÎNTIUL GROPAR
+
+Cum se poate una ca asta? Doar dacă s-a înecat fără să vrea, apărându-şi viaţa.
+
+AL DOILEA GROPAR
+
+Aşa o fi.
+
+ÎNTIUL GROPAR
+
+Mai degrabă şi-a făcut seama, altcum nu se poate. Aci stă tot şiretlicul: dacă mă înec de bună voie, s-a întâmplat o faptă. Şi o faptă are trei părţi: adică să înfăptuieşti, să împlineşti, şi să duci la bun sfârşit. Aşa că tragem confuzia că s-a înecat de bună voie.
+
+AL DOILEA GROPAR
+
+Ia ascultă cumetre...
+
+ÎNTIUL GROPAR
+
+Stai să vezi! Apa e aici. Bun!... Omu-i acolo? Bun!... Dacă omul merge spre apă şi se îneacă, asta înseamnă, vrând-nevrând, că el singur s-a dus. Bagă la cap! Dar dacă apa vine la el şi-l îneacă, va să zică nu s-a înecat singur. În confuzie, acela nu-i vinovat de moartea sa, nu-şi scurtează viaţa.
+
+AL DOILEA GROPAR
+
+Oare aşa sună legea?
+
+ÎNTIUL GROPAR
+
+Păi sigur. Legea judecătorului de construcţie.
+
+AL DOILEA GROPAR
+
+Vrei să ştii cum vine treaba? Dacă n-ar fi fost femeie de neam mare, n-ar fi îngropat-o în pământ sfinţit.
+
+ÎNTIUL GROPAR
+
+Că bine zici! Ţi-e mai mare mila să vezi că cei sus-puşi pe lumea asta au mai mult drept să se înece sau să se spânzure decât bieţii creştini de rând. Hai! Dă-mi lopata. Nici nu-i pe lume nobil mai de soi decât grădinarul, muncitorul cu sapa şi groparul. Ei au moştenit meseria lui Adam.
+
+AL DOILEA GROPAR
+
+Şi ce, Adam era boier de neam?
+
+ÎNTIUL GROPAR
+
+A fost cel dintâi care a purtat arme ca nobilii.
+
+AL DOILEA GROPAR
+
+Cum asta? Că n-avea arme de loc.
+
+ÎNTIUL GROPAR
+
+Ce, eşti păgân? Cum tălmăceşti sfânta scriptură? Scriptura spune că Adam săpa. Dar ce, sapa nu-i o armă? Să te mai întreb ceva; dacă nu eşti în stare să-mi răspunzi la întrebare, spune-o fără înconjur.
+
+AL DOILEA GROPAR
+
+Zi!
+
+ÎNTIUL GROPAR
+
+Cine clădeşte mai trainic decât zidarul, dulgherul şi meşterul de corăbii?
+
+AL DOILEA GROPAR
+
+Cel care face spânzurători. Prin clădirea lui se perindă chiriaşii cu miile.
+
+ÎNTIUL GROPAR
+
+Pe legea mea, îmi place că eşti deştept. Bună-i spânzurătoarea, dar în ce fel e bună? E bună pentru cei care fac râu. Tu rău faci când spui că spânzurătoarea e mai trainic zidită decât biserica: în confuzie, spânzurătoarea ar fi bună şi pentru tine. Hai, mai caută.
+
+AL DOILEA GROPAR
+
+Cine clădeşte mai trainic ca zidarul, meşterul de corăbii şi dulgherul?
+
+ÎNTIUL GROPAR
+
+Dar spune o dată, fără glumă.
+
+AL DOILEA GROPAR
+
+Iaca, acuma spun...
+
+ÎNTIUL GROPAR
+
+Ei?
+
+AL DOILEA GROPAR
+
+Zău că nu pot!
+
+(Intră Hamlet şi Horaţiu, care rămân la o parte.)
+
+ÎNTIUL GROPAR
+
+Nu-ţi mai frământa creierii de pomană. Că măgarul îndărătnic tot nu-şi schimbă năravul dacă-l baţi. Când ţi-o mai pune cineva întrebarea asta, să-i spui că groparul. Locuinţele pe care le face el ţin până la judecata de apoi. Hai, du-te pân' la cârciumă de adă o cană de rachiu.
+
+(Iese al doilea gropar.)
+
+ÎNTIUL GROPAR
+
+(sapa şi cântă)
+
+În tinereţe când iubeam, iubeam,
+
+Ce dulce în braţe strângeam,
+
+Ce vremuri pline de folos,
+
+Când pe toate le întorceam pe dos.
+
+HAMLET
+
+Omul ăsta nu-şi dă seama ce face? Cântă în timp ce sapă un mormânt.
+
+HORAŢIO
+
+Obişnuinţa l-a făcut nepăsător.
+
+HAMLET
+
+Aşa e! Mâna nemuncită e mai simţitoare.
+
+ÎNTIUL GROPAR
+
+(cântă)
+
+Dar bătrâneţea cu pas mic
+
+În gheara ei m-a înhăţat
+
+Şi sub pământ m-a îngropat
+
+Ca pe un lucru de nimic.
+
+HAMLET
+
+Hârca aceasta avea şi ea o limbă şi putea cânta. Şi cum o mai dă de-a rostogolul nemernicul cela, de parcă ar fi falca lui Cain, cel care a săvârşit întâiul omor. Şi asta, de care îşi bate joc dobitocul, poate că o fi căpăţâna unui politician; vreunul care era în stare să-l tragă pe sfoară şi pe bunul Dumnezeu.
+
+HORAŢIO
+
+Se prea poate, măria ta.
+
+HAMLET
+
+Sau al vreunui curtean, care se pricepea să zică: „Bine v-am găsit, scumpul meu stăpân! Cum vă mai merge, bunul meu stăpân?" Ar putea fi al seniorului cutare, care lăuda calul seniorului cutare, cu gândul că o să-i fie dăruit. Şi de ce nu?
+
+HORAŢIO
+
+Fără îndoială, măria ta.
+
+HAMLET
+
+Chiar aşa e. Iar acum a luat-o în primire jupânul Vierme, scofâlcită şi lovită peste falcă de sapa unui gropar. Ce adâncă prefacere, dacă am fi noi destul de iscusiţi ca s-o vedem. Oare aceste oseminte nu au preţuit nimic atunci când au fost făcute, dacă ajungi să joci arşice cu ele? Numai la gândul ăsta, ale mele mă dor.
+
+ÎNTIUL GROPAR
+
+Sapa şi hârleţul, şi hârleţul,
+
+Şi giulgiul...
+
+O groapă-n cimitir
+
+E de-ajuns pentru-aşa musafir.
+
+(Scoate la iveală o hârcă.)
+
+HAMLET
+
+Încă una! De ce n-ar fi aceasta căpăţâna unui avocat? Unde i-or fi acum vicleşugurile, chiţibuşurile, pricinile, câştigurile, şi toată iscusinţa? Cum de poate îndura ca ticălosul cela mojic să-l pocnească peste scăfârlie cu lopata lui murdară şi nu-l dă în judecată pentru loviri şi răniri? Hm! Fârtatul asta poate că era pe vremuri un mare cumpărător de pământuri, cu zapise, ţidule, amenzi, privilegii şi garanţii. Cu atâta privilegiu s-a ales din toate privilegiile lui: capul lui care nu visa decât pământuri, îi e plin cu pământ. Oare martorii şi răsmartorii lui o să-i poată garanta din toată agonisita lui măcar atât cât ai întinde câteva contracte? Toate actele moşiilor sale ar încăpea cu greu în cutia asta. Şi sigur că nici chiar moştenitorul n-o să aibă parte de mai mult. Hai, ce zici?
+
+HORAŢIO
+
+Nici o iotă mai mult, măria ta.
+
+HAMLET
+
+Oare nu se fac pergamentele din piele de oaie?
+
+HORATIO
+
+Da stăpâne, ca şi din piele de viţel.
+
+HAMLET
+
+Oi şi viţei sunt cei ce-şi pun încrederea în ele. Am să vorbesc cu omul cela. A cui e groapa asta, prietene?
+
+ÎNTIUL GROPAR
+
+A mea, domnule.
+
+(cântă)
+
+O groapă-n cimitir
+
+E de-ajuns pentru-ăst musafir.
+
+HAMLET
+
+Adevărat o fi a ta. Doar stai într-însa.
+
+ÎNTIUL GROPAR
+
+Dumneata stai deasupra, domnule, aşa că nu e a dumitale. Cât despre mine, chiar dacă nu stau în ea, tot a mea e.
+
+HAMLET
+
+Stai în ea, fiindcă eşti în ea şi zici că e a ta. Doar e pentru morţi nu pentru cei vii. Aşa că minţi!
+
+ÎNTIUL GROPAR
+
+Şi minciuna mea e vie, domnule, o să vie înapoi de la mine la dumneata.
+
+HAMLET
+
+Cine-i omul căruia îi sapi groapa?
+
+ÎNTIUL GROPAR
+
+Nu-i nici un om.
+
+HAMLET
+
+Atunci, cine-i femeia?
+
+ÎNTIUL GROPAR
+
+Nu-i nici o femeie.
+
+HAMLET
+
+Atunci, cine o să fie îngropat într-însa?
+
+ÎNTIUL GROPAR
+
+Cineva care a fost femeie, domnule; dar a răposat. Dumnezeu s-o odihnească.
+
+HAMLET
+
+Încăpăţânat mai e hoţomanul! Trebuie să-i vorbeşti ca din carte, altfel te omoară cu glumele lui în doi peri. Doamne, Horaţio, am băgat de seamă de trei ani încoace că vremea noastră s-a făcut atât de subţire, încât ţăranul se ţine în pas cu nobilul de la curte şi-l calcă pe picioare. De câtă vreme eşti gropar?
+
+ÎNTIUL GROPAR
+
+Din toate zilele anului. Am început să sap în ziua în care răposatul rege Hamlet l-a învins pe Fortinbras.
+
+HAMLET
+
+Cât e de-atunci?
+
+ÎNTIUL GROPAR
+
+Nici atâta lucru nu ştii? Orice nătărău ştie asta. Era în ziua când s-a născut Hamlet cel tânăr, cel care-i nebun şi l-au trimis în Englitera.
+
+HAMLET
+
+Ce spui? Şi de ce l-au trimis în Englitera?
+
+ÎNTIUL GROPAR
+
+Ei, fiindcă era nebun; acolo o să-i vină mintea la cap; şi dacă nu-i vine, nu e nici o pagubă.
+
+HAMLET
+
+De ce?
+
+ÎNTIUL GROPAR
+
+Acolo n-o să se bage de seamă, fiindcă pe-acolo oamenii sunt tot aşa de nebuni ca el.
+
+HAMLET
+
+Şi cum de-a înnebunit?
+
+ÎNTIUL GROPAR
+
+Se zice că într-un chip foarte ciudat.
+
+HAMLET
+
+Cum anume?
+
+ÎNTIUL GROPAR
+
+Păi... pierzându-şi minţile.
+
+HAMLET
+
+Dar de unde i-a venit nebunia?
+
+ÎNTIUL GROPAR
+
+De unde să-i vie? De aici, din Danemarca. Am fost aci gropar, ca om în toată firea şi ca băiat tânăr, vreme de treizeci de ani.
+
+HAMLET
+
+Cât timp zace un om în pământ, până ce putrezeşte?
+
+ÎNTIUL GROPAR
+
+De! Când nu e gata putrezit înainte de moarte — că vedem în zilele noastre multe mortăciuni descărnate care abia de mai ţin până le bagi în pământ — apoi trebuie să ţină vrea opt, nouă ani. Un tăbăcar ţine nouă ani.
+
+HAMLET
+
+De ce el mai mult decât altul?
+
+ÎNTIUL GROPAR
+
+Apăi, domnule, pielea îi e aşa de argăsită de meseria lui, că nu primeşte apa multă vreme. Şi apa e prăpădul cel mai grozav pentru păcatele astea de hoituri. Uite o căpăţână! Căpăţâna aceasta a stat în pământ douăzeci şi trei de ani.
+
+HAMLET
+
+A cui era?
+
+ÎNTIUL GROPAR
+
+A unui smintit de fecior de lele. A cui crezi?
+
+HAMLET
+
+Habar n-am.
+
+ÎNTIUL GROPAR
+
+Mânca-l-ar ciuma de zănatec! O dată mi-a turnat în cap o sticlă de vin de Rin. Hârca asta, domnule, e a lui Yorick, măscăriciul regelui.
+
+HAMLET
+
+Asta?
+
+ÎNTIUL GROPAR
+
+Chiar asta!
+
+HAMLET
+
+Dă-o încoace! (Ia hârca în mână.) Vai, bietul Yorick! L-am cunoscut, Horaţio. Era un om plin de haz şi de o minunată fantezie. De mii de ori m-a dus în cârcă şi acum cât mi se îngrozeşte mintea! Îmi vine rău. Aci se deschideau buzele, pe care le-am sărutat de atâtea ori. Unde-ţi sunt poznele? Tumbele? Cântecele? Sclipirile acelea de veselie, care stârneau hohote la masă? N-a mai rămas nici una, ca să-şi râdă de strâmbătura ta de-acum? Stai cu fălcile încleştate? Du-te până în iatacul frumoasei doamne şi spune-i că, chiar de i-ar fi sulimanul de un deget de gros, tot aci o să ajungă. Fă-o să râdă de gluma asta bună. Dar, te rog, Horaţio, spune-mi un lucru.
+
+HORAŢIO
+
+Ce anume, măria-ta?
+
+HAMLET
+
+Crezi oare că Alexandru arăta îa fel în pământ?
+
+HORAŢIO
+
+Întocmai.
+
+HAMLET
+
+Şi tot aşa mirosea? Puah!
+
+(Pune jos tidva.)
+
+HORAŢIO
+
+Tot aşa, stăpâne.
+
+HAMLET
+
+La ce josnice întrebuinţări putem coborî, Horaţio! Şi de ce n-am putea să căutăm cu închipuirea urma nobilei ţărâne a lui Alexandru, până ce o găsim astupând o vrană de butoi?
+
+HORAŢIO
+
+Ar însemna să priveşti lucrurile într-un chip prea neobişnuit.
+
+HAMLET
+
+Nicidecum, pe legea mea. Poţi urmări asta, cu gândul plin de sfială şi ţinând seama de ceea ce pare cu putinţă. Cam în felul acesta: Alexandru a murit, Alexandru a fost îngropat, Alexandru s-a prefăcut în ţărână. Ţărâna e pământ. Din pământ facem lut. Şi cu lutul acesta în care s-a preschimbat el, de ce n-ar putea cineva să astupe un butoi cu bere?
+
+Cezarul mort şi-ajuns niţel pământ
+
+Azi umple-o bortă şi-apără de vânt.
+
+Ăst pumn de lut, mai ieri a lumii fală,
+
+Cu viscolul se luptă-n tencuială!
+
+Dar sst! La o parte: vine regele.
+
+(Intră o procesiune de preoţi. Trupul Ofeliei purtat în sicriu deschis, urmat de Laertes şi de bocitoare. Regele, regina, suita lor etc.)
+
+HAMLET
+
+Regina, curtea. Cine-i dus la groapă
+
+Şi c-un tipic atât de mult trunchiat?
+
+Pesemne răposatul şi-a pus singur,
+
+Cu mâna deznădejdii, capăt vieţii,
+
+Era un om de seamă. Să ne-ascundem,
+
+Şi să vedem.
+
+(Hamlet şi Horaţio se ascund.)
+
+LAERTES
+
+Ce rugăciuni urmează?
+
+HAMLET
+
+E Laertes. Un foarte vrednic tânăr. Să vedem.
+
+LAERTES
+
+Ce rugăciuni urmează?
+
+ÎNTIUL GROPAR
+
+I s-a slujit atât cât s-a putut
+
+Căci moartea ei a dat de bănuit,
+
+Şi dacă n-ar fi fost porunca-naltă
+
+Ce-a-nfrânt canonul cel bisericesc,
+
+În groapă nesfinţită-ar fi fost pusă
+
+S-aştepte pân' la trâmbiţa de-apoi.
+
+În loc de milostive rugăciuni,
+
+Pietriş, tăciuni şi cremeni ar fi fost
+
+Asupră-i aruncate. Iată însă
+
+Că feciorelnicele-i cununii
+
+I-au fost îngăduite şi tot astfel
+
+Podoabele-i de fată şi-nsoţirea
+
+Cu clopote la locul cel de veci.
+
+LAERTES
+
+Atât şi alt nimic?
+
+ÎNTIUL PREOT
+
+Atâta tot.
+
+Ar fi să pângărim sfinţita slujbă
+
+A morţilor, de i-am cânta prohodul
+
+Ca celor duşi cu sufletu-mpăcat.
+
+LAERTES
+
+Culcaţi-mi-o-n pământ dacă-i aşa
+
+Şi din frumosu-i trup neprihănit
+
+Să crească viorele. Află-acum,
+
+Tu, preot nemilos, ca sora mea
+
+Un înger fi-va-n cer când ai să urli
+
+Tu-n iad.
+
+HAMLET
+
+Cum, e chiar Ofelia?
+
+REGINA
+
+(punându-i flori)
+
+Plăpânde flori pentru plăpânda floare:
+
+Rămâi cu bine. Am nădăjduit
+
+Să fii a lui Hamlet al meu soţie.
+
+Credeam s-aştern cu flori un pat de nuntă,
+
+Iar nu mormântul tău, fecioară blândă.
+
+LAERTES
+
+Năpastă întreită să se-abată
+
+De zeci de ori pe blestematul cap
+
+A cărui faptă ucigaşă-a scos
+
+Din minţi gândirea ta cea cumpătată!
+
+O clipă încă, n-aruncaţi pământ
+
+Asupră-i. S-o mai ţin o dată-n braţe.
+
+(Sare-n groapă.)
+
+Acum zvârliţi pe mort şi viu ţărână,
+
+Din şesu-acest un munte să-nălţaţi
+
+Mai sus ca Pelionul sau cerescul
+
+Şi-albastrul vârf al muntelui Olimp.
+
+HAMLET
+
+(înaintând)
+
+Dar cine-i cel ce-n marea lui durere
+
+Se vaită în ouvinte-atât de-umflate,
+
+Cel care-amestecă-n jelania lui
+
+Chiar stelele pribege şi le-opreşte
+
+Ca să-l asculte buimăcite? Iată,
+
+Sunt eu, Hamlet al Danemarcii.
+
+(Sare în mormânt.)
+
+LAERTES
+
+Dracul
+
+Să-ţi ieie sufletul.
+
+(Se încaieră cu el)
+
+HAMLET
+
+Ce strâmb te rogi.
+
+Ia-ţi mâna, rogu-te, din gâtul meu,
+
+Că făr-a fi aprins, nici mânios,
+
+Ceva e-n mine totuşi de primejdie,
+
+Şi-ai fi cuminte dacă ţi-ar fi teamă.
+
+Jos mâna.
+
+REGELE
+
+Despărţiţi-i.
+
+REGINA
+
+O, Hamlet...
+
+TOŢI
+
+Dar, domnilor...
+
+HORAŢIO
+
+Fii liniştit, stăpâne!
+
+(Îi despart. Hamlet şi Laertes ies din groapă.)
+
+HAMLET
+
+Mă voi lupta cu el pentru acest lucru
+
+Cât timp din pleoape-am să mai pot clipi.
+
+REGINA
+
+Să lupţi, dar pentru ce?
+
+HAMLET
+
+Eu o iubeam
+
+Pe Ofelia. Chiar zece mii de fraţi
+
+Şi n-ar iubi-o atât ca mine
+
+Ce-ai fi tu-n stare-a face pentru ea?
+
+REGELE
+
+E, vai, nebun!
+
+REGINA
+
+Pe Dumnezeu, lăsaţi-l!
+
+HAMLET
+
+La naiba, spune-mi ce-ai de gând să faci?
+
+Să plângi, să lupţi, să te sfâşii? Faci post?
+
+Sau bei oţet? înghiţi un crocodil?
+
+Şi eu! Sau vii să gemi? Sau să mă-nfrunţi
+
+Sărind în groapa-i? Fii-ngropat de viu
+
+Cu ea cu tot: voi fi şi eu! Şi dacă
+
+Îndrugi de munţi, lasă-i să îşi prăvale
+
+Asupră-ne pogoane-ntregi, să-şi ardă
+
+Mormanu nostru piscu-n soare, 'ncât
+
+Pe lângă el, nu neg să pară Ossa,
+
+Iar dacă zbieri, am să răcnesc şi eu!
+
+REGINA
+
+Aceasta e curată nebunie.
+
+Aşa-l apucă şi-l frământ-o vreme,
+
+Şi-apoi mai blând decât o porumbiţă
+
+Când puii ei de aur ies din ou,
+
+Reintră-n mohorâta lui tăcere.
+
+HAMLET
+
+Ascultă, domnul meu, pe ce temei
+
+Te porţi cu mine-aşa? Eu te-am iubit
+
+Întotdeauna — ce folos — când Hercul
+
+El însuşi n-ar putea nimic: pisica
+
+Tot miorlăie, iar câinele tot muşcă.
+
+(Iese.)
+
+REGELE
+
+Fii bun, te rog, Horaţio, însoţeşte-I.
+
+(Horaţio iese.)
+
+Laertes, ai răbdare. Nu uita
+
+Şi crede-n cele hotărâte-azi-noapte,
+
+Grăbi-voi totul către-un bun sfârşit,
+
+Gertrudă dragă-ai grijă de-al tău fiu.
+
+Pe acest mormânt se cade să-nălţăm
+
+Un falnic monument spre pomenire.
+
+Curând ne sună ceasul de odihnă;
+
+Dar pân-atunci, răbdare şi veghere,
+
+(Ies amândoi.)
+
+
+
+SCENA 2
+
+(O sală în castel. Intră Hamlet şi Horaţio.)
+
+
+
+HAMLET
+
+Destul cu asta. Trecem la cealaltă.
+
+Ţii minte-mprejurarea?
+
+HORAŢIO
+
+Da, stăpâne.
+
+HAMLET
+
+În mine se dădea un fel de luptă
+
+Ce somnul mi-alunga.
+
+Mă frământam
+
+Ca răzvrătiţii-n lanţurile lor,
+
+În chip pripit — şi fie lăudată
+
+Pripeala mea, că uneori, ia seama,
+
+Nesocotinţa ne slujeşte bine
+
+Atunci când socotelile dau greş,
+
+Şi-ar trebui de-aicea să-nţelegem
+
+Că soarta ni-i de Dumnezeu croită,
+
+Oricât ne-am strădui s-o peticim...
+
+HORAŢIO
+
+Nu-ncape îndoială.
+
+HAMLET
+
+Sării din pat
+
+Înfăşurat în manta-mi şi prin beznă
+
+Pe dibuite-i caut, îi găsesc,
+
+Înşfac pachetul şi-n sfârşit mă-ntorc
+
+La locul meu. Mi-am îngăduit.
+
+Căci temerile m-au făcut să uit
+
+De buna-cuviinţă, — am rupt pecetea
+
+Cumplitei lor solii. Şi-n ea găsit-am
+
+— Horaţio, vai, regească mişelie —
+
+Poruncă straşnică şi împănată
+
+Cu fel de fel de argumente despre
+
+A Engliterii şi a Danemarcii
+
+Prosperitate, iar pe seama mea
+
+Atâtea sperietori şi scârnăvii,
+
+Încât fără o clipă de zăbavă
+
+Nu, nici măcar pentru-ascuţit securea —
+
+Să mi se taie capul.
+
+HORAŢIO
+
+Cu putinţă-i!
+
+HAMLET
+
+Porunca iat-o. Când ai timp, citeşte-o.
+
+Dar vrei acum să ştii ce-am mai făcut?
+
+Cuprins într-o reţea de mârşavii
+
+Pe care nici n-o bănuiam, când ei
+
+Se şi puseseră pe lucru, eu
+
+M-aşez şi ticluiesc un nou răvaş
+
+Şi-l scriu frumos. Pe vremuri socoteam,
+
+Ca orice om de stat, că-i de ruşine
+
+Să scrii frumos, şi deci m-am străduit
+
+Să uit ce-am învăţat — dar, domnul meu,
+
+Am tras, acum, din asta mari foloase.
+
+Nu vrei să ştii cuprinsul celor scrise?
+
+HORAŢIO
+
+Stăpâne-ascult.
+
+HAMLET
+
+O cerere fierbinte
+
+A regelui, cum că, „de vreme ce"
+
+Englezu-i este tributar supus;
+
+„De vreme ce" iubirea care leagă
+
+Menită-i a-nflori; „de vreme ce"
+
+Sub spicele-mpletite ale păcii
+
+Unirea lor sortită-i veşniciei,
+
+Şi câte altele „de vreme ce"
+
+De mare-nsemnătate, e ţinut
+
+De-ndată ce-a văzut şi a citit
+
+Acest cuprins, la moarte să-i trimită
+
+Pe-aducătorii lui, fară-ntrebare
+
+Şi nici răgaz de a se spovedi.
+
+HORAŢIO
+
+Şi ce pecete pus-ai?
+
+HAMLET
+
+Cerul, iată
+
+Mi-a fost din nou prielnic. Am în pungă
+
+Sigiliul tatei, după care-a fost
+
+Turnată şi pecetea Danemarcei,
+
+Îndoi scrisoarea-asemeni celeilalte,
+
+Semnez, pecetluiesc, o pun la loc,
+
+Şi nimeni n-a băgat de seamă pruncul
+
+C-a fost schimbat. A doua zi s-a dat
+
+Pe mare, lupta. Ce-a urmat, ştii tot.
+
+HORAŢIO
+
+Deci Guildenstern şi Rosencrantz... s-au dus!
+
+HAMLET
+
+Ei, frate, au cerşit această slujbă;
+
+Nu-i am pe suflet. Ce-au căutat, găsit-au.
+
+E vai de-un om mărunt prins între două
+
+Cumplite săbii ale-unor vrăjmaşi
+
+Puternici.
+
+HORAŢIO
+
+Dar, ce fel de rege-i ăsta?
+
+HAMLET
+
+Nu crezi că sunt dator să pedepsesc
+
+Cu braţul meu pe cel ce-a omorât
+
+Pe regele-mi şi-a pângărit pe mama,
+
+Pe cel ce-a stat între nădejdea mea
+
+Şi tron, şi-a-ntins o cursă vieţii mele
+
+Cu-atâta viclenie — nu-i drept oare?
+
+Şi n-aş fi bun de-osânda cea de veci
+
+Să las un vierme de-ăsta-n trupul meu
+
+Să roadă mai departe?
+
+HORAŢIO
+
+Curând el va afla din Englitera
+
+Deznodământu-acestei întâmplări.
+
+HAMLET
+
+Curând va şti: răstimpul însă-al meu, e,
+
+Şi-o viaţă de-om se curmă cât zici „unu".
+
+Horaţio, însă-mi pare rău c-am fost
+
+Nestăpânit în faţa lui Laertes;
+
+În propriul meu chin eu văd icoana
+
+Durerii lui; cerca-voi să-l îmbun,
+
+Dar, singur, plânsul lui plin de-nfruntare
+
+M-a scos din minţi. Tăcere. Cine vine?
+
+(Intră Osric.)
+
+OSRIC
+
+Fii binevenită înălţimea ta întoarsă în Danemarca.
+
+HAMLET
+
+Smerite mulţumiri, domnul meu. Îl cunoşti pe ţânţarul ăsta?
+
+HORAŢIO
+
+Nu, bunul meu stăpân.
+
+HAMLET
+
+Ferice de tine; e păcat să-l cunoşti. Are moşii multe şi foarte mănoase: o vită ajunsă stăpână peste viţei, vălăul lui e la masa regelui. E un filfizon; dar cum îţi spun, e stăpân peste mari întinderi de noroaie.
+
+OSRIC
+
+Scumpul meu stăpân, dacă înălţimea ta îmi dă răgaz, îi voi împărtăşi ceva din partea măriei sale.
+
+HAMLET
+
+Am să ascult, domnul meu, cu toată agerimea minţii mele. Pune pălăria la locul ei, e făcută pentru cap.
+
+OSRIC
+
+Mulţumesc înălţimii tale dar e foarte cald.
+
+HAMLET
+
+Nu, crede-mă, e foarte frig. Vântul bate de la miazănoapte.
+
+OSRIC
+
+Adevărat, stăpâne, e cam frig.
+
+HAMLET
+
+Şi totuşi, mi se pare că e zăpuşeală şi cald, sau poate firea mea...
+
+OSRIC
+
+Din cale-afară, stăpâne; este mare zăpuşeală, de... parcă nici nu ştiu cum să spun. Dar, stăpâne, măria-sa m-a trimis să te înştiinţez că a pus o prinsoare mare pe capul înălţimii tale: iată despre ce e vorba...
+
+(Hamlet îl pofteşte să-şi pună pălăria.)
+
+HAMLET
+
+Te rog din suflet, nu uita...
+
+OSRIC
+
+Nu, pe legea mea; mă simt mai bine aşa, pe legea mea! Înălţimea ta, Laertes a sosit de curând aici la curte. Crede-mă, un gentilom absolut, plin de cele mai distinse detalii, foarte delicat în societate, şi de mare exterior; într-adevăr, ca să vorbesc în mod sensibil despre el, e manualul şi harta nobleţei, şi vezi în el compendiul a ceea ce în mod parţial ar trebui să arate un gentilom.
+
+HAMLET
+
+Domnul meu, circumscrierea lui nu suferă nici o lacună de la dumneata; deşi ştiu că disociindu-l exhaustiv, am tulbura matematica memoriei; şi chiar dac-am face doar o schiţă, atât e de veloce. Dar în veridicitatea elogiului, îl socotesc un suflet de mare esenţă; în concocţiunea lui e de asemenea preţ şi raritate, încât ca să-l formulăm adecvat, unicul semn al său îi e oglinda; şi oricine i-ar călca pe urme doar umbra.
+
+OSRIC
+
+Înălţimea voastră vorbeşte de el deosebit de fără greş.
+
+HAMLET
+
+Dar semnificaţia, domnul meu? De ce să învăluim pe acest gentilom în răsuflarea noastră atât de grosolană?
+
+OSRIC
+
+Stăpâne?
+
+HORAŢIO
+
+Nu e oare cu putinţă să ne înţelegem într-altă limbă? Încearcă, zău, domnul meu!
+
+HAMLET
+
+Ce rost are menţionarea acestui gentilom?
+
+OSRIC
+
+A lui Laertes?
+
+HORAŢIO
+
+I s-a şi golit punga; toate vorbele aurite şi le-a cheltuit.
+
+HAMLET
+
+A lui, domnul meu.
+
+OSRIC
+
+Ştiu că nu ignoraţi...
+
+HAMLET
+
+Aş vrea sa ştii; la drept vorbind, da:ă ai şti, nu prea mi-ar folosi la ceva. Ei, domnul meu?
+
+OSRIC
+
+Nu ignoraţi eminenţa lui Laertes în...
+
+HAMLET
+
+Nu îndrăznesc să mărturisesc acest lucru, de teamă că m-aş lua cu el la întrecere. Dar ca să cunoşti bine un om, înseamnă că te ştii pe tine însuţi.
+
+OSRIC
+
+Vreau să spun că e eminent în mânuitul armelor. Din imputaţia ce i-au făcut, reiese că măiestria lui în această privinţă e fără pereche.
+
+HAMLET
+
+Ce armă mânuieşte?
+
+OSRIC
+
+Spada şi pumnalul.
+
+HAMLET
+
+Atunci sunt două; dar fie... Mai departe?
+
+OSRIC
+
+Stăpâne, regele a pus rămăşag şase cai din Barbaria, împotriva cărora Laertes a pus, după cum am aflat, şase spade şi pumnale franceze cu tot ce le însoţeşte, adică: cingători, agăţători şi celelalte. Trei dintre afeturi sunt într-adevăr de o bogată fantezie, în totul demne de mânerele lor, afeturi pline de gingăşie şi de o concepţie cât se poate de originală.
+
+HAMLET
+
+Ce numeşti domnia ta afeturi?
+
+HORAŢIO
+
+Ştiam eu că o să fie nevoie să recurgeţi la note marginale, ca să înţelegi textul, şi iată că aşa s-a şi întâmplat.
+
+OSRIC
+
+Afeturile, stăpâne sunt agăţătorile.
+
+HAMLET
+
+Cuvântul ar fi mai înrudit cu faptul, dacă am purta la şold un tun. Până atunci, îmi place mai mult „agăţători". Dar, mai departe! Şase cai de Barbaria, împotriva a şase spade franceze cu tot ce le însoţeşte şi trei afeturi de o originalitate bine concepută. Iată rămăşagul francezului faţă de cel danez. Şi pentru ce oare au fost „impuse", cum zici domnia-ta, toate acestea?
+
+OSRIC
+
+Stăpâne, regele a pus rămăşag că într-o duzină de asalturi între înălţimea ta şi Laertes, el nu te va întrece decât cu trei lovituri. Iar el s-a prins pe nouă lovituri din douăsprezece şi e gata să se înfăţişeze la o întrecere, dacă înălţimea voastră binevoieşte a-i răspunde.
+
+HAMLET
+
+Şi dacă răspund nu?
+
+OSRIC
+
+Vream să zic, stăpâne, a răspunde cu persoana înălţimii tale în această întrecere.
+
+HAMLET
+
+Domnul meu, eu am să mă plimb acum prin sala asta; cu voia măriei sale, e ceasul meu de odihnă; să se aducă floretele, şi dacă acel gentilom se învoieşte şi regele îşi ţine rămăşagul, am să-l câştig, de-mi va fi cu putinţă; iar de nu, am să mă aleg doar cu ruşinea şi cu loviturile date înainte.
+
+OSRIC
+
+Să transfer răspunsul acesta întocmai?
+
+HAMLET
+
+Întocmai, domnul meu; şi cu toate înfloriturile cerute de firea dumitale.
+
+OSRIC
+
+Mă recomand înălţimei tale cu tot devotamentul.
+
+(Iese)
+
+HAMLET
+
+Şi eu, şi eu, domniei tale. Bine face că se recomandă singur. Nu s-ar găsi nimeni altul care s-o facă.
+
+HORAŢIO
+
+Guguştiucul acesta fuge cu găoacea oului pe cap.
+
+HAMLET
+
+Ăsta făcea temenele şi sfârcului înainte de a suge. Şi el şi mulţi alţii de o seamă cu el — cu care văd că se împăunează veacul nostru decăzut — prind doar tonul modei şi spoiala obiceiurilor de lume: un fel de spumă uşoară, care-i poartă de colo până colo, ciugulind părerile cele mai zvânturate. Dar e de ajuns să sufli asupra lor şi băşicile de spumă se sparg.
+
+(Intră un curtean)
+
+CURTEANUL
+
+Stăpâne, măria-sa ţi-a trimis salutul său prin tânărul Osric, care i-a adus răspunsul că-l aştepţi în această sală. Doreşte să afle dacă ţi-e voia să te iei acum la întrecere cu Laertes, sau dacă vrei o amânare.
+
+HAMLET
+
+Sunt nestrămutat în hotărârea mea: ea urmează bunul plac al regelui; dacă e gata, sunt şi eu, acum sau oricând altă dată, numai să-mi fie tot de la îndemână.
+
+CURTEANUL
+
+Regele şi regina cu toată curtea se îndreaptă încoace.
+
+HAMLET
+
+Într-un ceas bun!
+
+CURTEANUL
+
+Regina doreşte să-i spui câteva vorbe prietenoase lui Laertes, înainte de-a începe asaltul.
+
+HAMLET
+
+Îmi dă povaţă bună.
+
+HORAŢIO
+
+Ai să pierzi prinsoarea asta, stăpâne.
+
+HAMLET
+
+Nu prea cred. De când a plecat el în Franţa, m-am pregătit întruna. Am să câştig cu punctele care mi s-au dat înainte. Dar nici nu-ţi închipui ce ciudat mă simt pe-aci pe la inimă. Dar nu-i nimic.
+
+HORAŢIO
+
+Cum să nu, scumpul meu stăpân.
+
+HAMLET
+
+E o prostie. Totuşi e un fel de presimţire, de care s-ar tulbura poate o femeie.
+
+HORAŢIO
+
+Dacă mintea ta e împotrivă, ascult-o. Am să le ies înainte când vin încoace şi am să le spun că nu eşti gata.
+
+HAMLET
+
+Ba de loc. Sfidez prevestirile. Nu moare nici măcar o vrabie fără ştirea Proniei. Dacă mi-a sunat ceasul acum, n-o să-mi sune altă dată, şi dacă n-o fi să fie altă dată, trebuie să fie acum; acum sau mai târziu, tot o să sune o dată. Totul e să fii gata. De vreme ce nu-ţi mai dai seama de cele ce laşii după tine, ce-ţi pasă dacă pleci mai curând? Fie ce-o fi.
+
+(Intră regele, regina, Laertes, seniori, Osric, şi slujitorii cu spade etc.)
+
+REGELE
+
+Te-apropie, Hamlet, şi-această mână
+
+Primeşte-o de la mine-n mâna ta.
+
+(Regele pune mâna lui Laertes în mâna lui Hamlet.)
+
+HAMLET
+
+Iertare, domnul meu, că te-am jignit;
+
+Dar iartă-mă cum iartă-un gentilom.
+
+Toţi cei de faţă ştiu
+
+Şi-ai auzit fără-ndoială
+
+Că sunt lovit de-o rătăcire grea.
+
+Ce-am făcut
+
+Şi ţi-a trezit brutal onoarea, firea,
+
+N-a fost, o spun deschis, decât sminteală.
+
+Hamlet jignit-a oare pe Laertes?
+
+El? Niciodată. Dacă, scos din minţi,
+
+Atunci când nu mai este el, Hamlet
+
+Jigneşte pe Laert, nu el jigneşte.
+
+Hamlet reneagă. Cine-i deci de vină?
+
+Sminteala lui. Şi dacă este-aşa,
+
+Hamlet e dintre cei jigniţi, sărmanul,
+
+Căci nebunia e vrăjmaşul lui.
+
+De faţă, domnul meu, cu toată curtea
+
+Mă lepăd de-orice rea precugetare,
+
+Şi-n gândul tău mărinimos, mă iartă
+
+Că fără voie mi-am ucis un frate
+
+Zvârlind săgeata pe deasupra casei.
+
+LAERTES
+
+Mi-e sufletu-mpăcat. El mă-ndemna
+
+La răzbunare. Cât priveşte cinstea,
+
+Mă ţin deoparte, nu vreau împăcare,
+
+Şi-aştept ca meşteri vechi şi respectaţi
+
+Să-mi spună dacă fost-au şi-n trecut
+
+Asemenea-mpăcări — ca să-mi păstrez
+
+Un nume nepătat. Dar până-atunci
+
+Primesc şi cred în dragostea pe care
+
+Mi-o-mbii acum şi n-o dispreţuiesc.
+
+HAMLET
+
+Primesc cu drag şi voi lupta cu cinste
+
+În acest asalt frăţesc. Să mi se dea
+
+O spadă. Gata.
+
+LAERTES
+
+Da, şi mie una.
+
+HAMLET
+
+Voi fi unealta biruinţii tale, Laert.
+
+Pe lângă neştiinţa mea,
+
+Îndemânarea ta va străluci
+
+Ca steaua-n beznă, cu atât mai viu..
+
+LAERTES
+
+Stăpâne, râzi de mine!
+
+HAMLET
+
+Nu, ţi-o jur.
+
+REGELE
+
+Osric, dă spadele.
+
+Nepoate Hamlet,
+
+Cunoşti prinsoarea?
+
+HAMLET
+
+Foarte bine, sire;
+
+Ai părtinit în joc pe cel mai slab.
+
+REGELE
+
+N-am teamă. V-am văzut. Laert fiind
+
+Şi mai maestru, ţi-am dat înainte.
+
+LAERTES
+
+Aceasta-i mult prea grea.
+
+Să văd şi alta.
+
+HAMLET
+
+Îmi place asta. Sunt la fel de lungi?
+
+OSRIC
+
+Da, bunul meu stăpân.
+
+REGELE
+
+Pe masă puneţi cupele cu vin.
+
+Şi dacă la întâia lovitură,
+
+Sau la a doua, Hamlet îl atinge
+
+Sau de-o răspunde bine la a treia,
+
+Să tragă toate gurile de foc.
+
+Iar regele va bea în sănătatea-i
+
+Şi-n cupă un mărgăritar va pune
+
+Mai scump decât acela din coroana
+
+Purtată-n şir de patru regi danezi.
+
+Voi daţi-mi cupele. Vorbească toba
+
+Trompetelor, trompeta către tunuri:
+
+Şi tunurile către cer şi cerul
+
+Pământului, că regele acum
+
+Bea-n cinstea lui Hamlet.
+
+Începeţi lupta,
+
+Iar voi, judecători, luaţi bine seama.
+
+HAMLET
+
+Să-ncepem, domnul meu.
+
+LAERTES
+
+Stăpâne-ncepem!
+
+HAMLET
+
+O dată!
+
+LAERTES
+
+Nu!
+
+HAMLET
+
+Ce spun arbitrii?
+
+OSRIC
+
+Atins. E ne'ndoios atins.
+
+LAERTES
+
+Să-ncepem iar.
+
+REGELE
+
+Staţi. Daţi-mi de băut.
+
+Hamlet, al tău e
+
+Acest mărgăritar. Fii sănătos!
+
+(Sună trâmbiţele. Salve de artilerie afară.)
+
+Să-i daţi o cupă.
+
+HAMLET
+
+Pune-mi-o deoparte;
+
+Întâi să isprăvim.
+
+(Se luptă.)
+
+Atins din nou. Ce zici?
+
+LAERTES
+
+Atins. E drept, am fost atins.
+
+REGELE
+
+Câştigă fiul nostru.
+
+REGINA
+
+Şi-i gras.
+
+Năframa mea-i aici.
+
+Tu ia-o, Hamlet, şi şterge-ţi tâmplele.
+
+Regina închină pentru biruinţa ta.
+
+HAMLET
+
+O, bună doamnă!
+
+REGELE
+
+Nu bea, nu, Gertrudo!
+
+REGINA
+
+Cu voia ta, stăpâne, vreau să beau. (Bea.)
+
+REGELE
+
+(aparte) E cupa cu venin. E prea târziu.
+
+HAMLET
+
+O clipă, doamnă. Nu cutez să beau.
+
+REGINA
+
+Dar vino să-ţi şterg faţa.
+
+LAERTES
+
+Sire-acum îl voi lovi.
+
+REGELE
+
+Nu cred.
+
+LAERTES
+
+Şi totuşi parcă-i
+
+Ceva-mpotriva cugetului meu.
+
+HAMLET
+
+Laertes, hai, e pentru-a treia oară,
+
+Dar luptă-te, te rog, din răsputeri:
+
+Te porţi, mă tem, de parc-aş fi copil.
+
+LAERTES
+
+Aşa-ţi par? Hai!
+
+(Se luptă.)
+
+OSRIC Nimic, de nici o parte.
+
+LAERTES
+
+Acum, ia seama!
+
+(Laertes răneşte pe Hamlet. În încăierare îşi schimbă spadele şi Hamlet răneşte pe Laertes.)
+
+REGELE
+
+Opriţi-i! Se-ntărâtă.
+
+HAMLET
+
+A nu! Să începem iar.
+
+(Regina cade.)
+
+OSRIC
+
+I-e rău reginei!
+
+HORAŢIO
+
+Sunt plini de sânge. Cum îţi e, stăpâne?
+
+OSRIC
+
+Laertes, cum te simţi?
+
+LAERTES
+
+Precum sitarul prins în lanţul său,
+
+Ucis de drept, prin chiar trădarea mea.
+
+HAMLET
+
+Dar ce e cu regina?
+
+REGELE
+
+A leşinat
+
+Văzându-i plini de sânge pe-amândoi.
+
+REGINA
+
+O, nu! e cupa, dragul meu Hamlet,
+
+E cupa, cupa... fost-am otrăvită.
+
+(Moare.)
+
+HAMLET
+
+O, ce ticăloşie! — 'Nchideţi poarta!
+
+Trădare.
+
+(Laertes cade.)
+
+Unde e trădarea?
+
+LAERTES
+
+Aicea e, Hamlet, Hamlet, eşti mort;
+
+Nu-i leac pe lume-n stare să te scape,
+
+Şi viaţă n-ai mai mult de-un sfert de ceas.
+
+În mâna ta-i unealta trădătoare
+
+Cu vârful slobod şi-n venin muiată.
+
+Ticăloşia-ntorsu-s-a-mpotriva-mi
+
+Şi zac aci, dar n-am să mă mai scol,
+
+Iar mama ta, şi ea e otrăvită,
+
+Ah, nu mai pot... regele e de vină...
+
+HAMLET
+
+Şi vârfu-i otrăvit! Atunci, la lucru, otravă!
+
+(Îl străpunge pe rege.)
+
+
+
+
+
+TOŢI
+
+Trădare! Trădare!
+
+REGELE
+
+Săriţi, prieteni! Nu-s decât rănit.
+
+HAMLET
+
+Danez tu, incestuos şi ucigaş
+
+Şi blestemat, bea din fiertura asta.
+
+Vezi, nu e-n ea mărgăritarul tău?
+
+Te du pe urma mamei!
+
+(Regele moare.)
+
+LAERTES
+
+E o dreaptă
+
+Răsplată. Căci i-ai dat să bea otrava
+
+Pe care-a pregătit-o însuşi el.
+
+Noi, unul altuia să ne iertăm,
+
+O, vrednicule Hamlet. Moartea mea,
+
+Şi-a tatei să nu cadă-asupra ta,
+
+Şi nici a ta, asupră-mi.
+
+HAMLET
+
+Te izbăvească cerul. Te urmez.
+
+Eu mor, Horaţio. Tu, rămâi cu bine,
+
+Nefericită doamnă. Voi, ce-n tremur,
+
+Palizi priviţi l-acest prăpăd, muţi martori;
+
+Ai celor petrecute, de-aş avea
+
+Doar vreme — aspra moarte însă este
+
+Un temnicer ce nu ştie s-aştepte —
+
+V-aş spune... las' să fie-aşa; eu mor,
+
+Horaţio, tu trăieşti... fi-mi mie martor
+
+Şi vieţii mele, spre-a mă-ndreptaţi
+
+În faţa celor ce s-ar îndoi.
+
+HORAŢIO
+
+Nu crede asta niciodată, sunt
+
+Mai mult un vechi roman decât danez:
+
+Mai e ceva pe fund.
+
+HAMLET
+
+
+
+
+
+Bărbat eşti oare?
+
+Dă-mi cupa. Las-o. Jur, o voi avea!
+
+Horaţio, dragul meu, ce nume veşted
+
+Las după mine, câtă vreme totul
+
+Rămâne-o taină. Dacă m-ai purtat
+
+Vreodată-n a ta inimă, atunci
+
+Te mai lipseşte-un timp de fericire
+
+Şi-n lumea asta hâdă tu mai poartă-ţi
+
+Durerea, ca să-i spui povestea mea.
+
+(Se aud un marş militar şi salve.)
+
+Dar ce-i această larmă de război?
+
+HORAŢIO
+
+E Fortinbras cel tânar, care dă,
+
+Întors cu biruinţa din Polonia,
+
+Salut războinic solilor englezi.
+
+HAMLET
+
+Horaţio, mor. Năpraznica otravă
+
+Gândirea-mi covârşeşte. Nu mai pot
+
+Trăi s-aud din Englitera veşti.
+
+Dar Fortinbras, vă spun, va fi alesul,
+
+Şi glasul meu ce moare-i pentru el;
+
+Aşa să-i spui, şi cam ce a dus
+
+La aceste întâmplări. Restu-i tăcere.
+
+(Moare.)
+
+HORAŢIO
+
+O mare inimă se frânge-acum.
+
+O, noapte bună, blânde prinţ. Să cânte
+
+Un stol de îngeri spre odihna ta.
+
+Dar ce bat tobele tot mai aproape?
+
+(Intră Fortinbras şi solii englezi, cu tobe, steaguri şi suită.)
+
+FORTINBRAS
+
+Vrem să vedem ce-a fost.
+
+HORAŢIO
+
+Ce-ai vrea să vezi?
+
+O jale-adâncă, sau cumplită groază?
+
+Te-opreşte-atunci şi nu mai căuta.
+
+FORTINBRAS
+
+Grămada asta strigă a măcel.
+
+Trufaşă moarte, ce ospăţ găteşti
+
+În veşnicu-ţi celar, de-ai doborât
+
+Atâţia principi, cu o lovitură
+
+Atât de sângeroasă, la pământ?
+
+SOLUL
+
+Priveliştea-i de spaimă. Prea târziu
+
+Sosim cu veştile din Englitera,
+
+Şi-urechea celui ce-ar fi vrut s-audă
+
+E surdă-acum la ştirea că porunca-i
+
+A fost adusă la îndeplinire.
+
+Că Guildenstern şi Rosencrantz sunt morţi.
+
+Dar cine să ne mulţumească?
+
+HORAŢIO
+
+El, cel de-aici, chiar viaţă de-ar avea
+
+Să-ţi poată mulţumi, el niciodată
+
+N-a dat poruncă pentru moartea lor.
+
+Dar fiindc-aţi nimerit aci în toiul
+
+Acestei sângeroase întâmplări,
+
+Voi cei sosiţi din Anglia, voi din
+
+Războiul cu Polonia, daţi poruncă
+
+Să fie aşezate-aceste leşuri
+
+Pe-un catafalc înalt, în văzul lumii.
+
+Iar pentru cei ce nu cunosc povestea,
+
+Lăsaţi-mă să spun cum s-a-ntâmplat.
+
+Veţi auzi de fapte sângeroase
+
+Şi scârnave şi nefireşti, de-omoruri
+
+Nevrute şi de strâmbe judecăţi,
+
+De inşi ucişi prin vicleşug şi silnic,
+
+Şi-n tot acest sfârşit, de-o cursă-n care
+
+Căzut-au înşiri cei ce au întins-o.
+
+Aceste toate pot să le destănui
+
+Cu-adevărat.
+
+FORTINBRAS
+
+Să-l ascultăm îndată,
+
+Şi pe cei mari să-i adunăm s-asculte —
+
+Iar eu salut norocu-mi cu mâhnire;
+
+Am drepturi vechi pe-acest regat, pe care
+
+Prilejul mă-nlesneşte să le cer.
+
+HORAŢIO
+
+Şi eu, aici, am de vorbit din parte-i,
+
+Iar glasul lui va cântări mai greu.
+
+Dar astea toate-acum să le-ncheiem,
+
+Cât minţile sunt încă răvăşite,
+
+Ca nu cumva greşeli sau uneltiri
+
+Să se întâmple.
+
+FORTINBRAS
+
+Patru căpitani
+
+Să-l poarte pe Hamlet ca pe-un ostaş
+
+Pe catafalc. El ar fi fost, sunt sigur,
+
+Un rege mare dac-ar fi domnit;
+
+În calea lui, războinice saluturi
+
+Şi muzicile ostăşeşti să cânte
+
+Spre-a lui cinstire. Luaţi morţii.
+
+Potrivite-n bătălii,
+
+Privelişti de-astea nu-şi au rostu-aci.
+
+Să mergem; comandaţi foc.
+
+(Marş funebru. Ies toţi, luând trupurile. Se aud salve de artilerie.)
+
+
+
+
+

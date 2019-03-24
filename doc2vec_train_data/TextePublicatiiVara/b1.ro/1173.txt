@@ -1,0 +1,7 @@
+Șeful companiei Apple, Tim Cook, a prezentat, luni seară, noul sistem de operare pentru telefoanele sale, iOS 12.
+Acest sistem va veni cu îmbunătățiri de performanță, opțiuni prin care utilizatorii își pot crea versiuni animate ale lor, precum și un instrument care să vă ajute să scăpați de dependența de tehnologie.
+Astfel, în cazul dependenței de tehnologie, Apple susține că va adăuga la iOS 12 o opțiune prin care utilizatorii vor fi atenționați atunci când vor sta prea mult cu ochii în telefoane.
+În plus, atunci când o aplicație consumă prea mult timp, se poate seta, de exemplu, o limită apoi se va primi o avertizare cu 5 minute înainte să expire timpul.
+Mai mult, părinții vor putea programa o perioadă în care aparatele copiilor vor fi inutilizabile, ca să-i împiedice pe aceștia să stea cu ochii în telefoane noaptea.
+Apple adaugă noi animale și o fantomă în zona Animoji. Însă cea mai mare veste din capitolul emoji este cea referitoare la crearea de Animoji care imită chipul utilizatorului. Această opțiune se numește Memoji și poate memora chipul unei persoane, ca să creeze o versiune animată.
+De asemenea, Facetime va suporta, în curând, și apelurile video cu mai multe persoane în același timp, numărul maxim de utilizatori fiind de 32.

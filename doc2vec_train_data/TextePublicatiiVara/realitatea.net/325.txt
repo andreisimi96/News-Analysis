@@ -1,0 +1,3 @@
+Piloții comunică, de obicei, între ei și cu cei resposabili de controlul traficului aerian folosind coduri mai puțin cunoscute. Iată două dintre ele.
+Codul ”7500” înseamnă că avionul este deturnat. Însă, pentru că semnificația aceasta a devenit deja prea bine cunoscută, multe aeronave au instalat un sistem special prin care piloții pot transmite această alertă, potrivit ABC News. Ulterior, controlorii de trafic aerian le cer acestora să confirme transmiterea voluntară a codului.
+Codul pentru urgențe generale este ”7700”.

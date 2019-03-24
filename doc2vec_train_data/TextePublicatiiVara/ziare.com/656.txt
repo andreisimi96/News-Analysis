@@ -1,0 +1,6 @@
+Joi, 31 Mai 2018, ora 10:54
+Edu.ro este site-ul Ministerului Educatiei din Romania. De curand, acelasi site a inceput sa mineze criptomonede precum Bitcoin, iar situatia este una periculoasa pentru sistemul tau, nu doar rusinoasa pentru o institutie romaneasca.
+Pagina Ministerului Educatiei din Romania este accesata de catre foarte multe persoane in aceasta perioada in care ne apropiem de examenele de Bacalaureat si Evaluare Nationala. Din pacate, aceeasi pagina web iti foloseste PC-ul la minarea de criptomonede.
+Cu alte cuvinte, cineva face bani pe seama performantei PC-ului tau.
+Exista doua posibile cauze pentru acest fenomen. Ministerul Educatiei a inceput sa faca bani din criptomonede sau site-ul principal al institutiei a cazut prada unor hackeri. Ambele variante sunt ingirjoratoare.
+Un lucru este insa sigur. Daca accesezi www.edu.ro la aceasta ora, vei fi uimit sa vezi cum gradul de utilizare a procesorului de la laptop sau desktop sare la 100%. Ventilatoarele ar trebui sa devina mai zgomotoase pentru a compensa efortul la care te-ai ancorat prin vizitarea paginii web a Ministerului Educatiei.

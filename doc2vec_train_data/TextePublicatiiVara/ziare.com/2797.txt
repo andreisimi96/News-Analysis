@@ -1,0 +1,14 @@
+de Camelia Sisea
+Duminica, 17 Iunie 2018, ora 00:00
+Si echipa castigatoare a Cupei Mondiale de Fotbal este... Oamenii de stiinta incearca sa ne ofere raspunsul anticipat cu ajutorul inteligentei artificiale.
+Folosind un software de inteligenta artificiala, o baza de date cu statistici de la competitiile anterioare si mai multe tehnici de procesare a acestor statistici, dupa 100.000 de simulari ale posibilelor rezultate, o echipa formata din cercetatori de la Universitatea Tehnica din Dortmund, Universitatea Tehnica din Munchen, Germania, si Universitatea in Gent, Belgia, a ajuns la concluzia ca echipa Spaniei va lua acasa trofeul in 2018.
+Victoria va fi insa la mustata, scrie Science Alert .
+Software-ul a analizat atat forta echipelor, cat si traseul lor spre finala.
+Desi Germania este favorita la casele de pariuri in momentul de fata si ar infrange Spania intr-o confruntare directa, este mai probabil ca nemtii sa se confrunte cu adversari mai puternici pe parcursul competitiei.
+Analizand competitiile din trecut, cercetatorii au observat ca anumiti factori s-au dovedit a fi mai importanti (precum numarul jucatorilor din Liga Campionilor dintr-o echipa nationala), iar altii mai putin importanti (cum ar fi nationalitatea antrenorului echipei).
+Pe baza acestor date, software-ul a efectuat 100.000 de simulari in urma carora a reiesit ca Spania are cele mai mari sanse sa castige Cupa (17,8%), urmata indeaproape de Germania (17,1%).
+Pe urmatoarele locuri se afla Brazilia (12,3%), Franta (11,2%) si Belgia (10,4%).
+Totusi, daca Germania reuseste sa ajunga in sferturile de finala, va avea sanse egale cu ale Spaniei la trofeu. Pe de alta parte, Arabia Saudita nu are absolut nicio sansa sa ajunga in finala.
+Nu toti algoritmii de inteligenta arificiala sunt de acord cu aceste rezultate. Goldman Sachs a folosit tehnologia machine learning pentru a face propriile previziuni legate de Cupa Mondiala, noteaza Bloomberg .
+Compania a colectat date legate de caracteristicile echipelor si ale jucatorilor indiviuali, precum si de evolutiile recente ale echipelor, pe baza carora au fost efectuate un milion de simulari.
+In urma acestor simulari, a rezultat ca cea care va ridica trofeul pe 15 iulie va fi Brazilia, care va invinge Germania in finala. Bloomberg aminteste insa ca cei de la Goldman Sachs au prezis si in 2014 ca tara sud-americana va castiga Cupa, insa aceasta s-a oprit in semifinale, unde a pierdut cu 7 la 1 in fata Germaniei, campioana de acum patru ani.

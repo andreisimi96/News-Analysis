@@ -1,0 +1,11 @@
+După ce, joi, pe site-ul accesat de sute de mii de elevi și părinți, edu.ro, a fost raportat un pericol cibernetic, specialiștii vin cu precizări despre ce se întâmplă cu pagina web a Ministerului Educației Naționale.
+Redăm mai jos comunicatul CERT-RO, în care repreentanții instituțieie explică în detaliu care a fost problema, specificând că au oferit mai multe indicații pentru cei care se ocupă de securitatea paginii web a MEN.
+„Reprezentanţii Centrului Naţional de Răspundere la Incidente de Securitate Cibernetică (CERT-RO) au fost sesizaţi, în cursul zilei de ieri, cu privire la o problemă de securitatea apărută la site-ului edu.ro , care ar fi avut inserat în codul sursă un script de minare de criptomonedă.
+La scurt timp, reprezentanţii Ministerului Educației au cerut, în scris, suportul specialiștilor CERT-RO pentru remedierea cât mai urgentă și investigarea problemei de securitate.
+Imediat, o echipă de la CERT-RO, cu suportul Institutului de Cercetare în Informatică, a reușit să obțină acces rapid la site.
+În urma investigației, specialiștii CERT-RO au identificat și eliminat acel script problemă, care era utilizat pentru minarea de criptomonedă (CoinHive).
+Site-ul edu.ro folosea o variantă neactualizată de Drupral (software CMS – content management system), o vulnerabilitate exploatata de atacatori. Astfel, la vizitarea site-ului, unui utilizator îi era folosit procesorul dispozitivului utilizat la capacitate maximă.
+Echipa CERT-RO a identificat și eliminat liniile de cod inserate abuziv și a propus o serie de măsuri de securitate pe care Ministerul Educației, ca administrator al site-ului, trebuie să le pună în aplicare.
+Totodată, recomandarea echipei de specialiști a fost ca accesul la site din internet să fie suspendat până la implementarea măsurilor necesare securizării.
+Pașii necesari securizării sunt în concordanță cu alerta publicată în luna ianuarie, „ Minarea de criptomonedă ”, fiind vorba despre o nouă metodă de monetizare a atacurilor asupra site-urilor și aplicațiilor web”, se arată în comunicat.
+Pagina 1 din 1

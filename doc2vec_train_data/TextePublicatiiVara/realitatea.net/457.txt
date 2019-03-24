@@ -1,0 +1,10 @@
+Conform acetui test, alegerea unuia dintre ochii din imagine poate determina ce fel de personalitate ai. Te invităm să faci și tu testul și să descoperi ce spune despre tine.
+Ochiul 1: Eșți o extrovertită care iubește oamenii. Vezi numai binele în persoanele din jurul tău.
+Ochiul 2: Eșți o persoană care are grijă de cei din jur și căreia îi pasă. Misiunea ta este să schimbi lumea.
+Ochiul 3: Eșți o persoană pesimistă. Vezi probleme chiar și acolo unde nu sunt.
+Ochiul 4: Îți place să rezolvi problemele. Cu cât problema este mai mare, cu atât este mai amuzantă.
+Ochiul 5: Eșți un mister pentru toți cei din jurul tău. Stările tale se schimbă rapid și nu îți place să vorbești prea mult.
+Ochiul 6: Eșți sensibilă la detalii. Nimic nu îți scapă niciodată. Comunici eficient și nu îți este teamă să-ti arăți emoțiile.
+Ochiul 7: Eșți o ființă vibrantă. Focul care arde în ține ajunge câteodată să te ardă. Ești energică, însă uneori exagerată.
+Ochiul 8: Eșți autentică și reală. Spui mereu ceea ce gândești și nu dai niciodată înapoi.
+Ochiul 9: Eșți empatică. Poți citi persoanele din jurul tău că pe niște cărți deschise. Nu îți scapă nimic.

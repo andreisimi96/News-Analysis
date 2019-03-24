@@ -1,0 +1,8 @@
+Polițiștii specializați în combaterea criminalității informatice au fost sesizați despre desfășurarea unei campanii prin care se încercă fraudarea victimelor, prin sisteme informatice, în numele Poliției Române.
+“Dacă primiți un astfel de mesaj, este important să știți că este o fraudă și să nu dați curs cererii! Sesizați poliția dacă aveți calculatorul criptat sau dacă ați plătit”, transmit oamenii legii.
+De asemenea, Poliția Română recomandă să nu plătiți suma cerută pentru decriptarea fișierelor, în cazul în care calculatorul este virusat, întrucât de cele mai multe ori nu veți recapătă fișierele.
+Anunțați de îndată Poliția în cazul în care sunteți victime ale unor astfel de atacuri.
+“Vă recomandăm să faceți back-up-uri regulate ale datelor stocate pe sistemul informatic, să mențineți sistemul updatat și să instalați un program de tip antivirus.
+De asemenea, nu deschideți niciodată un atașament primit de la o persoană necunoscută sau un link neobișnuit primit pe rețelele de socializare”, mai transmite Poliția Română.
+Proiectul No More Ransom a fost lansat în iulie 2016, de poliția națională olandeză și Europol, instituția de combatere a criminalității la nivelul Uniunii Europene, cu scopul de a crește nivelul de colaborare dintre sectoarele public și privat în lupta contra ransomware.
+Pe www.nomoreransom.org, utilizatorii pot afla informații suplimentare despre ransomware și modul în care se pot feri de această amenințare.

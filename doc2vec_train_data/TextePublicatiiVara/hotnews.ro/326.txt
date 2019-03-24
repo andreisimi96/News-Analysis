@@ -1,0 +1,17 @@
+RATB a lansat licitația pentru achiziționarea sistemului de informare a călătorilor despre traseele mijloacelor de transport și timpii de așteptat în stație
+Marţi, 5 iunie 2018, 14:46 Actualitate | Administratie Locala
+Regia Autonomă de Transport București (RATB) a lansat licitația pentru achiziția unui sistem de informare a călătorilor despre traseele RATB și timpii estimați de așteptare în stație a vehiculului, potrivit site-ului de achiziții publice. Valoarea achiziției este estimată la 4.462.621 lei, iar data limită pentru depunerea ofertelor este 3 iulie 2018.
+Sistemul de informare a călătorilor, este compus din:
+- echipamente de comunicație minimum 3G cu senzor GPS montate în toate vehiculele din parcul circulant al regiei: minim 1375 buc. - maxim 1450 buc.
+- echipamente de comunicație minimum 3G cu senzor GPS de rezervă: 19 buc.
+- montarea și configurarea echipamentelor în fiecare vehicul: minim 1375 - maxim 1450.
+- proiect montaj echipamente de comunicație în vehicule avizat de RATB: 1 buc./tip vehicul
+- servere: 2 buc.
+- aplicația server cu toate componentele software și licențele aferente: 1 buc.
+- instalare și configurare echipamente și aplicații software de către Furnizor în centrul de date al achizitorului: 1 buc.
+- aplicația client pusă la dispoziție cu titlu gratuit călătorilor pentru calculul rutei optime între 2 puncte de pe rază municipiului Bucureşti: 1 buc.
+- procedura de recepție a furnizorului, agreată de achizitor
+- documente de livrare
+- școlarizarea (trainingul) personalului, la sediul achizitorului pe soluția livrată
+- orice alte echipamente, software, servicii și cerințe care decurg din caietul de sarcini
+Furnizorul se obligă să furnizeze produsele pentru „Sistem de informare a călătorilor privind traseele RATB și timpii estimați de așteptare a vehiculelor în stații”, inclusiv montajul și punerea în funcțiune, în condiţiile prezentului contract.

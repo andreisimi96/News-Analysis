@@ -1,0 +1,8 @@
+Joi, 07 Iunie 2018, ora 16:43
+Departamentul american al Apararii face pentru dezvoltarea unui sistem online destinat angajatilor care sa fie izolat de Internet, astfel incat hackerii din state precum Rusia si China sa nu mai obtina acces la reteaua proprie, informeaza CNN.
+Potrivit unui raspuns obtinut in baza Legii privind accesul la informatii publice, Pentagonul a angajat firme private care sa dezvolte un produs cu stocare pe servere externe (de tip "cloud"), astfel incat traficul online al celor aproximativ trei milioane de angajati sa fie izolat de Internet.
+In general, daca un utilizator acceseaza un link trimis de hackeri, codul infectat cibernetic se transmite apoi in intreaga retea , permitand accesarea datelor secrete sau oprirea unor functii.
+Insa, prin folosirea unui browser cu sistem de stocare externa (de tip "cloud" - n.red.), utilizatorii vor vedea doar o reprezentare video a sesiunii online, traficul desfasurandu-se pe servere din exterior. In cazul unui atac cibernetic , codurile infectate nu vor mai putea ajunge in reteaua separata a Pentagonului.
+Aceasta tehnologie "ar schimba mizele jocului", crede Steve Wallace, director tehnic al Agentiei pentru sisteme informatice a Pentagonului.
+"Ne aflam intr-o cursa impotriva adversarilor nostri si stim ca atacurile cibernetice sunt efectuate de obicei prin sistemele informatice de tip browser", explica Steve Wallace, potrivit CNN. Noul produs "ar oferi protectie fata de o gama larga de atacuri impotriva retelei Departamentului Apararii (...) ", subliniaza institutia.
+Potrivit estimarilor Agentiei pentru sisteme informatice a Pentagonului, reteaua online a Departamentului american al Apararii se confrunta zilnic cu milioane de emailuri care ar putea fi atacuri informatice.

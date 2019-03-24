@@ -1,0 +1,8 @@
+​Un nou site din România a fost atacat, pentru a mina criptomonede.
+De data aceasta, este vorba de site-ul Ministerului Educației, edu.ro . Antivirusul Avira și AdGuard , o aplicație care blochează reclamele, avertizează că site-ul folosește în prezent resursele computerelor de pe care este accesat pentru a mina criptomonede.
+Antivirusul dă alertă de securitate la accesarea edu.ro , precizând că a blocat un fișier folosit în minarea de criptomonede.
+Oricine are instalată aplicaţia AdGuard va primi, la accesarea paginii online a Ministerului Educației, următorul avertisment: " edu.ro afișează mesajul: " AdGuard has detected an attempt by this website tu use your browser as a crypto-currency miner. It can create significant CPU load. Press 'Cancel' to prevent it."
+Dezactivarea aplicației AdGuard arată cum la accesarea edu.ro gradul de folosire a procesorului PC-ului sare instant la 100%, lucru care ar fi imposibil dacă în spatele site-ului nu s-ar afla un script care să folosească resursele dispozitivului de pe care este accesat site-ul, notează hotnews.ro.
+Mai mult, dacă este verificat codul sursă al paginii www. edu.ro , se poate observa că acesta conține linkuri către site-uri de escorte din Turcia, mai scrie sursa citată.
+Experţii CERT-RO (Centrul National de Raspuns la Incidente de Securitate Cibernetica) au avertizat în luna ianuarie a acestui an că pe aproximativ 150 de domenii de internet .ro este folosit un cod care generează criptomoneda Monero, încetinind funcționarea dispozitivelor utilizatorilor.
+"În ultima perioadă, o serie de site-uri românești, dar nu numai, au fost compromise prin inserarea unor script-uri care utilizează puterea de procesare a dispozitivelor utilizatorilor pentru minarea de criptomonede", avertizau specialiştii.

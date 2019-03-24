@@ -1,0 +1,4 @@
+O problemă de logică aparent simplă este rezolvată, se spune, de numai 1 din 23 de milioane de oameni.
+Iată enunţul şi, mai apoi rezolvarea:
+Dacă 2+3=10, 8+4=96, 7+2=63 şi 6+5=66, după acelaşi raţionament cu cât este egal 9+5?
+Regula este simplă: Cele două numere se adună, apoi suma se înmulţeşte cu primul număr, astfel obţinându-se numărul final. Astfel, 2+3=5, iar 5x2=10. După acelaşi raţionament, 9+5=14, iar 14x9=126.

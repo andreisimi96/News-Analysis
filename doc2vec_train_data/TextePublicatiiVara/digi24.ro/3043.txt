@@ -1,0 +1,5 @@
+Aluat de biscuiţi făcut la imprimanta 3D. Este posibil, datorită unei tehnici dezvoltate in Statele Unite, care permite să printarea materialelor vâscoase.
+Nu doar produse alimentare se pot face la imprimanta tridimensională. Ci şi combustibil solid pentru rachete sau coroniţe dentare, care să se potrivească perfect fizionomiei pacientului.
+Inginerii Universităţii Purdue au aplicat pe duza imprimantei vibraţii ultrasonice cu amplitudine înaltă, care să reducă frecarea cu pereţii. Astfel au reuşit să imprime obiecte cu precizie de 100 de microni.
+Cea mai mare provocare a fost să tipărească probe de combustibil solid, pentru că materialul foarte vâscos se întărea repede şi se bloca în capătul de printare.
+Dar au reuşit să îl facă să se scurgă fără probleme şi să fie la fel de inflamabil. Iar partea cea mai bună este că specialiştii pot controla trendul de ardere al combustibilului solid.

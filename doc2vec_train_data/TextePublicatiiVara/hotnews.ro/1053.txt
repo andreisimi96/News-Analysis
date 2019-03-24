@@ -1,0 +1,8 @@
+Marţi, 12 iunie 2018, 16:24 Economie | IT
+Aplicatia La Liga
+Foto: Google Play
+​Aplicația de Android La Liga a fost intens criticată după ce s-a aflat că activează microfonul smartphone-ului și face înregistrări audio pentru a depista dacă meciurile de fotbal sunt transmise legal. Folosind și date despre locul exact în care se uită user-ul la un meci din Liga Spaniolă, aplicația compară datele și verifică dacă barul respectiv a plătit taxa de licență pentru a a transmite partidele.
+Oficialii La Liga spun că aplicația face înregistrări audio pentru a depista stream-uri pirat.
+Aplicația folosește un algoritm pentru a determina dacă user-ul urmărește un meci din La Liga și, putând determina locul exact, caută în baza de date pentru a vedea dacă barul a plătit licența de transmisie.
+După ce au apărut primele informații despre aplicație mai mulți utilizatori au acordat punctajul minim de o stea din cinci pe magazinul Google Play, scriind că este vorba de a o aplicație spion.
+La Liga a răspuns temerilor explicând că aplicația cere permisiunea user-ilor pentru a folosi microfonul și GPS-ul telefonului și că le reamintește periodic user-ilor de această funcție. În plus, funcțiile de geolocație și înregistrare sunt folosite doar în timpul meciurilor La Liga.

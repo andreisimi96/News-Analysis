@@ -1,0 +1,26 @@
+7 iunie 2018, 10:58
+Suntem în anul 2018. Facebook tocmai a “depăşit” un scandal legat de confidenţialitatea datelor, în România e o discuţie pe tema unui număr de 311.000 de autorizaţii de interceptare emise de SRI. Uniunea Europeană printr-o lege din aprilie 2016, GDPR (General Data Protection Regulation), intrată în vigoare în 25 mai 2018, încearcă, în teorie, să ne ajute.
+Nu am pretenţia de a epuiza subiectul şi nici nu pot garanta că urmând aceşti paşi devii “invizibil” online. Eşti doar puţin mai protejat. Aşa că:
+1. Cumpără un smartphone şi un card de date second hand
+2. Android (de la 6.0 în sus) pentru că sunt mai prietenoase cu permisiunile.
+3.Cumpără cu bani gheaţă cartelă SIM prepay
+4. Fă backup sistemului în forma iniţială
+5.Dacă ai abilităţi tehnice fă root (operaţie prin care se obţin drepturi totale de administrare) pe smartphone
+6. Dezinstalează sau dezactivează aplicaţiile inutile
+7. Dezinstalează sau dezactivează aplicaţiile pentru Wireless, Bluetooth, GPS, opţional microfon
+8. Acoperă camerele foto
+9. Foloseste telefonul inteligent fără cont de Google, sau alte conturi
+10. Dacă totuşi foloseşti anumite servicii cu user şi parolă încearcă s-o faci prin browser, nu prin aplicaţiile dedicate.
+11. Foloseşte aplicaţii din pieţe alternative , care nu cer drepturi, sau care cer cât mai puţine drepturi asupra dispozitivului
+12. Foloseste aplicaţiile de navigare pe net sau comunicaţii prin VPN (Virtual Private Connection)
+13. Nu conecta dispozitivul smart la computer sau la alte dispozitive personale
+14. Ţine dispozitivul în mod avion, sau închis, atât timp cât nu-l foloseşti.
+15. Când vrei să-l foloseşti mergi în locuri publice aglomerate
+16. După 3-6 luni aruncă-l şi ia-o de la început.
+Trebuie să înţelegi că aceste metode nu sunt perfecte şi că folosindu-le intri pe un teren “nesigur”.
+Care sunt riscurile tehnice apelând la paşii de mai sus:
+1. Pierzi garanţia dacă faci root pe smartphone. Există şi cazuri în care poţi face unroot şi în service să nu fie detectată operaţia. Dar nu te baza pe asta.
+2.  În timpul operaţiei de root aparatul se poate strica ( brick ).
+3. Ştergând aplicaţii din smartphone pe care care nu le cunoşti şi nu ştii ce fac, poţi strica temporar dispozitivul, resetarea şi/sau reinstalarea ar trebui să rezolve problema.
+4.  Descărcând şi instalând aplicaţii din altă parte decât din Google Play te poţi virusa, dar dacă nu ai nici o informaţie personală stocată nu contează, îl resestezi şi gata.
+Nu sunt expert în securitate informatică, sunt pasionat de tehnologie, am citit, am testat, am greşit, am plătit. Asta e valabil şi pentru cei care urmează paşii din acest articol. Răspunderea pentru ce faceţi cu banii, dispozitivul vostru inteligent, sau în spatele anonimităţii, vă aparţine.

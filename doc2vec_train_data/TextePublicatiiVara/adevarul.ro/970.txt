@@ -1,0 +1,16 @@
+4 iunie 2018, 12:32
+FOTO via BGR.com
+Cei mai mulţi dintre utilizatorii de smartphone-uri sunt fideli unui  sistem de operare, însă nu e nimic greşit în a-ţi dori o schimbare după  ceva vreme. Poate te-ai plictisit de Android sau poate ai auzit că iOS  se potriveşte mai bine cu noul tău laptop Apple. Indiferent de motiv, este  destul de uşor să faci trecerea de la smartphone-ul tău Android la un  iPhone, cu tot cu date, poze şi aplicaţii.
+În curând, iPhone-urile vor fi capabile să deschidă uşi şi să porneasc...
+Pasul 1: Backup
+Pănă să renunţi la telefonul Android trebuie să te asiguri că toate datele tale sunt salvate şi în siguranţă. Va trebui să mergi în setările smartphone-ului, şi să alegi opţiunea ”Backup & Reset”. Odată ajuns în respectivul submeniu, trebuie să te asiguri că backup-ul este activ.
+Pasul 2: Pozele
+Pentru a nu pierde nici o amintire, trebuie să ai grijă ca aplicaţia Gogle Photos să fie sincronizată la zi cu toate pozele din telefonul tău. Astfel, ele se vor duce în cloud şi vor fi păstrate în siguranţă pentru a fi descărcate pe noul terminal iOS.
+Pasul 3: Primul contact cu iOS
+De îndată ce ai pornit prima oară noul tău iPhone vei fi introdus într-un proces de setup al telefonului, unde trebuie să îţi creezi un cont iCloud şi să alegi câteva setări de siguranţă. În timpul acesotr operaţiuni, ai grijă ca ambele telefoane să fie cuplate la încărcătoarele lor.
+Pasul 4: Aplicaţia ”Move to iOS”
+Pentru a fi mai simplu pentru utilizatorii care vor să facă trecerea, Apple a pus la dispoziţie aplicaţia ”Move to iOS”, pe care o găseşti în Play Store. O vei descărca şi instala, după care te vei muta înapoi la iPhone. În procesul de setup, terminalul Apple te va întreba dacă vrei să imporţi date direct din telefonul vezhi. Acolo, trebuie să alegi opţiunea ”Move Data from Android”. Mai departe, vei primi un cod de 12 cifre, pe care va trebui să îl introduci în aplicaţia pe care tocmai ai instalat-o pe telefonul Android.
+Pasul 5: Transferul
+Dacă ai urmat cu atenţie paşii de mai sus, transferul ar trebui să pornească în mod automat. Repet, ai grijă ca ambele telefoane să fie cuplate la o sursă de curent, pentru a evita surprize neplăcute. Nu te speria dacă transferul durează mult, totul depinde de cantitatea de informaţie pe care o iei cu tine de pe o platformă pe cealaltă.
+Pasul 6: Aplicaţiile
+Din păcate, aplicaţia Apple nu transferă în mod automat şi aplicaţiile pe care le aveai pe Android şi va trebui să le descarci manual din AppStore, cu ajutorul noului cont de iCloud, proaspăt creat. Odată finalizat procesul, nu mai rămâne decât să te bucuri de tot ce are de oferit noul tău iPhone.

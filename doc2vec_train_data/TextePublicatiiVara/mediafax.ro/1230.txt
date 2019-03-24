@@ -1,0 +1,4 @@
+LIFE-INEDIT astăzi, 14:50
+Campionatul Mondial de Fotbal 2018 a început, iar motanul Ahile a prezis deja corect câştigătoarea din primul meci, Rusia vs Arabia Saudită (scor 5 - 0). Mai mult, în 2010 caracatiţa Paul a ales echipa câştigătoare în 12 din 14 meciuri la World Cup. Acum, în 2018, avem la dispoziţie şi unelte high-tech care pot prezice cine va câştiga CM 2018.
+Un grup de cercetători din Germania şi Belgia a folosit un robot bazat pe AI care a agregat date din multe surse - precum locul în clasamentul FIFA al unei echipe, populaţia ţării, PIB-ul,   informaţii despre jucători - pentru a vedea ce ţară are cele mai mari şanse să câştige Rusia 2018.
+După 100.000 de simulări, algoritmii au răspunsul: câştigătoarea va fi, cel mai probabil, Spania. Următoarele echipe alese de AI, enumerate descrescător în funcţie de şansele pe care e au de a   câştiga World Cup 2018, sunt: Germania, Brazilia, Franţa, Belgia (o surpriză, am spune) sau Argentina. 

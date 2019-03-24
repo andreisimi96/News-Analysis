@@ -1,0 +1,14 @@
+Sandra Alexiu, presedintele Asociației medicilor de familie București-Ilfov, scrie într-o postare pe Facebook despre noile probleme care au apărut cu sistemul electronic al CNAS.
+"Va rugam sa evitati sa va imbolnaviti, deoarece casele evita sa mai tipareasca la timp bilete de trimitere (obligatorii, fara ele nu putem trai nici medicii de familie, nici cei din ambulatorii si spitale, nici macar la băi nu puteti merge), manevre de evitare sunt procesate in inregistrarea semnaturilor electronice ale furnizorilor de servicii medicale (obligatorii, fara ele nu putem consulta) in plus este de evitat si sa facem raportari de servicii ca sa nu deranjam sistemul informatic care e putin in burnout!
+În cursul monitorizării aplicației SIUI, echipa SIVECO a constatat anumite disfuncționalități (*) care au drept cauză baza de date Oracle care deservește sistemul SIUI. E posibil ca baza să nu mai răspundă la interogări în viitorul imediat următor. Este posibil ca blocarea SIUI să fie urmată și de blocarea SIPE.
+De obicei asemenea incidente au ca efect numeroase reîncercări de trimitere a raportărilor, din partea tuturor furnizorilor, care însă cresc congestia bazei de date și agravează problema.
+Pentru a veni în sprijinul furnizorilor de servicii medico-farmaceutice, și pentru a decongestiona sistemul PIAS al CNAS facem următoarele recomandări:
+1) evitarea trimiterii repetate a raportărilor de servicii medicale și farmaceutice, în caz de eroare
+2) evitarea trimiterii aceleiași raportări de servicii medicale și farmaceutice, de mai multe ori, la intervale mai mici de o oră
+3) folosirea unui interval orar mai puțin aglomerat pentru trimiterea raportărilor de servicii medicale și farmaceutice
+(*) Constatările concrete la nivelul SIUI:
+O serie de funcționalități nu operează corect la nivelul interfeței SIUI a CJAS/CNAS:
+1) - nu se pot înregistra certificate digitale noi pentru furnizorii de servicii medicale și farmaceutice
+2) - un set de peste 20 de selectoare din interfața SIUI nu se pot deschide
+3) - nu se pot rula peste 150 de rapoarte din aplicație
+La nivelul furnizorilor de servicii medicale și farmaceutice, cel mai probabil, sistemul SIUI răspunde cu dificultate. În mod cert, acei furnizori, cărora le-au expirat certificatele digitale, sunt în imposibilitatea de a se conecta la platforma PIAS.", a scris Sandra Alexiu pe pagina ei de Facebook.

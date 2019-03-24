@@ -1,0 +1,21 @@
+Meteorologii au emis o avertizare cod galben de vreme rea în următoarele ore. 
+COD GALBEN DE VREME REA
+Valabil de la : 01-06-2018 ora 15:25 până la : 01-06-2018 ora 16:30
+In zona : Județul Cluj: zona de munte de peste cota 1800 m;
+Județul Cluj: Poieni, Călățele, Mănăstireni, Mărgău, Sâncraiu, Săcuieu, Beliș;
+Se vor semnala : ploi cu caracter de aversă care vor cumula local 25 /mp, grindină de dimensiuni mici, descărcări electrice.
+Valabil de la : 01-06-2018 ora 15:10 până la : 01-06-2018 ora 16:00
+In zona : Județul Călăraşi: Călărași, Modelu, Roseți, Jegălia, Unirea, Dichiseni;
+Se vor semnala : frecvente descărcări electrice, grindină de mici dimensiuni
+Fenomene asociate : averse ce vor cumula 20...25 l/mp, intensificări ale vântului. 
+Valabil de la : 01-06-2018 ora 14:40 până la : 01-06-2018 ora 16:00
+In zona : Județul Vâlcea: zona de munte;
+Județul Gorj: zona de munte;
+Se vor semnala : frecvente descărcări electrice, averse care vor depăşi 20-25 l/mp
+Fenomene asociate : grindină de mici dimensiuni, intensificări de scurtă durată ale vântului.
+Valabil de la : 01-06-2018 ora 14:30 până la : 01-06-2018 ora 15:30
+In zona : Județul Hunedoara: Densuș, Răchitova, Lunca Cernii de Jos;
+Județul Caraş-Severin: : zona de munte de peste cota 1800 m;
+Județul Caraş-Severin: Zăvoi, Slatina-Timiș, Armeniș, Băuțar, Bolvașnița, Marga;
+Se vor semnala : averse de ploaie care vor cumula 20-25 l/mp, grindină de dimensiuni mici
+Fenomene asociate : descărcări electrice.

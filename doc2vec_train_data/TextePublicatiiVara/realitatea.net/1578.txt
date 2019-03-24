@@ -1,0 +1,41 @@
+Administrația Națională de Meteorologie a emis mai multe atenţionări nowcasting de COD PORTOCALIU şi GALBEN de vreme extremă, în mai multe judeţe ale ţării.
+COD : GALBEN Valabil de la : 10-06-2018 ora 14:10 până la : 10-06-2018 ora 16:00
+In zona : Județul Harghita: Miercurea Ciuc, Zetea, Ciucsângeorgiu, Frumoasa, Sânsimion, Plăieșii de Jos, Cârța, Siculeni, Mihăileni, Tomești, Ciceu, Sânmartin, Sâncrăieni, Dănești, Mădăraș, Tușnad, Sântimbru, Cozmeni, Leliceni, Păuleni-Ciuc, Racu;
+Județul Sibiu: zona de munte;
+Se vor semnala : Averse care local vor cumula 25 l/mp, frecvente descărcări electrice, grindină de dimensiuni mici, intensificări de scurtă durată ale văntului.
+COD : GALBEN Valabil de la : 10-06-2018 ora 14:10 până la : 10-06-2018 ora 15:10
+In zona : Județul Suceava: zona de munte;
+Județul Neamţ: Bicaz-Chei, Bicazu Ardelean, Tarcău, Dămuc, Tașca;
+Se vor semnala : Averse locale ce vor atinge 20...25 l/mp, grindină de dimensiuni mici, frecvente descărcări electrice, intensificări de scurtă durată ale vantului.
+COD : GALBEN Valabil de la : 10-06-2018 ora 14:00 până la : 10-06-2018 ora 15:00
+In zona : Județul Cluj: Huedin, Poieni, Călățele, Negreni, Măguri-Răcătău, Mănăstireni, Mărgău, Sâncraiu, Săcuieu, Mărișel, Ciucea, Rișca, Izvoru Crișului, Beliș;
+Județul Cluj: zona de munte de peste cota 1800 m;
+Se vor semnala : Averse care local vor cumula 25...30 l/mp, frecvente descărcări electrice, grindină de dimensiuni mici, intensificări de scurtă durată ale vântului.
+COD : GALBEN Valabil de la : 10-06-2018 ora 13:50 până la : 10-06-2018 ora 15:00
+In zona : Județul Bihor: Bratca, Șuncuiuș, Bulz;
+Se vor semnala : averse care vor cumula 25...30 l/mp, descărcări electrice, grindină de dimensiuni mici, intensificări de scurtă durată ale vântului
+Observatii : Sistemele noroase sunt cvasistaționare
+COD : PORTOCALIU Valabil de la : 10-06-2018 ora 13:50 până la : 10-06-2018 ora 14:50
+In zona : Județul Braşov: : zona de munte de peste cota 1800 m;
+Județul Braşov: Zărnești, Predeal, Bran, Moieciu, Poiana Mărului, Recea, Hârseni, Lisa, Sâmbăta de Sus, Fundata;
+Se vor semnala : Averse torențiale care vor cumula 35-40 l/mp, frecvente descărcări electrice, grindină de dimensiuni mici, intensificări de scurtă durată ale văntului
+Observatii : Sistemele noroase se deplasează cu viteză redusă sau sunt staționare
+COD : GALBEN Valabil de la : 10-06-2018 ora 13:40 până la : 10-06-2018 ora 15:00
+In zona : Județul Maramureş: Baia Sprie, Copalnic-Mănăștur, Cavnic, Șisești, Dumbrăvița, Ocna Șugatag, Cernești, Budești, Giulești, Călinești, Băiuț, Desești;
+Se vor semnala : Averse care local vor cumula 25...30 l/mp, frecvente descărcări electrice, grindină de dimensiuni mici, intensificări de scurtă durată ale vântului.
+COD : GALBEN Valabil de la : 10-06-2018 ora 13:00 până la : 10-06-2018 ora 15:00
+In zona : Județul Prahova: zona de munte;
+Județul Argeş: zona de munte;
+Județul Dâmboviţa: zona de munte;
+Județul Buzău: zona de munte;
+Se vor semnala : Averse locale ce vor cumula 25...30 l/mp, frecvente descărcări electrice, intensificări de scurtă durată ale vântului, căderi izolate de grindină - de mici dimensiuni
+Observatii : Sistemele noroase se deplasează cu viteză foarte redusă ori sunt relativ staționare
+COD : GALBEN Valabil de la : 10-06-2018 ora 12:55 până la : 10-06-2018 ora 14:45
+In zona : Județul Braşov: : zona de munte de peste cota 1800 m;
+Județul Braşov: Brașov, Săcele, Zărnești, Râșnov, Predeal, Bran, Moieciu, Vulcan, Cristian, Poiana Mărului, Recea, Vama Buzăului, Viștea, Lisa, Sâmbăta de Sus, Holbav, Fundata;
+Județul Covasna: Covasna, Întorsura Buzăului, Zagon, Sita Buzăului, Barcani, Dobârlău, Valea Mare, Comandău;
+Județul Harghita: Gheorgheni, Bălan, Praid, Sândominic, Zetea, Lunca de Jos, Tulgheș, Lunca de Sus, Corbu, Vărșag;
+Județul Mureş: : zona de munte de peste cota 1800 m;
+Județul Mureş: Ibănești, Eremitu, Lunca Bradului, Răstolița, Stânceni;
+Se vor semnala : Averse locale care vor cumula 25-30 l/mp, frecvente descărcări electrice, grindină de dimensiuni mici și medii
+Fenomene asociate : intensificări de scurtă durată ale văntului

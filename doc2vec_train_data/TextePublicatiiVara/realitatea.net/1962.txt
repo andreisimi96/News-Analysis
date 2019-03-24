@@ -1,0 +1,59 @@
+6. 3 5p
+Barem Evaluare Nationala Matematica 2018. S-a publicat Baremul la matematică 2018:
+Barem matematica 2018 edu.ro. Subiectul II:  La punctul 5, elevii au primit un paralelipiped dreptunghic şi au avut de calculat volumul paralelipipedului.
+Paralelipipedul este un corp geometric format din șase paralelograme ce aparțin unor trei serii de plane paralele. Acesta constituie un caz particular de prismă.
+Barem matematica 2018 edu.ro. Calculul volumului paralelipipedului dreptunghic
+Volumul paralelipipedului dreptunghic cu muchii avand lungimi egale cu numere naturale este egal cu produsul lungimilor celor trei muchii ce pornesc dintr-un varf.
+Barem matematica 2018 edu.ro. Volumul paralelipipedului = lungimea x lăţimea x înălţimea
+V: L x L x Î
+Volumul piramidei: V = Ab*h/3. Barem matematică 2018 Evaluare Naţională. Subiecte rezolvate
+Barem matematica 2018 edu.ro. În scurt timp, vom afişa baremul de corectare la matematica Evaluare Naţională 2018. Până atunci, iată subiectele la matematică şi câteva rezolvări.
+Barem matematica 2018 edu.ro. La Subiectul I, elevii au avut de rezolvat o serie de exerciţii simple. Elevii trebuia să scrie pe foaie doar rezultatele. 
+Printre acestea menţionăm:
+Barem matematica 2018 edu.ro. Cât fac 30-30:10=? Barem Evaluare Naţională Matematică 2018
+2. Zece caiete de acelaşi fel costă 40 de lei. Cinci dintre acestea costă....lei.
+3. Dacă A= {1,2,3,4}, B= {1,3,x} şi A u B (reuniunea) = {1,2,3,4,5}, atunci numărul x este efal cu....
+4. Un trapez are baza mare de 12 cm şi baza mică de 8 cm. Linia mijlocie a acestui trapez are lungumea egală cu....cm.
+5. La punctul 5, elevii au primit un paralelipiped dreptunghic şi au avut de calculat volumul paralelipipedului.
+6. La punctul 6, elevii au avut de calculat media aritmetică a unor temperaturi prezentate într-un tabel.
+Barem matematica 2018 edu.ro. Subiectul al II-lea
+1. Elevii au avut de desenat un cub
+2. Elevii au trebuie să arate că un număr natural este divizibil cu 17
+3. Mai mulţi elevi vor să cumpere împreună materiale pentru un proiect şcolar. Dacă fiecare elevi contribuie cu câte 20 de lei, mai sunt necesari 20 de lei pentru cumpărarea materialelor, iar dacă ficare contribuie cu câte 25 de lei, rămân 5 lei după cumpărarea materialelor. Determinaţi suma necesară pentru cumpărarea materialelor.
+4. La punctul 4, elevii au avut de reprezentat grafic o funcţie şi să calculeze distanţa de la un punct la graficul funcţiei.
+5. La punctul 5, elevii au avut de rezolvat o expresie.
+Barem matematica 2018 edu.ro. Subiectul al III-lea
+1. Elevii au avut o figură geometrică care cuprindea un triunghi echilateral şii unul isoscel şi au avut de calculat o serie de unghiuri, să demonstreze că alte două triunghiuri sunt congruete, precum şi o arie
+2. Elevii au avut o piramidă triunghiulară dreptunghiulară la care trebuia să calculeze perimetrul bazei piramidei triunghiulare şi volumul piramidei.
+În geometrie, o piramidă este un poliedru format prin conectarea unei suprafețe poligonale (numită bază) cu un punct (numit vârf) prin intermediul unor linii.
+Barem matematica 2018 edu.ro. O piramidă care are toate fețele formate din triunghiuri echilaterale se numește tetraedru regulat. Pot fi mai multe tipuri de piramide după natura bazei:
+triunghiulară, cu baza triunghi
+pentagonală, cu baza pentagon
+hexagonală, cu baza hexagon
+Piramida prezintă mai multe tipuri de apotemă: a poligonului care formează baza și cea propriu-zisă a piramidei care este apotemă fețelor laterale triunghi echilateral în cazul unei piramide regulare.
+Apotema piramidei este ipotenuză in triunghiul dreptunghic format de înălțimea piramidei, apotema bazei și apotema piramidei. Așadar folosind teorema lui Pitagora in acest triunghi dreptunghic se poate afla lungimea apotemei piramidei ca radical din suma pătratelor lungimilor catetelor acestui triunghi dreptunghic al apotemelor și înălțimii.
+Barem matematica 2018 edu.ro. Volum : V = Ab*h/3
+Volumul piramidei este o treime din volumul cubului cu latură de lungime egală cu muchia piramidei. Demonstrarea acestui enunț necesită folosirea principiului lui Bonaventura Cavalieri.
+Barem matematica 2018 edu.ro. Mulţi elevi au greşit primul exerciţiu la matematică - Evaluare Naţională 2018. Înmulţirea şi Împărţirea sunt operaţii de de ordinul II. Într-un exerciţiu fără paranteze, se efectuează întâi înmulţirile şi împărţirile , în ordinea în care sunt scrise; apoi adunările şi scăderile, în ordinea în care sunt scrise.
+Aşadar, la primul exerciţiu de la matematică la Evaluarea Naţională 2018 trebuia, prima dată, efectuată împărţirea, deci 30:10, adică 3 şi după aceea 30-3, rezultatul corect fiind 27.
+Barem matematica 2018 edu.ro. Baremul de corectare la Matematică 2018 Evaluare Naţională va fi publicat pe edu.ro şi pe realitatea.net la ora 15:00.
+Dacă într-un exerciţiu sunt folosite paranteze rotunde, atunci efectuăm întâi operaţiile din paranteze după care efectuam restul operaţiilor în ordinea în care sunt scrise.
+Barem matematica 2018 edu.ro. Dacă într-un exerciţiu sunt folosite paranteze rotunde si paranteze pătrate atunci efectuăm întâi operaţiile din parantezele rotunde după care efectuăm operaţiile din parantezele pătrate, iar la final efectuăm restul operaţiilor în ordinea în care sunt scrise.
+Dacă într-un exerciţiu sunt folosite paranteze rotunde, paranteze pătrate şi acolade atunci efectuăm întâi operaţiile din parantezele rotunde, după care efectuăm operaţiile din parantezele pătrate, apoi operaţiile din acolade, iar la final efectuăm restul operaţiilor în ordinea în care sunt scrise.
+Barem matematica 2018 edu.ro. Iată subiectele:
+Luni, 11 iunie, elevii de clasa a 8-a au susţinut examenul la Română.  Consultă AICI subiectele şi baremul la Evaluarea Naţională 2018
+Barem matematica 2018 edu.ro. Primele rezultate la Evaluare Naţională 2018 vor fi afișate pe 19 iunie, până la ora 12:00, iar în aceeași zi se pot depune contestații în intervalul orar 14:00 - 19:00. Rezultatele finale vor fi afișate pe 23 iunie.
+Calendarul rezultatelor la Evaluarea Naţională 2018:
+19 iunie 2018: Afişarea rezultatelor înaintea contestaţiilor (până la ora 12:00)
+9 iunie 2018: Depunerea contestaţiilor (orele 14:00 – 19:00)
+20-22 iunie 2018: Soluţionarea contestaţiilor
+Barem matematica 2018 edu.ro.  Iată subiectele şi baremul de corectare la Română Evaluare Naţională 2018
+Barem matematica 2018 edu.ro. Cum se depun contestaţiile la Evaluare Naţională 2018?
+Barem matematica 2018 edu.ro.  Pentru a depune contestaţie pentru nota la Evaluarea Naţională, elevii trebuie să completeze o cerere adresată preşedintelui comisiei de contestaţii în care vor cere reexaminarea lucrării. Candidatul major şi părinţii/reprezentanţii legali ai candidatului minor pot solicita comisiei judeţene/a municipiului Bucureşti de organizare a evaluării naţionale să vadă lucrarea/lucrările proprie/proprii a/ale propriului copil numai după afişarea rezultatelor finale după contestaţii. La vizualizarea lucrării/lucrărilor, candidatul minor trebuie să fie însoţit obligatoriu de un părinte/reprezentant legal.
+În procesul de evaluare iniţială a lucrărilor scrise şi de rezolvare a contestaţiilor, în cazul în care diferenţa dintre notele celor doi evaluatori este de cel mult 0,50 puncte, notele obţinute se trec, pe fiecare lucrare în parte, cu cerneală roşie, de către profesorii evaluatori, după ce este verificată concordanţa cu borderourile individuale, şi se semnează de aceştia. Nota finală se trece pe lucrare, în prezenţa profesorilor evaluatori, de către preşedintele comisiei. Preşedintele comisiei calculează nota finală, ca medie aritmetică cu două zecimale a notelor acordate de evaluatori, fără rotunjire şi semnează.
+Barem matematica 2018 edu.ro. În cazul în care diferenţa între notele acordate de cei doi evaluatori este mai mare de 0,50 puncte, lucrarea va fi recorectată de alţi doi profesori evaluatori numiţi de preşedintele comisiei. Nota rezultată în urma reevaluării este nota care se trece pe lucrare şi reprezintă nota finală. Sub notă semnează cei patru evaluatori şi preşedintele comisiei. Numărul pachetului şi numărul de ordine al lucrărilor care necesită a treia evaluare sunt consemnate într-un proces-verbal, semnat de cei amintiţi anterior.
+După încheierea evaluării şi deschiderea lucrărilor, preşedintele comisiei de contestaţii analizează notele acordate după reevaluare, în comparaţie cu cele acordate iniţial. În situaţia în care se constată diferenţe de notare mai mari de 1 punct, în plus sau în minus, între notele de la evaluarea iniţială şi cele de la contestaţii, preşedintele comisiei de contestaţii numeşte o a treia comisie formată din alţi doi profesori cu experienţă, alţii decât cei care au evaluat iniţial lucrările în centrul de contestaţii. Reevaluarea se va face după o nouă secretizare a lucrărilor, respectând cu stricteţe baremul de evaluare şi toate procedurile de evaluare. Nota acordată de a treia comisie este nota finală a comisiei de contestaţii.
+Nota definitivă, acordată în conformitate cu procedura menţionată nu mai poate fi modificată şi reprezintă nota obţinută de candidat la proba respectivă.
+Barem matematica 2018 edu.ro. Peste 150.000 de absolvenţi de clasa a VIII-a au participat la Evaluarea Naţională, sesiunea 2018. Conform datelor centralizate de Ministerul Educaţiei Naţionale (99,69%),, în aplicația informatică figurau 150.310 candidați înscriși la Evaluarea Națională pentru elevii claselor a VIII-a (EN VIII).
+Examenul a început luni, 11 iunie, cu proba scrisă la Limba și literatura română. Miercuri, 13 iunie, a fost organizată proba la Matematică, iar joi, 14 iunie, proba la Limba și literatura maternă. Notele vor fi afișate pe 19 iunie, până la ora 12:00, iar în aceeași zi se pot depune contestații în intervalul orar 14:00 - 19:00. Rezultatele finale vor fi afișate pe 23 iunie.
+Barem matematica 2018 edu.ro. Evaluarea Naţională se desfăşoară, anual, într-o singură sesiune. Media generală obținută în cadrul EN VIII are o pondere de 80% în calculul mediei pe baza căreia se realizează admiterea în clasa a IX-a.

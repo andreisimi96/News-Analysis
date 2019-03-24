@@ -1,0 +1,11 @@
+Sâmbătă, 26 mai 2018, 14:02 Actualitate | Internaţional
+Insigna si arma FBI
+Foto: Wikimedia Commons
+FBI a avertizat vineri că hackeri din Rusia au compromis sute de mii de routere din locuinţe şi birouri şi că ar putea colecta informaţii ale utilizatorilor sau ar putea bloca traficul de internet prin reţele, transmite Reuters, citat de News.ro.
+Agenţia americană a cerut proprietarilor mai multor branduri de routere să le închidă şi să le deschidă din nou şi să descarce actualizări software ale producătorilor, pentru a se proteja.
+Avertismentul a fost făcut în urma unui ordin judecătoresc de miercuri, care a permis FBI să confişte un site pe care hackerii intenţionau să îl folosească pentru a da instrucţiuni routerelor infectate. Chiar dacă măsura a întrerupt  comunicarea maliţioasă cu dispozitivele respective, acestea au rămas totuşi infectate, iar avertismentul de vineri a avut rolul de a curăţa routerele de virus.
+Infectarea a fost detectată în peste 50 de ţări, dar ţinta principală a fost probabil Ucraina, care este de mult timp ţinta atacurilor cibernetice.
+Pentru obţinerea ordinului judecătoresc, Departamentul de Justiţie a afirmat că hackerii implicaţi sunt un grup numit Sofacy, subordonat guvernului rus.
+Sofacy, care mai este cunoscut ca APT28 sau Facy Bear, a fost învinuit de multe dintre cele mai importate atacuri cibernetice provenite din Rusia, inclusiv cel efectuat împotriva Comitetului Democrat Naţional, în timpul campaniei prezidenţiale din 2016.
+Cisco Systems a anunţat anterior că atacurile de hacking au avut ca ţinte dispozitive fabricate de Linksys, MikroTik, Netgear, TP-Link şi QNAP.
+Un oficial al FBI a declarat că dispozitele afectate de atacul cibernetic au fost cumpărate de utilizatori din magazine sau online, dar nu a exclus să fi fost afectate şi routere oferite clienţilor de companiile care oferă servicii de internet.
