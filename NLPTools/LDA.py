@@ -30,7 +30,7 @@ class LDAWrapper():
         self.ldaModel = gensim.models.LdaModel(self.corpus, num_topics = 100, alpha='asymmetric', id2word = self.dictionary, passes = 50)
         self.ldaModel.save('lda_model')
         
-    #visualization
+    #visualization with pyLDAvis map
     def visualize(self):
         print(os.getcwd())
         p = pyLDAvis.gensim.prepare(self.ldaModel, self.corpus, self.dictionary)

@@ -1,5 +1,9 @@
 #Andrei Simion 2018
 
+#add paths
+import sys
+sys.path.append("./NLPTools")
+
 from articleWrapper import *
 from doc2vec import doc2VecWrapper
 from LDA import LDAWrapper
@@ -62,6 +66,6 @@ if __name__ == "__main__":
     #cleanArticleFolder(articleTrainFolder)
 
     """processing steps"""
-    lda(articleTrainFolder)
+    #lda(articleTrainFolder)
     #doc2Vec(articleTrainFolder)
 

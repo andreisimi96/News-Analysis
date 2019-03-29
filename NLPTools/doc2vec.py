@@ -12,6 +12,7 @@ from gensimAux import lemmaDict, stopwords
 from articleWrapper import loadArticles
 
 #doc2vec params
+#tune them according to needs
 windowSize = 6
 vectorSize = 200
 
@@ -21,7 +22,7 @@ class doc2VecWrapper():
         self.docList = []
         self.docLabels = []
         self.d2vModel = None
-        #check C compiler for speedy results
+        #check C compiler for speedy results (also watch out for blas and lapack)
         #consider using anaconda environment if this returns != 1
         print(gensim.models.doc2vec.FAST_VERSION)
 
@@ -60,12 +61,14 @@ class doc2VecWrapper():
 
         print("finished taking docs, starting training")
 
-    #mode can be either dm(1) or dbow(2), 
+    #mode can be either 1(dm) or 0(dbow), 
     def trainDoc2Vec(self, trainFolders, articleTrainFolder, savePath, mode):
         self.initDoc2VecInput(trainFolders, articleTrainFolder)
 
         iterator = gensimAux.TaggedLineDocument(self.docList, self.docLabels)
         
+        #dbow_words = 1 means the word embeddings will be generated in skip-gram fashion if dbow is used
+        #in dm mode, word vectors are always generated
         self.d2vModel = gensim.models.Doc2Vec(vector_size=vectorSize, dm=mode, window=windowSize, min_count=1, workers=6, dbow_words=1)
         self.d2vModel.build_vocab(iterator)
         print("finished building vocab")
@@ -108,12 +111,8 @@ class doc2VecWrapper():
         return dist
 
 
-    #use the trained word vectors in doc2vec models
-    #to create auxiliary document embeddings 
-    #this outputs embeddings in a list format
-    #WARNING: use only models trained with dm = 1
-    #WARNING: dm = 0, using DBOW model, leaves the word embeddings random
-    #WARNING: training only the document embeddings
+    #takes the document, and averages the word vectors generating a document embedding
+    #personally, I got mixed results using this method and doc2vec seemed more reliable
     def createDocumentEmbeddingW2V(self, text, lemmaDict, stopwords):
         tokens = preprocessText(text, lemmaDict, stopwords)
 
@@ -129,7 +128,6 @@ if __name__ == "__main__":
                     "doc2vec_train_data/txt-par/"]
     trainFolders = ["doc2vec_train_data/txt-par/"]
     articleTrainFolder = "C:/textePublicatii/"
-    testFolder = "testbench/"
 
     #start lemmas & stopwords
     lemmaDict = initLematizer()

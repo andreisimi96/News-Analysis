@@ -6,6 +6,9 @@ from contextlib import contextmanager
 from timeit import default_timer
 import unicodedata
 
+#preprocessing of the documents, nothing fancy
+#consider using the readerbench preprocessing
+
 #mainly used as a normalization method between different publications
 #as some do not use diacritics, applied after text.lower()
 def removeDiacritics(text):

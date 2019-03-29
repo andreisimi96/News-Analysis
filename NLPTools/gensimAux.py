@@ -30,7 +30,7 @@ class TaggedLineDocument(object):
                 yield TaggedDocument(preprocessText(doc, lemmaDict, stopwords), [self.labels_list[idx]])
 
 
-"""LDA part"""
+"""LDA/tfidf part"""
 #iterator for documents
 def iterDocs(path):
     #get directories that contain the articles

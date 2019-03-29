@@ -3,7 +3,7 @@
 import os, errno
 import operator
 import hashlib
-from NLPTools.preprocessing import *
+from preprocessing import *
 from difflib import SequenceMatcher
 
 

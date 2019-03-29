@@ -17,7 +17,7 @@ class tfidfWrapper():
         self.path = path
         
 
-    #trains LDA model and saves it to disk
+    #trains tfidf and saves it to disk
     def trainTfidf(self):
         self.docStream = (tokens for _, tokens in iterDocs(self.path))
         self.corpus = [ self.dictionary.doc2bow(doc) for doc in self.docStream ]
@@ -32,8 +32,6 @@ class tfidfWrapper():
         print(os.getcwd())
         self.tfidfModel = gensim.models.TfidfModel.load('tfidf_model')
 
-    #gets topics from a documents in a file and prints them in a .tpcs extension
-    #skips topics with probability lower than minProbabil
     def getKeywordsForArticle(self, article):
 
         bow = open(article, encoding = "utf8").read()
@@ -61,4 +59,4 @@ if __name__ == "__main__":
     tfidf = tfidfWrapper(path)
     #tfidf.trainTfidf()
     tfidf.loadTfidfModel()
-    tfidf.getKeywordsForArticle("C:/textePublicatii/antena3.ro/0.txt")
+    #tfidf.getKeywordsForArticle("C:/textePublicatii/antena3.ro/0.txt")
