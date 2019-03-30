@@ -7,7 +7,6 @@ from articleWrapper import *
 
 #provides an easy way of iterating through the documents
 #and returning gensim objects
-#WARNING: the articles MUST be pairs of files with .txt and .info extensions
 
 """Doc2Vec part"""
 TaggedDocument = gensim.models.doc2vec.TaggedDocument

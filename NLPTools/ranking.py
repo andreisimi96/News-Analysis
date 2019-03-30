@@ -12,6 +12,7 @@ def compareVectors(vector1, vector2):
     return (1 - cosine(np.asarray(vector1), np.asarray(vector2)))
 
 
+#for Bradley Terry input
 publicationsDict = {
                         "agerpres.ro" : '1',
                         "hotnews.ro" :  '2',
@@ -101,7 +102,6 @@ def compareDocumentsW2V(dmD2VModelPath, similarityOutput):
 
     txtSimilarity.close()
 
-
 #returns no of articles which are unique per publication
 def getMostUniquePublications(modelName, similarityThreshold):
 
@@ -188,11 +188,7 @@ def copyRelevantArticles(relevantArticles):
             copy2(src + ".ent", dest + ".ent")
             copy2(src + ".tpcs", dest + ".tpcs")
 
-#creates Bradley-Terry input, with set date threshold
-#and similarity threshold
-def createBTInput(timeThreshold, similarityThreshold,
-                    similarityFile = 'similarity.txt',
-                    rankingOutput = 'ranking.csv'):
+def createBTInput(timeThreshold, similarityThreshold, similarityFile = 'similarity.txt', rankingOutput = 'ranking.csv'):
     csvOutput = open(rankingOutput,'w', encoding='utf8')
     esDict = createESDict()
 
